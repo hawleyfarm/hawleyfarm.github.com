@@ -1,0 +1,42 @@
+make navbar less than 100% width --> add line(width: 80%;) at line 4178
+move navbar to top --> ?
+make navbar more rounded --> line 4181 of bootstrap.css
+change line 4284 to --> padding: 19.5px 20px;
+
+
+navigation bar:
+About us -> about.html
+Location -> location.html
+Accommodation -> Cider Press/Wagon House (ciderpress.html/wagonhouse.html)
+When and where to visit -> whenandwhere.html
+Reserve your stay -> reserveyourstay.html
+Rate your stay -> rateyourstay.html
+Contact Us -> contactus.html
+Blog -> blog.html
+
+
+Home page:
+
+carousel of:
+ -> Hawley Farm Holiday Lets 100_2257.JPG
+ -> Nestled in the beautiful English countryside, our barn conversion is the
+ perfect choice if you´re looking for a relaxing holiday in East Devon.
+
+ -> Ever stayed on a working farm before? 100_2352.JPG
+ -> Picturesque views of the countryside and plenty of activities to get
+ busy with, farm holiday lets can be a fantastic choice for all of the family.
+
+ -> Ever stayed in rural East Devon before? P1010077.JPG
+ -> Devon is said to be one of the most beautiful counties in the United Kingdom
+ with history, culture and stunning views intertwined. The Jurassic Coast has a
+ great story to tell and the rolling Blackdown Hills are the perfect place to
+ enjoy a picnic on in the warm summer months.
+
+ -> Read what other visitors have said augestciderpress019.jpg
+ -> You can trust us when we say that your holiday will be as good (or better)
+ than you expected by reading what our past visitors have said. Over x% say that
+ would recommend us and y% plan to return in the future.
+
+ -> Have a question? P1010041.JPG
+ -> If you have a questions that this website doesn't answer, then please contact
+ us. We will email or call back with the answer as soon as we can.
