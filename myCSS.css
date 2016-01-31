@@ -1,0 +1,213 @@
+/* Generic Selectors */ 
+
+
+/*
+ * Fonts
+ */
+@font-face { font-family: 'Fontin'; src: url(fonts/Fontin_Sans_R_45b.otf) format('opentype'); }
+@font-face { font-family: 'Fontin'; src: url(fonts/Fontin_Sans_B_45b.otf) format('opentype'); font-weight: bold; }
+@font-face { font-family: 'Fontin-SC'; src: url(fonts/Fontin_Sans_SC_45b.otf) format('opentype'); }
+
+html {
+	height: 100%;
+}
+
+body { 
+    font-family: "Fontin", "Century gothic", "Tw Cen MT", "Trebuchet MS", Calibri, Arial; 
+    font-size: 14px; 
+    color: black; 
+    background-image: url(graphics/bg.png); 
+    background-repeat: repeat-y; repeat; 
+    background-position: center top;
+    position: center;
+	height: 100%;
+} 
+
+p { 
+    width: 560px; 
+    font-family: "Fontin", "Century gothic", "Tw Cen MT", "Trebuchet MS", Calibri, Arial; 
+    font-size: 10px; 
+    color: "black";
+    text-decoration: none;
+    position: center;
+} 
+
+li { 
+    list-style-type: none; 
+    line-height: 150%; 
+    list-style-image: url(../images/arrowSmall.gif); 
+} 
+
+h1 { 
+    font-family: "Fontin", "Century gothic", "Tw Cen MT", "Trebuchet MS", Calibri, Arial; 
+    font-size: 38px; 
+    font-weight: bold; 
+    color: #660000; 
+} 
+
+h2 { 
+    font-family: "Fontin", "Century gothic", "Tw Cen MT", "Trebuchet MS", Calibri, Arial; 
+    font-size: 18px; 
+    font-weight: bold; 
+    color: #003300; 
+} 
+
+h3 { 
+    font-family: "Fontin", "Century gothic", "Tw Cen MT", "Trebuchet MS", Calibri, Arial; 
+    font-size: 18px; 
+    font-weight: bold; 
+    color: #0099FF; 
+} 
+
+h4 { 
+    font-family: "Fontin", "Century gothic", "Tw Cen MT", "Trebuchet MS", Calibri, Arial; 
+    font-size: 14px; 
+    font-weight: bold; 
+    color: #660000; 
+} 
+
+h5 { 
+    font-family: "Fontin", "Century gothic", "Tw Cen MT", "Trebuchet MS", Calibri, Arial; 
+    font-size: 14px; 
+    font-weight: bold; 
+    color: #660000; 
+}
+
+
+h6 { 
+/*    font-family: "Fontin", "Century gothic", "Tw Cen MT", "Trebuchet MS", Calibri, Arial; */
+    width: 90%;
+    font-size: 14px;
+    color: #660000; 
+    text-align:justify;
+}
+
+footer1 { 
+    font-family: "Fontin", "Century gothic", "Tw Cen MT", "Trebuchet MS", Calibri, Arial; 
+    width: 90%;
+    font-size: 12px; 
+    color: #660000; 
+    text-align:center;
+}
+/**************** Pseudo classes ****************/ 
+
+a:link { 
+    color: #00aa00; 
+    text-decoration: none; 
+    font-weight: bold; 
+} 
+
+li :link { 
+    color: #00aa00; 
+    text-decoration: none; 
+    font-weight: bold; 
+} 
+
+a:visited { 
+    color: #00aa00; 
+    text-decoration: none; 
+    font-weight: bold; 
+} 
+
+li a:visited { 
+    color: #00aa00; 
+    text-decoration: none; 
+    font-weight: bold; 
+} 
+
+a:hover { 
+    color: #0000aa; 
+    padding-bottom: 5px; 
+    font-weight: bold; 
+    text-decoration: none; 
+} 
+
+li a:hover { 
+    display: block; 
+    color: #0000aa; 
+    padding-bottom: 5px; 
+    font-weight: bold; 
+    border-bottom-width: 1px; 
+    border-bottom-style: solid; 
+    border-bottom-color: #C6EC8C; 
+} 
+
+a:active { 
+    color: yellow; 
+    font-weight: bold; 
+} 
+
+/************************* ID's *************************/ 
+
+#navigation { 
+    position: absolute;
+    background-image: url(graphics/box.png); 
+    background-repeat: no-repeat; 
+    background-position: left top;
+    width: 215px; 
+    height: 800px; 
+    margin: 0px; 
+    margin-top: -40px; 
+    margin-left: -75px;
+    border-right: 1021:42 10/08/2008px solid #a49087;
+    font-weight: normal; 
+    padding: 100 68 100px 68px; /*top right bottom left*/ 
+} 
+
+
+#logo { 
+    background-image: url(graphics/ban5.png); 
+    background-repeat: no-repeat; 
+    background-position: center top; 
+    padding-top:190px;
+    padding-bottom:10px; 
+    margin-top:0px;
+    margin-bottom:0px; 
+    border-top: 0px solid #a49087;
+} 
+
+#right { 
+    position: absolute;
+    background-image: url(graphics/box.png); 
+    background-repeat: no-repeat; 
+    background-position: left top;
+    width: 215px; 
+    height: 800px; 
+    margin: 0px; 
+    margin-top: -40px;
+    margin-left: 765px;
+    font-weight: normal; 
+    padding: 100 68 100px 68px; /*top right bottom left*/ 
+} 
+
+#centerDoc { 
+    position: absolute; 
+    padding: 20 20 20px 27px; /*top right bottom left*/ 
+    margin-top: 0px; 
+    margin-left: 215px; 
+    width: 574px;
+} 
+
+#wrap {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+    	margin: 0px auto 200px auto;
+    	width: 1004px;
+}
+
+/*
+#footer, #push {
+	height: -200px;
+	text-align: center;
+}
+*/
+
+a img {
+    border: 1px solid #BBB;
+    padding: 2px;
+    margin: 5px 5px 1px 0;
+    vertical-align: top;
+}
+
+

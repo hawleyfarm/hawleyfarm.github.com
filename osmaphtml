@@ -1,0 +1,41 @@
+<script type="text/javascript" src="http://openspace.ordnancesurvey.co.uk/osmapapi/openspace.js?key=89571EB945FF7669E0405F0AC860601C"></script>
+
+<script type="text/javascript">
+var osMap, screenOverlay, mapOV, postcodeService;
+var pos;
+// Variables for markers
+var size,offset,infoWindowAnchor,icon,content,popUpSize;
+
+function initmapbuilder()
+{
+// Creating the Openspace map and the postcode service
+osMap = new OpenSpace.Map('map');
+postcodeService = new OpenSpace.Postcode();
+
+// Adding the map overview
+mapOV = new OpenSpace.Control.OverviewMap();
+osMap.addControl(mapOV);
+//fix to put copyright on top of overview map: Needs api fix for later version
+var ccControl = osMap.getControlsByClass("OpenSpace.Control.CopyrightCollection")
+osMap.removeControl(ccControl[0]);
+ccControl = new OpenSpace.Control.CopyrightCollection();
+osMap.addControl(ccControl);
+ccControl.activate();
+//end of fix
+// Turning the overview map off
+mapOV.minimizeControl();
+
+// Defining the center of the map and the zoom level
+osMap.setCenter(new OpenSpace.MapPoint(323388,100573),9);
+// Defining a marker
+pos = new OpenSpace.MapPoint(323388,100573);
+size = new OpenLayers.Size(30,39);
+offset = new OpenLayers.Pixel(-15,-36);
+infoWindowAnchor = new OpenLayers.Pixel(16,16);
+icon = new OpenSpace.Icon('https://openspace.ordnancesurvey.co.uk/osmapapi/img_versions/img_1.0.1/OS/images/markers/marker-cross-med-red.png', size, offset, null, infoWindowAnchor);
+osMap.createMarker(pos, icon, null, null);
+
+clusterControl = new OpenSpace.Control.ClusterManager();
+osMap.addControl(clusterControl);
+clusterControl.activate();}
+</script>

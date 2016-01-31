@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   width="1206"
+   height="195"
+   sodipodi:docname="ban4.svg"
+   inkscape:export-filename="/home/richard/Dropbox/RP/website/ban5.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient3597">
+      <stop
+         style="stop-color:#e8d04c;stop-opacity:1;"
+         offset="0"
+         id="stop3599" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3601" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective10" />
+    <filter
+       id="filter2985"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-0.25"
+       y="-0.25"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur2987"
+         in="SourceAlpha"
+         stdDeviation="4.000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix2989"
+         result="bluralpha"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.500000 0 " />
+      <feOffset
+         id="feOffset2991"
+         in="bluralpha"
+         dx="0.000000"
+         dy="0.000000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge2993">
+        <feMergeNode
+           id="feMergeNode2995"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode2997"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <inkscape:perspective
+       id="perspective3613"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3597-6"
+       id="linearGradient3603-4"
+       x1="304.83664"
+       y1="233.23615"
+       x2="353.5397"
+       y2="271.06598"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3597-6">
+      <stop
+         style="stop-color:#e8d04c;stop-opacity:1;"
+         offset="0"
+         id="stop3599-6" />
+      <stop
+         style="stop-color:#ffffce;stop-opacity:0.54400003;"
+         offset="1"
+         id="stop3601-0" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective3613-2"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3597-1"
+       id="linearGradient3603-2"
+       x1="304.83664"
+       y1="233.23615"
+       x2="353.5397"
+       y2="271.06598"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3597-1">
+      <stop
+         style="stop-color:#e8d04c;stop-opacity:1;"
+         offset="0"
+         id="stop3599-62" />
+      <stop
+         style="stop-color:#ffffce;stop-opacity:0.54400003;"
+         offset="1"
+         id="stop3601-02" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective3613-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3597-9"
+       id="linearGradient3603-0"
+       x1="304.83664"
+       y1="233.23615"
+       x2="353.5397"
+       y2="271.06598"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3597-9">
+      <stop
+         style="stop-color:#e8d04c;stop-opacity:1;"
+         offset="0"
+         id="stop3599-9" />
+      <stop
+         style="stop-color:#ffffce;stop-opacity:0.54400003;"
+         offset="1"
+         id="stop3601-1" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective3752"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3829"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter3905"
+       inkscape:label="Drop shadow"
+       width="1.5"
+       height="1.5"
+       x="-.25"
+       y="-.25">
+      <feGaussianBlur
+         id="feGaussianBlur3907"
+         in="SourceAlpha"
+         stdDeviation="4.000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix3909"
+         result="bluralpha"
+         type="matrix"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 0.700000 0 " />
+      <feOffset
+         id="feOffset3911"
+         in="bluralpha"
+         dx="0.000000"
+         dy="0.000000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge3913"
+         result="fbSourceGraphic">
+        <feMergeNode
+           id="feMergeNode3915"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode3917"
+           in="SourceGraphic" />
+      </feMerge>
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3919" />
+      <feGaussianBlur
+         id="feGaussianBlur3921"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="4.000000"
+         result="blur" />
+      <feColorMatrix
+         id="feColorMatrix3923"
+         result="bluralpha"
+         type="matrix"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 0.700000 0 " />
+      <feOffset
+         id="feOffset3925"
+         in="bluralpha"
+         dx="0.000000"
+         dy="0.000000"
+         result="offsetBlur" />
+      <feMerge
+         id="feMerge3927">
+        <feMergeNode
+           id="feMergeNode3929"
+           in="offsetBlur" />
+        <feMergeNode
+           id="feMergeNode3931"
+           in="fbSourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="781"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.94105008"
+     inkscape:cx="615.48442"
+     inkscape:cy="83.805123"
+     inkscape:window-x="305"
+     inkscape:window-y="142"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <image
+     xlink:href="file:///home/richard/Dropbox/RP/website/ban4.gif"
+     width="804"
+     height="178"
+     id="image12"
+     x="201"
+     y="8.5"
+     style="filter:url(#filter2985)" />
+  <image
+     y="100.93179"
+     x="928.95007"
+     id="image3831"
+     height="73.015915"
+     width="58.751682"
+     xlink:href="file:///home/richard/aa.png"
+     style="filter:url(#filter3905);opacity:1" />
+</svg>
