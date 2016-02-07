@@ -44,9 +44,8 @@ body {
   margin: auto;
   height: 700px;
   max-width: 1100px;
-  margin-bottom: 60px;
-  /*top: 0;
-  bottom: auto;*/
+  top: 0;
+  bottom: auto;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -58,6 +57,7 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
+  margin-top: 50px;
   height: 700px;
   /*background-color: #777;*/
 }
