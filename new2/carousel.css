@@ -57,7 +57,6 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
-  margin-top: 50px;
   height: 700px;
   /*background-color: #777;*/
 }
