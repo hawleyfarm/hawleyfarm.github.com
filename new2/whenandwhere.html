@@ -22,6 +22,7 @@
 
     <!-- Custom styles for this template -->
     <link href="carousel.css" rel="stylesheet">
+    <link href="../font-awesome-4.5.0/css/font-awesome.css" rel="stylesheet" type="text/css" />
 
     <style>
     .custom-bullet li {
@@ -39,6 +40,11 @@
         margin-left: -17px;
         color: #CCCCCC;
     }
+
+    .social .fa-facebook:hover {
+        color: #4060A5;
+    }
+
     </style>
 
   </head>
@@ -50,7 +56,7 @@
           <div class="container">
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="index.html">Home</a></li>
+                <li><a href="index.html">Home</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Accommodation<span class="caret"></span></a>
                   <ul class="dropdown-menu">
@@ -58,12 +64,24 @@
                     <li><a href="wagonhouse.html">Wagon House</a></li>
                   </ul>
                 </li>
-                <li><a href="whenandwhere.html">When and where to visit</a></li>
+                <li class="active"><a href="whenandwhere.html">When and where to visit</a></li>
                 <li><a href="findus.html">How to find us</a></li>
                 <li><a href="book.html">Book your stay</a></li>
                 <li><a href="guestbook.html">Guestbook</a></li>
                 <li><a href="contact.html">Contact Us</a></li>
               </ul>
+
+              <ul class="nav navbar-nav navbar-right social">
+                  <li><a target="_blank" href="https://www.facebook.com/Hawley-Farm-self-catering-accommodation-234328046697977"><i class="fa fa-facebook-square fa-lg"></i></a></li>
+                  <li class="dropdown">
+                    <a href="#" class="dropdown-toggle fa fa-tripadvisor fa-lg" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                      <li><a target="_blank" href="https://www.tripadvisor.co.uk/VacationRentalReview-g2099835-d7131341-Hawley_Farm_Holiday_cottages_The_Cider_Press-Dalwood_Devon_England.html">Trip Advisor - Cider Press</a></li>
+                      <li><a target="_blank" href="https://www.tripadvisor.co.uk/VacationRentalReview-g2099835-d7182575-Hawley_Farm_Cottages_The_Wagon_House-Dalwood_Devon_England.html">Trip Advisor - Wagon House</a></li>
+                    </ul>
+                  </li>
+              </ul>
+
             </div>
           </div>
         </nav>
