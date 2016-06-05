@@ -18,73 +18,7 @@
     <script src="./bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="./assets/js/custom.js"></script>
 
-  <!-- Add mousewheel plugin (this is optional) -->
-  <script type="text/javascript" src="http://fancyapps.com/fancybox/lib/jquery.mousewheel.pack.js?v=3.1.3"></script>
-
-  <!-- Add fancyBox main JS and CSS files -->
-  <script type="text/javascript" src="http://fancyapps.com/fancybox/source/jquery.fancybox.js?v=2.1.5"></script>
-  <link rel="stylesheet" type="text/css" href="http://fancyapps.com/fancybox/source/jquery.fancybox.css?v=2.1.5" media="screen">
-
-  <!-- Add Button helper (this is optional) -->
-  <link rel="stylesheet" type="text/css" href="http://fancyapps.com/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5">
-  <script type="text/javascript" src="http://fancyapps.com/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
-
-  <!-- Add Thumbnail helper (this is optional) -->
-  <link rel="stylesheet" type="text/css" href="http://fancyapps.com/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7">
-  <script type="text/javascript" src="http://fancyapps.com/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
-
-  <!-- Add Media helper (this is optional) -->
-  <script type="text/javascript" src="http://fancyapps.com/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
-
-  <script type="text/javascript">
-    $(document).ready(function() {
-      $(".fancybox").fancybox({
-          beforeShow : function() {
-              var alt = this.element.find('img').attr('alt');
-              this.inner.find('img').attr('alt', alt);
-              this.title = alt;
-          }
-      });
-      $('.group').fancybox({
-        prevEffect : 'none',
-        nextEffect : 'none',
-
-        closeBtn  : true,
-        arrows    : false,
-        nextClick : true,
-
-        helpers : {
-          thumbs : {
-            width  : 50,
-            height : 50
-          }
-        },
-
-        beforeShow : function() {
-          var alt = this.element.find('img').attr('alt');
-          this.inner.find('img').attr('alt', alt);
-          this.title = alt;
-        }
-      });
-    });
-  </script>
-
-  <style type="text/css">
-    .fancybox-custom .fancybox-skin {
-      box-shadow: 0 0 50px #222;
-    }
-    a img {
-      border: 1px solid #BBB;
-      padding: 2px;
-      margin: 5px 5px 1px 0;
-      vertical-align: top;
-    }
-
-/*    body {
-      max-width: 700px;
-      margin: 0 auto;
-    }
-*/  </style>
+    <link href="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/4.0.1/ekko-lightbox.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="carousel.css" rel="stylesheet">
@@ -113,6 +47,45 @@
 
     </style>
 
+    <style type="text/css">
+        /* i like padding - you can ignore this css. see the actual css / less files in the repository for styling the gallery navigation */
+        div.row > div > div.row {
+          margin-bottom: 15px;n
+        }
+
+        body {
+          padding-bottom: 50px;
+        }
+
+        div.top-header {
+          margin-bottom:100px;
+        }
+
+        h3.page-header {
+          margin-top: 50px;
+        }
+
+        figure {
+          position: relative;
+        }
+
+        figure figcaption {
+          font-size: 22px;
+          color: #fff;
+          text-decoration: none;
+          bottom: 10px;
+          right: 20px;
+          position: absolute;
+          background-color: #000;
+        }
+        code {
+          white-space: pre-wrap;       /* css-3 */
+          white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+          white-space: -pre-wrap;      /* Opera 4-6 */
+          white-space: -o-pre-wrap;    /* Opera 7 */
+          word-wrap: break-word;       /* Internet Explorer 5.5+ */
+        }
+    </style>
   </head>
   <body>
     <div class="navbar-wrapper">
@@ -216,7 +189,7 @@
             <div class="carousel-caption">
               <h1>Outside Area</h1>
               <p>
-                Whether you have children who want to play on the lawn or you want to spend the night gazing at the clear sky and stars, our outside area has plenty of options. Gather the gang together for a summer barbecue or have a hot toddy on the patio in winter. 
+                Whether you have children who want to play on the lawn or you want to spend the night gazing at the clear sky and stars, our outside area has plenty of options. Gather the gang together for a summer barbecue or have a hot toddy on the patio in winter.
               </p>
             </div>
           </div>
@@ -292,19 +265,19 @@
               </div>
               <div class="col-md-3">
                 <h2 class="featurette-heading"><span class="text-muted"></span></h2>
-                <a class="group" data-fancybox-group="group1" href="../images/full/100_2320.JPG"><img alt="Lounge" src="../images/thumbs/100_2320.JPG" /></a>
-                <a class="group" data-fancybox-group="group1" href="../images/full/100_2309.JPG"><img alt="Lounge" src="../images/thumbs/100_2309.JPG" /></a>
-                <a class="group" data-fancybox-group="group1" href="../images/full/100_2306.JPG"><img alt="Dining area" src="../images/thumbs/100_2306.JPG" /></a>
-                <a class="group" data-fancybox-group="group1" href="../images/full/P1010025.JPG"><img alt="Kitchen" src="../images/thumbs/P1010025.JPG" /></a>
-                <a class="group" data-fancybox-group="group1" href="../images/full/P1010026.JPG"><img alt="Dining area" src="../images/thumbs/P1010026.JPG" /></a>
-                <a class="group" data-fancybox-group="group1" href="../images/full/P1010031.JPG"><img alt="Utilities room" src="../images/thumbs/P1010031.JPG" /></a>
-                <a class="group" data-fancybox-group="group1" href="../images/full/P1010034.JPG"><img alt="Master Bedroom" src="../images/thumbs/P1010034.JPG" /></a>
-                <a class="group" data-fancybox-group="group1" href="../images/full/100_2340.JPG"><img alt="Wet Room" src="../images/thumbs/100_2340.JPG" /></a>
-                <a class="group" data-fancybox-group="group1" href="../images/full/P1010046.JPG"><img alt="Bedroom Two" src="../images/thumbs/P1010046.JPG" /></a>
-                <a class="group" data-fancybox-group="group1" href="../images/full/P1010043.JPG"><img alt="Bedroom Three" src="../images/thumbs/P1010043.JPG" /></a>
-                <a class="group" data-fancybox-group="group1" href="../images/full/P1010052.JPG"><img alt="Downstairs hall" src="../images/thumbs/P1010052.JPG" /></a>
-                <a class="group" data-fancybox-group="group1" href="../images/full/cider3.JPG"><img alt="Area outside Cider Press" src="../images/thumbs/cider3.JPG" /></a>
-                <a class="group" data-fancybox-group="group1" href="../images/full/cider4.JPG"><img alt="View from Cider Press" src="../images/thumbs/cider4.JPG" /></a>
+                <a href="../images/full/100_2320.JPG" data-title="Lounge"                   data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/100_2320.JPG" class="img-responsive"></a>
+                <a href="../images/full/100_2309.JPG" data-title="Lounge"                   data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/100_2309.JPG" class="img-responsive"></a>
+                <a href="../images/full/100_2306.JPG" data-title="Dining area"              data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/100_2306.JPG" class="img-responsive"></a>
+                <a href="../images/full/P1010025.JPG" data-title="Kitchen"                  data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/P1010025.JPG" class="img-responsive"></a>
+                <a href="../images/full/P1010026.JPG" data-title="Dining area"              data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/P1010026.JPG" class="img-responsive"></a>
+                <a href="../images/full/P1010031.JPG" data-title="Utilities room"           data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/P1010031.JPG" class="img-responsive"></a>
+                <a href="../images/full/P1010034.JPG" data-title="Master Bedroom"           data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/P1010034.JPG" class="img-responsive"></a>
+                <a href="../images/full/100_2340.JPG" data-title="Wet Room"                 data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/100_2340.JPG" class="img-responsive"></a>
+                <a href="../images/full/P1010046.JPG" data-title="Bedroom Two"              data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/P1010046.JPG" class="img-responsive"></a>
+                <a href="../images/full/P1010043.JPG" data-title="Bedroom Three"            data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/P1010043.JPG" class="img-responsive"></a>
+                <a href="../images/full/P1010052.JPG" data-title="Downstairs hall"          data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/P1010052.JPG" class="img-responsive"></a>
+                <a href="../images/full/cider3.JPG"   data-title="Area outside Cider Press" data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/cider3.JPG"   class="img-responsive"></a>
+                <a href="../images/full/cider4.JPG"   data-title="View from Cider Press"    data-toggle="lightbox" data-gallery="multiimages"><img src="../images/thumbs/cider4.JPG"   class="img-responsive"></a>
               </div>
             </div>
 
@@ -326,6 +299,64 @@
           </div>
         </div>
       </footer>
+
+      <!-- <script src="//code.jquery.com/jquery.js"></script>
+  		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script> -->
+  		<script src="http://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/4.0.1/ekko-lightbox.min.js"></script>
+  		<script type="text/javascript">
+  			$(document).ready(function ($) {
+
+  				// delegate calls to data-toggle="lightbox"
+  				$(document).delegate('*[data-toggle="lightbox"]:not([data-gallery="navigateTo"])', 'click', function(event) {
+  					event.preventDefault();
+  					return $(this).ekkoLightbox({
+  						onShown: function() {
+  							if (window.console) {
+  								return console.log('onShown event fired');
+  							}
+  						},
+  						onContentLoaded: function() {
+  							if (window.console) {
+  								return console.log('onContentLoaded event fired');
+  							}
+  						},
+  						onNavigate: function(direction, itemIndex) {
+  							if (window.console) {
+  								return console.log('Navigating '+direction+'. Current item: '+itemIndex);
+  							}
+  						}
+  					});
+  				});
+
+  				//Programatically call
+  				$('#open-image').click(function (e) {
+  					e.preventDefault();
+  					$(this).ekkoLightbox();
+  				});
+  				$('#open-youtube').click(function (e) {
+  					e.preventDefault();
+  					$(this).ekkoLightbox();
+  				});
+
+  				$(document).delegate('*[data-gallery="navigateTo"]', 'click', function(event) {
+  					event.preventDefault();
+  					return $(this).ekkoLightbox({
+  						onShown: function() {
+  							var lb = this;
+  							$(lb.modal_content).on('click', '.modal-footer a#jumpit', function(e) {
+  								e.preventDefault();
+  								lb.navigateTo(2);
+  							});
+  							$(lb.modal_content).on('click', '.modal-footer a#closeit', function(e) {
+  								e.preventDefault();
+  								lb.close();
+  							});
+  						}
+  					});
+  				});
+
+  			});
+  		</script>
 
   </body>
 </html>
