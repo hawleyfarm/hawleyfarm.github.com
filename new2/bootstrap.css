@@ -1120,7 +1120,7 @@ figure {
 img {
   vertical-align: middle;
 }
-.img-fluid,
+.img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
 .carousel-inner > .item > img,
