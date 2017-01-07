@@ -6545,10 +6545,10 @@ button.close {
 .hidden {
   display: none !important;
 }
-.affix {
-  width:  inherit;
-  position: fixed;
-}
+/*.affix {*/
+/*  width:  inherit;*/
+/*  position: fixed;*/
+/*}*/
 @-ms-viewport {
   width: device-width;
 }
