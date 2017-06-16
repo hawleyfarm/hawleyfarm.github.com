@@ -8,3 +8,14 @@ change line 4284 to --> padding: 19.5px 20px;
 - > Will also need to review the google adwords setup again (I might pay someone a little bit for this as it's not I'm very experienced in)
 - Check that everything is working correctly for mobile, tablet, computer
 
+Photos 17MAR17
+D crop new_2017/20170118_105406.jpg, ensure that pylon is missing. Replace full/bb24913_crop.jpg
+D replace full/P1010087_crop.JPG with new_2017/wagon_house_blue_sky.jpg (in both index and wagon house)
+D replace full/100_2257.JPG with new_2017/20170118_111612.jpg
+D reduce size of new_2017/lymeregisbeachandhabour.JPG
+D replace full/P1010041.JPG with full/000_0075.JPG
+D replace full/1002215.JPG with full/augestciderpress027.jpg
+D change background to #ffffe6 in bootstrap.css:1088
+D replace "Ever stayed in rural East Devon before?" with "Stay in rural East Devon"
+
+
