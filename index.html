@@ -9,6 +9,9 @@
 
   <link rel="stylesheet" href="./bootstrap.css" media="screen">
   <link rel="stylesheet" href="./assets/css/custom.min.css">
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js'></script>
+  <script type='text/javascript' src='https://jlord.us/sheetsee.js/js/sheetsee.js'></script>
+  <link rel='stylesheet' type='text/css' href='tablestyle.css'>
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
       <script src="./bower_components/html5shiv/dist/html5shiv.js"></script>
@@ -70,7 +73,7 @@
             </ul>
 
             <ul class="nav navbar-nav navbar-right social">
-              <li><img border="0" src="./images/new_2017/AA-Four-Stars.jpg" alt="" width="30px" vspace="10px" hspace="20px"></li>
+              <li><img border="0" src="./images/new_2018/AA-Four-Stars.jpg" alt="" width="30px" vspace="10px" hspace="20px"></li>
               <!--<li><a href="http://www.theaa.com/self-catering/axminster-hawley-farm-holiday-lets-1882502"><img border="0" src="./images/new_2017/AA-Four-Stars.jpg" alt="" width="30px" vspace="10px" hspace="20px"></a></li>-->
               <!--<li><a target="_blank" href="http://www.theaa.com/self-catering/axminster-hawley-farm-holiday-lets-1882502"><img src="./images/new_2017/AA-Four-Stars.jpg" alt="" width="30px"></a></li>-->
               <li><a target="_blank" href="https://www.facebook.com/Hawley-Farm-self-catering-accommodation-234328046697977"><i class="fa fa-facebook-square fa-lg"></i></a></li>
@@ -149,7 +152,7 @@
         </div>
       </div>
       <div class="item">
-        <img class="fifth-slide" src="./images/full/000_0075.JPG" alt="Third slide">
+        <img class="fifth-slide" src="./images/new_2018/deer_in_garden.jpg" alt="Third slide">
         <div class="container">
           <div class="carousel-caption">
             <h1>Have a question?</h1>
@@ -184,14 +187,17 @@
 
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading"><span class="text-muted">Welcome to Hawley Farm</span> <img src="./images/new_2017/AA-Four-Stars.jpg" alt="" width="50px"></h2>
+        <h2 class="featurette-heading"><span class="text-muted">Welcome to Hawley Farm</span> <img src="./images/new_2018/AA-Four-Stars.jpg" alt="" width="50px"></h2>
         <p class="lead">
           Nestled in the beautiful English countryside, our barn conversion is the perfect choice if you´re looking for relaxing farm holidays in East Devon. With picturesque views of the countryside and plenty of places of interest to visit in the local area. Farm lets can be a
           fantastic choice for all of the family.
         </p>
       </div>
       <div class="col-md-5">
-        <img class="featurette-image img-fluid center-block" src="./images/new_2017/20170118_105406_crop.jpg" alt="" width="100%">
+        <br>
+        <br>
+        <br>
+        <img class="featurette-image img-fluid center-block" src="./images/full/000_0075.JPG" alt="" width="100%">
       </div>
     </div>
 
@@ -201,7 +207,7 @@
       <div class="col-md-7 col-md-push-5">
         <h2 class="featurette-heading"><span class="text-muted">A holiday with farm experience</span></h2>
         <p class="lead">
-          If you´ve never considered a farm holiday, let us give you an idea of what to expect. Scattered on our fields are our cows, young stock and sheep; if you are interested to see the milking and see the animals at close hand, we can arrange a guided farm tour for you. You can also meander through the Blackdown Hills
+          If you've never considered a farm holiday, let us give you an idea of what to expect. Scattered on our fields are our cows, young stock and sheep; if you are interested to see the milking and see the animals at close hand, we can arrange a guided farm tour for you. You can also meander through the Blackdown Hills
           where you can spot all sorts of wildlife, there are many footpaths right from your door. Visit one of the many historical and cultural sights of East Devon or stay on the farm where you can learn all about our dairy, milk and beef farming over a cake and a cup of tea.
         </p>
       </div>
@@ -238,10 +244,62 @@
     <hr class="featurette-divider">
 
 
-
     <div id="bookingiframe" class="container">
-      <iframe id="bookingiframe" src="https://www.devonfarms.co.uk/accommodation-availability.php?farmid=272&refer=farmwebsite" width="100%" height="850px" frameborder="0" scrolling="yes" style="border:0"></iframe>
+      <iframe id="bookingiframe" src="https://www.devonfarms.co.uk/accommodation-availability.php?farmid=272&refer=farmwebsite" width="100%" height="650px" frameborder="0" scrolling="yes" style="border:0" allowtransparency="true" style="background: #ffffe6;"></iframe>
     </div>
+
+    <div class="row featurette">
+      <div class="col-md-2">
+      </div>
+      <div class="col-md-9">
+        <h1>Prices</h1>
+        <p><em><a href="https://docs.google.com/a/github.com/spreadsheet/ccc?key=1Nb2hv3d9lIw80lVrp5ztlP-z8xDunlPizyjn2KCDXJQ&usp=drive_web#gid=0" target="_blank"></a></em><p>
+        <div id="fullTable">Loading...</div>
+      </div>
+      <div class="col-md-3">
+      </div>
+    </div>
+
+    <script id="fullTable_template" type="text/html">
+      <table>
+        <tr>
+            <th class="tHeader">Year</th>
+            <th class="tHeader">From</th>
+            <th class="tHeader">To</th>
+            <th class="tHeader">Cider Press</th>
+            <th class="tHeader">Wagon House</th>
+            <th class="tHeader">Stables</th>
+        </tr>
+          {{#rows}}
+            <tr>
+                <td>{{Year}}</td>
+                <td>{{From}}</td>
+                <td>{{To}}</td>
+                <td>{{Cider Press}}</td>
+                <td>{{Wagon House}}</td>
+                <td>{{Stables}}</td>
+            </tr>
+          {{/rows}}
+      </table>
+    </script>
+
+    <script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', function() {
+        var URL = "1Nb2hv3d9lIw80lVrp5ztlP-z8xDunlPizyjn2KCDXJQ"
+        Tabletop.init({key: URL, callback: showInfo, simpleSheet: true})
+      })
+
+      function showInfo (data) {
+        var tableOptions = {
+          "data": data,
+          "pagination": 20,
+          "tableDiv": "#fullTable"
+        }
+        Sheetsee.makeTable(tableOptions)
+        Sheetsee.initiateTableFilter(tableOptions)
+      }
+    </script>
+
 
     <!-- /END THE FEATURETTES -->
 
@@ -258,7 +316,7 @@
             <li><a href="whenandwhere.html">When and Where</a></li>
             <li><a href="findus.html">Find us</a></li>
             <li><a href="book.html">Book</a></li>
-            <li><a href="guestbook.html">Guest Book</a></li>
+            <li><a href="guestbook.html">Reviews</a></li>
             <li><a href="contact.html">Contact</a></li>
           </ul>
         </div>

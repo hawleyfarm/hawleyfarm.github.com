@@ -1,0 +1,29 @@
+
+table {border-spacing: 0;}
+tbody tr:nth-child(odd) {background-color: #f3f3f3;}
+thead {text-align: left; font-family: Source Sans Pro, Arial, sans-serif;}
+td {min-width: 125px; vertical-align: top; padding: 8px;}
+td a {line-height: 24px;}
+tr {height: 50px;}
+
+.half {max-width: 50%; display: inline-block; vertical-align: top;}
+.half:nth-child(odd) {padding-left: 20px;}
+
+img[alt=sheetseeimg] {
+  width: 400px;
+}
+
+.index p:first-of-type {
+  text-align: center;
+}
+
+/* older css */
+
+body.index p:nth-of-type(2) {font-size: 30px;}
+body.index table {border: 4px solid #CCF4FF; padding: 18px;}
+
+.hljs {background: #F8F8F8; color: #494949; line-height: 1.4em;}
+
+/* Table */
+.ssExample table {min-width: 500px;}
+/*.tHeader::after {content: " \2193 \2191 "; font-size: 10px; padding-left: 3px; cursor: pointer;}*/
