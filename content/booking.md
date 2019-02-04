@@ -1,5 +1,5 @@
 +++
-title= "Booking"
+title= "Availability and Booking"
 date= 2019-01-31T17:24:54+07:00
 tags = []
 showTitle = "false"

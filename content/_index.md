@@ -1,5 +1,5 @@
 +++
-title = "Homepage"
+title = "Home"
 date = 2019-01-31T12:45:39+07:00
 tags = []
 showTitle = "false"

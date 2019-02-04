@@ -71,6 +71,11 @@ figure.image-fluid {
   display: inline-block;
   margin: 15px 0; }
 
+.go-top {
+  position: fixed;
+  bottom: 10px;
+  right: 15px; }
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 /* Carousel base class */

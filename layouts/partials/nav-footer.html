@@ -1,0 +1,19 @@
+<ul class="list-unstyled">
+
+
+  {{ $currentPage := . }}
+
+  {{ range .Site.Menus.main }}
+
+      {{ if .HasChildren }}
+
+      {{range .Children}}
+      <li class=""><a href="{{.URL}}">{{.Name}}</a></li>
+      {{end}}
+
+      {{ else }}
+        <li class=""><a href="{{.URL}}">{{.Name}}</a></li>
+      {{end}}
+
+    {{end}}
+</ul>

@@ -1,5 +1,5 @@
 +++
-title= "Camping"
+title= "Caravaning and camping"
 date= 2019-01-31T19:06:49+07:00
 tags = []
 showTitle = "true"

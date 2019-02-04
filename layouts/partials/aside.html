@@ -29,7 +29,7 @@
                   {{ if or $isMenu (eq $currentPage.Title .Name) }}
                     {{ $active = "active" }}
                   {{ end }}
-                {{ end }}
+                {{ end }}  
                 <li class="dropdown {{$active}}">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> {{.Name}} <span class="caret"></span></a>
                   <ul class="dropdown-menu">
