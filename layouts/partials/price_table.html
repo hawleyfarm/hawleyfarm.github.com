@@ -1,0 +1,53 @@
+<div class="row featurette">
+  <div class="col-md-2">
+  </div>
+  <div class="col-md-9">
+    <h1>Prices</h1>
+    <p><em><a href="https://docs.google.com/a/github.com/spreadsheet/ccc?key=1Nb2hv3d9lIw80lVrp5ztlP-z8xDunlPizyjn2KCDXJQ&usp=drive_web#gid=0" target="_blank"></a></em><p>
+    <div id="fullTable">Loading...</div>
+  </div>
+  <div class="col-md-3">
+  </div>
+</div>
+
+<script id="fullTable_template" type="text/html">
+  <table>
+    <tr>
+        <th class="tHeader">Year</th>
+        <th class="tHeader">From</th>
+        <th class="tHeader">To</th>
+        <th class="tHeader">Cider Press</th>
+        <th class="tHeader">Wagon House</th>
+        <th class="tHeader">Stables</th>
+    </tr>
+
+
+      {{"{{#rows}}"}}
+        <tr>
+            <td>{{"{{Year}}"}}</td>
+            <td>{{"{{From}}"}}</td>
+            <td>{{"{{To}}"}}</td>
+            <td>{{"{{Cider Press}}"}}</td>
+            <td>{{"{{Wagon House}}"}}</td>
+            <td>{{"{{Stables}}"}}</td>
+        </tr>
+      {{"{{/rows}}"}}
+  </table>
+</script>
+
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+    var URL = "1Nb2hv3d9lIw80lVrp5ztlP-z8xDunlPizyjn2KCDXJQ"
+    Tabletop.init({key: URL, callback: showInfo, simpleSheet: true})
+  })
+
+  function showInfo (data) {
+    var tableOptions = {
+      "data": data,
+      "pagination": 20,
+      "tableDiv": "#fullTable"
+    }
+    Sheetsee.makeTable(tableOptions)
+    Sheetsee.initiateTableFilter(tableOptions)
+  }
+</script>

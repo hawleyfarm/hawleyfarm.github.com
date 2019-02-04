@@ -1,0 +1,18 @@
+<!------- CAROUSEL -------->
+
+  {{ with .Params.carousel }}
+  {{ partial "carousel/carousel-wrapper-header.html" (dict "id" "myCarousel" "interval" "6000" "numBullets" (len .) ) }}
+
+  <!------- ITEMS -------->
+
+    {{range .}}
+      {{ partial "carousel/carousel-item.html" (dict "isActive" .active ".Class" "first-slide" "title" .title "description" .text "image" .imageCarousel) }}
+    {{ end }}
+
+  <!--- END ITEMS --->
+
+  {{ partial "carousel/carousel-wrapper-footer.html" . }}
+
+  {{end}}
+
+<!------- CAROUSEL END -------->

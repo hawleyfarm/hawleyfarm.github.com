@@ -1,0 +1,13 @@
+<!------- CAROUSEL -------->
+    {{ partial "carousel/carousel-wrapper-header.html" (dict "id" "myCarousel" "interval" "6000" "numBullets" "5") }}
+
+    <!------- ITEMS -------->
+      {{ range $.Site.Data.carousels.carousel_home }}
+        {{ partial "carousel/carousel-item.html" (dict "isActive" .Active .Class "first-slide" "title" .Title "description" .Description "image" .Image) }}
+      {{end}}
+
+    <!--- END ITEMS --->
+
+    {{ partial "carousel/carousel-wrapper-footer.html" . }}
+
+<!------- CAROUSEL END -------->

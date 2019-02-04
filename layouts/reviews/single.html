@@ -1,0 +1,82 @@
+{{ define "main" }}
+
+{{ with .Params.carousel }}
+{{ partial "carousel/carousel-wrapper-header.html" (dict "id" "myCarousel" "interval" "6000" "numBullets" (len .) ) }}
+
+<!------- ITEMS -------->
+  {{range .}}
+    {{ partial "carousel/carousel-item.html" (dict "isActive" .active ".Class" "first-slide" "title" .title "description" .text "image" .imageCarousel) }}
+  {{ end }}
+<!--- END ITEMS --->
+
+{{ partial "carousel/carousel-wrapper-footer.html" . }}
+
+{{ end }}
+  {{ if eq .Params.showTitle "true" }}
+    <h2 class="featurette-heading">{{ .Title }}</h2>
+  {{end}}
+
+  <div class="row content">
+    <div class="col-md-3">
+      <div id="TA_selfserveprop110" class="TA_selfserveprop">
+        <ul id="lUrHb9LQPk" class="TA_links Cik9wM">
+          <li id="KZUWU4aPSo" class="ct4Kgr"><a target="_blank" href="https://www.tripadvisor.co.uk/"><img src="https://www.tripadvisor.co.uk/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/></a></li>
+        </ul>
+      </div>
+      <script async src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=110&amp;locationId=7131341&amp;lang=en_UK&amp;rating=true&amp;nreviews=5&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=false&amp;border=true&amp;display_version=2">
+      </script>
+
+      <div id="TA_selfserveprop111" class="TA_selfserveprop">
+        <ul id="lUrHb9LQPk" class="TA_links Cik9wM">
+          <li id="KZUWU4aPSo" class="ct4Kgr"><a target="_blank" href="https://www.tripadvisor.co.uk/"><img src="https://www.tripadvisor.co.uk/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/></a></li>
+        </ul>
+      </div>
+      <script async src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=111&amp;locationId=7182575&amp;lang=en_UK&amp;rating=true&amp;nreviews=5&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=false&amp;border=true&amp;display_version=2">
+      </script>
+    </div>
+    <div class="col-md-6">
+      <p>{{ .Content }}</p>
+    </div>
+    <div class="col-md-3 gallery">
+      {{ with .Params.gallery }}
+
+        {{range .}}
+        {{ partial "gallery/gallery-item.html" (dict "title" .title  "image" .image "thumb" .thumb) }}
+        {{end}}
+
+      {{end}}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-6">
+      {{partial "info/guestbook.html"}}
+    </div>
+    <div class="col-md-6">
+      <div class="fb-comments" data-href="http://www.hawleyfarm.co.uk" data-width="550" data-numposts="5"></div>
+    </div>
+  </div>
+
+  <div class="row">
+
+    <div class="col-md-12">
+    <iframe width="100%" height="1000" src="https://www.booking.com/reviews/gb/hotel/hawley-farm.en-gb.html?aid=1136575&sid=0710555a17056cc40edbbb293b57d8c9&r_lang=en&customer_type=total&order=score_desc" frameborder="0"></iframe>
+    </div>
+
+  </div>
+
+  <div id="fb-root"></div>
+  <script>
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+
+
+{{ end }}

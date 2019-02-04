@@ -1,0 +1,120 @@
+body {
+  font-family: "Lato", "Helvetica Neue", sans-serif;
+  font-size: 15px;
+  line-height: 1.42;
+  color: $bodyTextColor;
+  background-color: $bodyBackground;
+  padding-bottom: 10px;
+
+  a {
+    color: $greenAccent;
+    text-decoration: none;
+    &:hover {
+      color: darken($greenAccent,10%);
+    }
+  }
+
+  h2.featurette-heading, h2, .content h2 {
+    color: $headingGrey;
+  }
+  h2.featurette-heading {
+    text-align: left;
+  }
+
+  h2.title {
+    text-align: center
+  }
+  h2.featurette-heading, .content h2 {
+    @media (min-width: 768px) {
+      font-size: 50px;
+    }
+
+  }
+
+
+  .content {
+    margin: 20px 0;
+  }
+
+  iframe {
+    margin-top: 20px;
+  }
+}
+
+.bookingiframe {
+  overflow: hidden;
+}
+
+.navbar-wrapper {
+
+  .navbar-inverse {
+    background: $greenAccent;
+    border-color: darken($greenAccent, 5%);
+    margin-bottom: 0;
+
+    .navbar-nav {
+
+      li a {
+        color: white;
+        line-height: 30px;
+      }
+      .active, .open {
+        > a {
+          background-color: darken($greenAccent, 5%);
+       }
+      }
+
+      .dropdown-menu {
+        li a {
+          color: $bodyTextColor;
+          &:hover {
+            color: #ffffff;
+            background-color: $darkBlue;
+          }
+        }
+      }
+    }
+
+
+    .badge-aa {
+      margin: 10px;
+      img {
+        width : 30px;
+        display: inline;
+        border: 0;
+      }
+    }
+    .social .fa-facebook:hover {
+      color: #4060A5;
+    }
+  }
+
+
+}
+
+.ekko-lightbox-nav-overlay {
+  a {
+    line-height: 400px;
+    color: white !important;
+  }
+}
+
+footer {
+  margin-top: 50px;
+  li {
+    display: inline-block;
+    margin-right: 1.5em;
+    margin-bottom: 1.5em;
+  }
+}
+
+blockquote {
+    font-size: 12px;
+}
+
+figure.image-fluid {
+
+  display: inline-block;
+  margin: 15px 0;
+
+}

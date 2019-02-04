@@ -1,0 +1,10 @@
+<div id="{{.id}}" class="carousel slide" data-ride="carousel" data-interval="{{.interval}}">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    {{ $bullets :=  int (.numBullets) }}
+    {{ range $index, $num := (seq $bullets ) }}
+    <li data-target="#myCarousel" class="n {{cond (eq ($index) 0) "active" ""}}" data-slide-to="{{$index}}"></li>
+    {{ end }}
+
+  </ol>
+  <div class="carousel-inner" role="listbox">

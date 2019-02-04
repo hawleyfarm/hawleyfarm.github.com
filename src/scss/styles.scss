@@ -1,0 +1,16 @@
+$greenAccent: #18bc9c;
+$darkBlue: #2c3e50;
+$bodyTextColor: #5a5a5a;
+$bodyBackground:  #ffffe6;
+$headingGrey: #b4bcc2;
+ 
+* {
+  box-sizing: border-box;
+}
+
+
+@import 'general';
+@import 'carousel';
+@import 'marketing_index';
+@import 'featurettes';
+@import 'table';
