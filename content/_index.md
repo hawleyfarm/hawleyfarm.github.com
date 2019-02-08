@@ -1,58 +1,47 @@
 +++
-title = "Home"
-date = 2019-01-31T12:45:39+07:00
-tags = []
+date = "2019-01-31T12:45:39.000+07:00"
 showTitle = "false"
-
-
+tags = []
+title = "Home"
 [[carousel]]
-"title"= "Hawley Farm Holiday Lets"
-"text"= "Nestled in the beautiful English countryside, our barn conversion is the perfect choice if you´re looking for a relaxing holiday in East Devon."
-"imageCarousel"= "/images/photos/20180420_121256-EFFECTS_squash.jpg"
-"Class"= "first-slide"
-"active"= "active"
-
+Class = "first-slide"
+active = "active"
+imageCarousel = "/images/photos/20180420_121256-EFFECTS_squash.jpg"
+text = "Nestled in the beautiful English countryside, our barn conversion is the perfect choice if you´re looking for a relaxing holiday in East Devon."
+title = "Hawley Farm Holiday Lets"
 [[carousel]]
-"title"= "Ever stayed on a working farm before?"
-"text"= "Picturesque views of the countryside and plenty of interest for all ages in the area, farm holiday lets can be a fantastic choice for all of the family."
-"imageCarousel"= "/images/photos/100_2352.JPG"
-"Class"= "second-slide"
-
+Class = "second-slide"
+imageCarousel = "/images/photos/100_2352.JPG"
+text = "Picturesque views of the countryside and plenty of interest for all ages in the area, farm holiday lets can be a fantastic choice for all of the family."
+title = "Ever stayed on a working farm before?"
 [[carousel]]
-
-
-"title"= "Stay in rural East Devon"
-"text"= "Devon is said to be one of the most beautiful counties in the United Kingdom with history, culture and stunning views intertwined. The Jurassic Coast has a great story to tell and the rolling Blackdown Hills are the perfect place to enjoy a picnic on in the warm summer months."
-"imageCarousel"= "/images/photos/P1010077.JPG"
-"Class"= "third-slide"
-
+Class = "third-slide"
+imageCarousel = "/images/photos/P1010077.JPG"
+text = "Devon is said to be one of the most beautiful counties in the United Kingdom with history, culture and stunning views intertwined. The Jurassic Coast has a great story to tell and the rolling Blackdown Hills are the perfect place to enjoy a picnic on in the warm summer months."
+title = "Stay in rural East Devon"
 [[carousel]]
-
-"title"= "The Jurassic Coast"
-"text"= "We are very lucky to be within easy reach of the coast, after a short drive you will have a fantastic choice of beaches to choose from; Lyme Regis, Sidmouth, Charmouth, Seatown, Branscombe, Seaton and Beer all make a lovely days out. Finding fossils, swimming, building sand castles, fishing, coastal path walking and much more."
-"imageCarousel"= "/images/photos/lymeregisbeachandhabour.JPG"
-"Class"= "fourth-slide"
-
+Class = "fourth-slide"
+imageCarousel = "/images/photos/lymeregisbeachandhabour.JPG"
+text = "We are very lucky to be within easy reach of the coast, after a short drive you will have a fantastic choice of beaches to choose from; Lyme Regis, Sidmouth, Charmouth, Seatown, Branscombe, Seaton and Beer all make a lovely days out. Finding fossils, swimming, building sand castles, fishing, coastal path walking and much more."
+title = "The Jurassic Coast"
 [[carousel]]
-"title"= "Have a question?"
-"text"= "If you have a questions that this website doesn't answer, then please contact us. We will email or call back with the answer as soon as we can."
-"imageCarousel"= "/images/photos/deer_in_garden.jpg"
-"Class"= "fifth-slide"
-
+Class = "fifth-slide"
+imageCarousel = "/images/photos/deer_in_garden.jpg"
+text = "If you have a questions that this website doesn't answer, then please contact us. We will email or call back with the answer as soon as we can."
+title = "Have a question?"
 [[featurette]]
-title="Welcome to Hawley Farm"
-text="Nestled in the beautiful English countryside, our barn conversion is the perfect choice if you´re looking for relaxing farm holidays in East Devon. With picturesque views of the countryside and plenty of places of interest to visit in the local area. Farm lets can be a fantastic choice for all of the family."
-image = "/images/photos/000_0075.jpg"
 extraImage = "/images/badges/AA-Four-Stars.jpg"
-
+image = "/images/photos/000_0075.jpg"
+text = "Nestled in the beautiful English countryside, our barn conversion is the perfect choice if you´re looking for relaxing farm holidays in East Devon. With picturesque views of the countryside and plenty of places of interest to visit in the local area. Farm lets can be a fantastic choice for all of the family."
+title = "Welcome to Hawley Farm*"
 [[featurette]]
-title="A holiday with farm experience"
-text="If you've never considered a farm holiday, let us give you an idea of what to expect. Scattered on our fields are our cows, young stock and sheep; if you are interested to see the milking and see the animals at close hand, we can arrange a guided farm tour for you. You can also meander through the Blackdown Hills where you can spot all sorts of wildlife, there are many footpaths right from your door. Visit one of the many historical and cultural sights of East Devon or stay on the farm where you can learn all about our dairy, milk and beef farming over a cake and a cup of tea."
 image = "/images/photos/1002196_crop.JPG"
 invert = "true"
-
+text = "If you've never considered a farm holiday, let us give you an idea of what to expect. Scattered on our fields are our cows, young stock and sheep; if you are interested to see the milking and see the animals at close hand, we can arrange a guided farm tour for you. You can also meander through the Blackdown Hills where you can spot all sorts of wildlife, there are many footpaths right from your door. Visit one of the many historical and cultural sights of East Devon or stay on the farm where you can learn all about our dairy, milk and beef farming over a cake and a cup of tea."
+title = "A holiday with farm experience"
 [[featurette]]
-title="Luxury living"
-text="Our newly renovated farm lets mean you can go back to nature without abandoning your home comforts. Catering for 4-6 people, we are an ideal family destination, but can also be a tranquil getaway for groups, friends and colleagues. Please browse our website for more information and we look forward to greeting you at Hawley Farm soon! Graham and Pamela. P.S. see 3D tours of the [Cider Press](https://my.matterport.com/show/?m=PFyRT2X5moe) and the [Wagon House](https://my.matterport.com/show/?m=PsNbMG1tgPD)"
 image = "/images/photos/wagon_house_blue_sky.jpg"
+text = "Our newly renovated farm lets mean you can go back to nature without abandoning your home comforts. Catering for 4-6 people, we are an ideal family destination, but can also be a tranquil getaway for groups, friends and colleagues. Please browse our website for more information and we look forward to greeting you at Hawley Farm soon! Graham and Pamela. P.S. see 3D tours of the [Cider Press](https://my.matterport.com/show/?m=PFyRT2X5moe) and the [Wagon House](https://my.matterport.com/show/?m=PsNbMG1tgPD)"
+title = "Luxury living"
+
 +++
