@@ -34,15 +34,25 @@ showTitle = "false"
 "Class"= "fourth-slide"
 
 [[carousel]]
-
 "title"= "Have a question?"
 "text"= "If you have a questions that this website doesn't answer, then please contact us. We will email or call back with the answer as soon as we can."
 "imageCarousel"= "/images/photos/deer_in_garden.jpg"
 "Class"= "fifth-slide"
 
+[[featurette]]
+title="Welcome to Hawley Farm"
+text="Nestled in the beautiful English countryside, our barn conversion is the perfect choice if you´re looking for relaxing farm holidays in East Devon. With picturesque views of the countryside and plenty of places of interest to visit in the local area. Farm lets can be a fantastic choice for all of the family."
+image = "/images/photos/000_0075.jpg"
+extraImage = "/images/badges/AA-Four-Stars.jpg"
 
+[[featurette]]
+title="A holiday with farm experience"
+text="If you've never considered a farm holiday, let us give you an idea of what to expect. Scattered on our fields are our cows, young stock and sheep; if you are interested to see the milking and see the animals at close hand, we can arrange a guided farm tour for you. You can also meander through the Blackdown Hills where you can spot all sorts of wildlife, there are many footpaths right from your door. Visit one of the many historical and cultural sights of East Devon or stay on the farm where you can learn all about our dairy, milk and beef farming over a cake and a cup of tea."
+image = "/images/photos/1002196_crop.JPG"
+invert = "true"
+
+[[featurette]]
+title="Luxury living"
+text="Our newly renovated farm lets mean you can go back to nature without abandoning your home comforts. Catering for 4-6 people, we are an ideal family destination, but can also be a tranquil getaway for groups, friends and colleagues. Please browse our website for more information and we look forward to greeting you at Hawley Farm soon! Graham and Pamela. P.S. see 3D tours of the [Cider Press](https://my.matterport.com/show/?m=PFyRT2X5moe) and the [Wagon House](https://my.matterport.com/show/?m=PsNbMG1tgPD)"
+image = "/images/photos/wagon_house_blue_sky.jpg"
 +++
-
-#Hey oh
-
-<iframe width="100%" height="500" src="https://my.matterport.com/show/?m=PFyRT2X5moe" frameborder="0" allowfullscreen></iframe>

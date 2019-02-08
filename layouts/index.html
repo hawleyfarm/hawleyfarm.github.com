@@ -2,7 +2,13 @@
 {{partial "carousel-home.html" . }}
 
   <div class="index">
-      {{ partial "featurettes_home.html" }}
+    <div class="container marketing">
+      {{ with .Params.featurette }}
+        {{range .}}
+          {{ partial "featurette/featurette.html" (dict "title" .title "description" .text "image" .image "extraImage" .extraImage "invert" .invert) }}
+        {{ end }}
+      {{ end }}
+      </div>
 
       <hr class="featurette-divider">
       {{ partial "booking_iframe.html" }}
