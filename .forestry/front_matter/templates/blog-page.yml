@@ -1,0 +1,11 @@
+---
+label: Blog page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: blog_content
+  label: Blog content
+  description: Write the blog content here
+  config:
+    required: true
