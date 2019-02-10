@@ -3,8 +3,13 @@ languageCode = "en-us"
 title = "Hawley Farm"
 [[menu.main]]
 name = "February 2019"
-parent = "Blog"
-url = "/blog/february2019"
+parent = "blog"
+url = "/blog/blog1"
+weight = 1
+[[menu.main]]
+name = "March 2019"
+parent = "blog"
+url = "/blog/blog2"
 weight = 1
 [[menu.main]]
 name = "Caravaning and camping"
