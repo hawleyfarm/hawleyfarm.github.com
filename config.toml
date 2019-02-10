@@ -2,16 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Hawley Farm"
 [[menu.main]]
-name = "March 2019"
-parent = "Blog"
-url = "/blog/blog2"
-weight = 2
-[[menu.main]]
-name = "February 2019"
-parent = "Blog"
-url = "/blog/blog1"
-weight = 1
-[[menu.main]]
 name = "Reviews"
 parent = "Reviews/More information"
 url = "/reviews/guestbook/"
@@ -52,6 +42,15 @@ parent = "Accommodation"
 url = "/accommodation/ciderpress"
 weight = 1
 [[menu.main]]
+name = "February 2019"
+parent = "Blog"
+url = "/blog/blog1"
+weight = 1
+[[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight = 3
+[[menu.main]]
 identifier = "home"
 name = "Home"
 url = "/"
@@ -61,10 +60,6 @@ identifier = "booking"
 name = "Availability and Booking"
 url = "/booking/"
 weight = 4
-[[menu.main]]
-name = "Blog"
-url = "/blog/"
-weight = 3
 [[menu.main]]
 name = "Reviews/More information"
 url = "#"
