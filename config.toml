@@ -2,15 +2,45 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Hawley Farm"
 [[menu.main]]
+name = "March 2019"
+parent = "Blog"
+url = "/blog/blog2"
+weight = 2
+[[menu.main]]
 name = "February 2019"
-parent = "blog"
+parent = "Blog"
 url = "/blog/blog1"
 weight = 1
 [[menu.main]]
-name = "March 2019"
-parent = "blog"
-url = "/blog/blog2"
-weight = 1
+name = "Reviews"
+parent = "Reviews/More information"
+url = "/reviews/guestbook/"
+weight = 5
+[[menu.main]]
+name = "Contact Us"
+parent = "Reviews/More information"
+url = "/contact"
+weight = 4
+[[menu.main]]
+name = "Stables"
+parent = "Accommodation"
+url = "/accommodation/stables"
+weight = 3
+[[menu.main]]
+name = "How to find us"
+parent = "Reviews/More information"
+url = "/info/findus"
+weight = 3
+[[menu.main]]
+name = "Wagonhouse"
+parent = "Accommodation"
+url = "/accommodation/wagonhouse"
+weight = 2
+[[menu.main]]
+name = "When and where"
+parent = "Reviews/More information"
+url = "/info/whenandwhere"
+weight = 2
 [[menu.main]]
 name = "Caravaning and camping"
 parent = "Reviews/More information"
@@ -22,35 +52,15 @@ parent = "Accommodation"
 url = "/accommodation/ciderpress"
 weight = 1
 [[menu.main]]
-name = "Wagonhouse"
-parent = "Accommodation"
-url = "/accommodation/wagonhouse"
-weight = 2
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
 [[menu.main]]
-name = "Stables"
-parent = "Accommodation"
-url = "/accommodation/stables"
-weight = 3
-[[menu.main]]
-name = "When and where"
-parent = "Reviews/More information"
-url = "/info/whenandwhere"
-weight = 2
-[[menu.main]]
-name = "How to find us"
-parent = "Reviews/More information"
-url = "/info/findus"
-weight = 3
-[[menu.main]]
-name = "Contact Us"
-parent = "Reviews/More information"
-url = "/contact"
+identifier = "booking"
+name = "Availability and Booking"
+url = "/booking/"
 weight = 4
-[[menu.main]]
-name = "Reviews"
-parent = "Reviews/More information"
-url = "/reviews/guestbook/"
-weight = 5
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
@@ -60,16 +70,6 @@ weight = 3
 name = "Reviews/More information"
 url = "#"
 weight = 5
-[[menu.main]]
-identifier = "booking"
-name = "Availability and Booking"
-url = "/booking/"
-weight = 4
-[[menu.main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 1
 [[menu.main]]
 name = "Accommodation"
 url = "#"
