@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/info/camping/</loc>
+    <lastmod>2019-01-31T19:06:49+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/reviews/guestbook/</loc>
+    <lastmod>2019-01-31T18:27:26+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/info/findus/</loc>
+    <lastmod>2019-01-31T18:18:14+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/info/whenandwhere/</loc>
+    <lastmod>2019-01-31T17:43:37+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/booking/</loc>
+    <lastmod>2019-01-31T17:24:54+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2019-01-31T17:24:54+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accommodation/ciderpress/</loc>
+    <lastmod>2019-01-31T12:45:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/blog1/</loc>
+    <lastmod>2019-01-31T12:45:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-01-31T12:45:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accommodation/stables/</loc>
+    <lastmod>2019-01-31T12:45:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accommodation/wagonhouse/</loc>
+    <lastmod>2019-01-31T12:45:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accommodation/</loc>
+    <lastmod>2019-01-31T12:45:39+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-01-31T12:45:39+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/info/</loc>
+    <lastmod>2019-01-31T19:06:49+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/reviews/</loc>
+    <lastmod>2019-01-31T18:27:26+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
