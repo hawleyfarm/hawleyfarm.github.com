@@ -1,94 +1,81 @@
-# Template: https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme
-# Coded By: https://altg.io
-# gonzalo@altg.io
-# 2019
-
 baseURL = "/"
 languageCode = "en-us"
 title = "Hawley Farm"
-
-
-[taxonomies]
-  tag = "tags"
-
-[permalinks]
-  post = "/:filename/"
-
-  [menu]
-    [[menu.main]]
-      name = "Home"
-      url = "/"
-      weight = 1
-      identifier = "home"
-    [[menu.main]]
-      name = "Accommodation"
-      url = "#"
-      weight = 2
-      [[menu.main]]
-        name = "Ciderpress"
-        url = "/accommodation/ciderpress"
-        parent = "Accommodation"
-        weight = 2
-      [[menu.main]]
-        name = "Wagonhouse"
-        url = "/accommodation/wagonhouse"
-        parent = "Accommodation"
-        weight = 2
-      [[menu.main]]
-        name = "Stables"
-        url = "/accommodation/stables"
-        parent = "Accommodation"
-        weight = 2
-    [[menu.main]]
-      name = "Availability and Booking"
-      url = "/booking/"
-      identifier = "booking"
-      weight = 3
-    [[menu.main]]
-      name = "Reviews/More information"
-      url = "#"
-      weight = 5
-      [[menu.main]]
-        name = "When and where"
-        url = "/info/whenandwhere"
-        parent = "Reviews/More information"
-        weight = 2
-      [[menu.main]]
-        name = "How to find us"
-        url = "/info/findus"
-        parent = "Reviews/More information"
-        weight = 2
-      [[menu.main]]
-        name = "Contact Us"
-        url = "/contact"
-        parent = "Reviews/More information"
-        weight = 2
-      [[menu.main]]
-        name = "Reviews"
-        url = "/reviews/guestbook/"
-        parent = "Reviews/More information"
-        weight = 2
-      [[menu.main]]
-        name = "Caravaning and camping"
-        url = "/info/camping"
-        parent = "Reviews/More information"
-        weight = 2
-    [[menu.main]]
-      name = "Blog"
-      url = "/blog/"
-      identifier = "blog"
-      weight = 3
-      [[menu.main]]
-        name = "February 2019"
-        url = "/blog/february2019"
-        parent = "blog"
-        weight = 2
-
-
-
+[[menu.main]]
+name = "February 2019"
+parent = "Blog"
+url = "/blog/february2019"
+weight = 1
+[[menu.main]]
+name = "Caravaning and camping"
+parent = "Reviews/More information"
+url = "/info/camping"
+weight = 1
+[[menu.main]]
+name = "Ciderpress"
+parent = "Accommodation"
+url = "/accommodation/ciderpress"
+weight = 1
+[[menu.main]]
+name = "Wagonhouse"
+parent = "Accommodation"
+url = "/accommodation/wagonhouse"
+weight = 2
+[[menu.main]]
+name = "Stables"
+parent = "Accommodation"
+url = "/accommodation/stables"
+weight = 3
+[[menu.main]]
+name = "When and where"
+parent = "Reviews/More information"
+url = "/info/whenandwhere"
+weight = 2
+[[menu.main]]
+name = "How to find us"
+parent = "Reviews/More information"
+url = "/info/findus"
+weight = 3
+[[menu.main]]
+name = "Contact Us"
+parent = "Reviews/More information"
+url = "/contact"
+weight = 4
+[[menu.main]]
+name = "Reviews"
+parent = "Reviews/More information"
+url = "/reviews/guestbook/"
+weight = 5
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 3
+[[menu.main]]
+name = "Reviews/More information"
+url = "#"
+weight = 5
+[[menu.main]]
+identifier = "booking"
+name = "Availability and Booking"
+url = "/booking/"
+weight = 4
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Accommodation"
+url = "#"
+weight = 2
 [params]
-  includeBootstrapJs = false
-  showActiveNav = true
-  containerMaxWidth = "700px"
-  dateFormat = "Jan 2, 2006"
-  hideFooter = false
+containerMaxWidth = "700px"
+dateFormat = "Jan 2, 2006"
+hideFooter = false
+includeBootstrapJs = false
+showActiveNav = true
+[permalinks]
+post = "/:filename/"
+[taxonomies]
+tag = "tags"
