@@ -38,8 +38,8 @@ If you would like to predict how good your stay at Hawley Farm will be without a
 *  Reviews on [Booking.com](https://www.booking.com/reviews/gb/hotel/hawley-farm.en-gb.html?aid=304142;label=gen173nr-1DCAEoggJCAlhYSDNYBGhQiAEBmAEuwgEDYWJuyAEP2AED6AEBkgIBeagCBA;sid=93dbcb82028f86d43ef4c25d5d9d2711). Note however that it is beneficial to book direct, through this website.
 *  Feedback forms and visitor book which some visitors fill in at the end of their stay. Any names, addresses or phone numbers have been blurred for conservation of anonymity. See below.
 
-{{< figure src="/images/feedback.png" class="image-fluid">}}
-{{< figure src="/images/visitors.png" class="image-fluid" >}}
+{{< review-galleries >}}
+
 
 
 We would appreciate anybody that has stayed at Hawley Farm to give comments below for the rest of the world to see. Please also send us your photos that you would not mind being added to this website.
