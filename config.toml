@@ -45,11 +45,6 @@ title = "Hawley Farm"
       identifier = "booking"
       weight = 3
     [[menu.main]]
-      name = "Contact Us"
-      url = "/contact"
-      identifier = "contact"
-      weight = 4
-    [[menu.main]]
       name = "Reviews/More information"
       url = "#"
       weight = 5
@@ -64,6 +59,11 @@ title = "Hawley Farm"
         parent = "Reviews/More information"
         weight = 2
       [[menu.main]]
+        name = "Contact Us"
+        url = "/contact"
+        parent = "Reviews/More information"
+        weight = 2
+      [[menu.main]]
         name = "Reviews"
         url = "/reviews/guestbook/"
         parent = "Reviews/More information"
@@ -72,6 +72,16 @@ title = "Hawley Farm"
         name = "Caravaning and camping"
         url = "/info/camping"
         parent = "Reviews/More information"
+        weight = 2
+    [[menu.main]]
+      name = "Blog"
+      url = "/blog/"
+      identifier = "blog"
+      weight = 3
+      [[menu.main]]
+        name = "February 2019"
+        url = "/blog/february2019"
+        parent = "blog"
         weight = 2
 
 

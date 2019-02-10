@@ -5,6 +5,8 @@
 
   {{ range .Site.Menus.main }}
 
+      {{ if ne .KeyName "blog" }}
+
       {{ if .HasChildren }}
 
       {{range .Children}}
@@ -13,6 +15,8 @@
 
       {{ else }}
         <li class=""><a href="{{.URL}}">{{.Name}}</a></li>
+      {{end}}
+
       {{end}}
 
     {{end}}
