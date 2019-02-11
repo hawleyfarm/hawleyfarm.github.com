@@ -59,11 +59,11 @@ weight = 1
 identifier = "booking"
 name = "Availability and Booking"
 url = "/booking/"
-weight = 4
+weight = 5
 [[menu.main]]
 name = "Reviews/More information"
 url = "#"
-weight = 5
+weight = 4
 [[menu.main]]
 name = "Accommodation"
 url = "#"
