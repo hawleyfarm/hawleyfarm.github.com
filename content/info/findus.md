@@ -1,6 +1,5 @@
 +++
 date = "2019-01-31T18:18:14.000+07:00"
-draft = true
 showMap = "true"
 showTitle = "false"
 tags = []
