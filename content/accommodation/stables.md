@@ -1,7 +1,6 @@
 +++
 Link3D = ""
 date = "2019-01-31T12:45:39.000+07:00"
-draft = true
 showTitle = false
 tags = []
 title = "Stables"
