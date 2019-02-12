@@ -1,5 +1,6 @@
 +++
 date = "2019-01-31T18:18:14.000+07:00"
+draft = true
 showMap = "true"
 showTitle = "false"
 tags = []
@@ -12,3 +13,7 @@ For satellite navigation, our postcode is EX13 7HR, however the postcode will di
 
 Address:
 Hawley Farm, Dalwood, Axminster, Devon, EX13 7HR
+
+If you have any problems finding us please ring Tel. No.
+
+01404831250 / 07968155916
