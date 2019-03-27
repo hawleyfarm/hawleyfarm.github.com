@@ -109,7 +109,7 @@ title = "Upstairs bedroom"
 
 * Country view from large window
 * TV and DVD player
-* Wireless internet access (whole property)
+* Wireless internet access
 * Seating for 6
 * A sofa bed for +2
 * A family bathroom just off the stairs
