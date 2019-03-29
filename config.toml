@@ -2,11 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Hawley Farm"
 [[menu.main]]
-name = "Things to do"
-parent = "Reviews/More information"
-url = "/info/family"
-weight = 5
-[[menu.main]]
 name = "Reviews"
 parent = "Reviews/More information"
 url = "/reviews/guestbook/"
