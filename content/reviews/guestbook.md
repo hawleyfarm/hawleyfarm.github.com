@@ -1,35 +1,38 @@
 +++
-title= "Reviews"
-date= 2019-01-31T18:27:26+07:00
-tags = []
+date = "2019-01-31T18:27:26.000+07:00"
 showTitle = "false"
+tags = []
+title = "Reviews"
+[menu.main]
+name = "Things to do"
+parent = "Reviews/More information"
+weight = 5
 [[gallery]]
-thumb="/images/photos/thumbs/HawleyFarmApril2011072.JPG"
-image="/images/photos/HawleyFarmApril2011072.JPG"
+image = "/images/photos/HawleyFarmApril2011072.JPG"
+thumb = "/images/photos/thumbs/HawleyFarmApril2011072.JPG"
 [[gallery]]
-thumb="/images/photos/thumbs/HawleyFarmApril2011050.JPG"
-image="/images/photos/HawleyFarmApril2011050.JPG"
+image = "/images/photos/HawleyFarmApril2011050.JPG"
+thumb = "/images/photos/thumbs/HawleyFarmApril2011050.JPG"
 [[gallery]]
-thumb="/images/photos/thumbs/IMG_7657.JPG"
-image="/images/photos/IMG_7657.JPG"
+image = "/images/photos/IMG_7657.JPG"
+thumb = "/images/photos/thumbs/IMG_7657.JPG"
 [[gallery]]
-thumb="/images/photos/thumbs/IMG_7650.JPG"
-image="/images/photos/IMG_7650.JPG"
+image = "/images/photos/IMG_7650.JPG"
+thumb = "/images/photos/thumbs/IMG_7650.JPG"
 [[gallery]]
-thumb="/images/photos/thumbs/augestciderpress019.jpg"
-image="/images/photos/augestciderpress019.jpg"
+image = "/images/photos/augestciderpress019.jpg"
+thumb = "/images/photos/thumbs/augestciderpress019.jpg"
 [[gallery]]
-thumb="/images/photos/thumbs/augestciderpress027.jpg"
-image="/images/photos/augestciderpress027.jpg"
+image = "/images/photos/augestciderpress027.jpg"
+thumb = "/images/photos/thumbs/augestciderpress027.jpg"
 [[gallery]]
-thumb="/images/photos/thumbs/DSC04814.JPG"
-image="/images/photos/DSC04814.JPG"
+image = "/images/photos/DSC04814.JPG"
+thumb = "/images/photos/thumbs/DSC04814.JPG"
 [[gallery]]
-thumb="/images/photos/thumbs/BarnDevonSept2010016.jpg"
-image="/images/photos/BarnDevonSept2010016.jpg"
+image = "/images/photos/BarnDevonSept2010016.jpg"
+thumb = "/images/photos/thumbs/BarnDevonSept2010016.jpg"
 
 +++
-
 ## Reviews
 
 If you would like to predict how good your stay at Hawley Farm will be without any perceived marketing bias of this website, then please look at our

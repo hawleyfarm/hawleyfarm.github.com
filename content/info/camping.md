@@ -3,9 +3,6 @@ date = "2019-01-31T19:06:49.000+07:00"
 showTitle = "true"
 tags = []
 title = "Things to do"
-[menu.main]
-parent = "Reviews/More information"
-weight = 5
 
 +++
 Walking the many footpaths, that are right from your door when you stay at Hawley farm.
