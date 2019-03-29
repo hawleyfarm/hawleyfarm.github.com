@@ -3,10 +3,6 @@ date = "2019-01-31T18:27:26.000+07:00"
 showTitle = "false"
 tags = []
 title = "Reviews"
-[menu.main]
-name = "Things to do"
-parent = "Reviews/More information"
-weight = 5
 [[gallery]]
 image = "/images/photos/HawleyFarmApril2011072.JPG"
 thumb = "/images/photos/thumbs/HawleyFarmApril2011072.JPG"
