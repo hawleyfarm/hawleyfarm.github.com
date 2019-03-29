@@ -2,7 +2,7 @@
 date = "2019-01-31T19:06:49.000+07:00"
 showTitle = "true"
 tags = []
-title = "Things to do in East Devon for the Family"
+title = "Things to do"
 
 +++
 Walking the many footpaths, that are right from your door when you stay at Hawley farm.
