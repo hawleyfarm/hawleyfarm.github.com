@@ -2,6 +2,11 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Hawley Farm"
 [[menu.main]]
+name = "Things to do"
+parent = "Reviews/More information"
+url = "/info/family"
+weight = 5
+[[menu.main]]
 name = "Reviews"
 parent = "Reviews/More information"
 url = "/reviews/guestbook/"
@@ -41,11 +46,6 @@ name = "February 2019"
 parent = "Blog"
 url = "/blog/blog1"
 weight = 1
-[[menu.main]]
-name = "Caravaning and camping"
-parent = "Reviews/More information"
-url = "/info/camping"
-weight = 5
 [[menu.main]]
 name = "Blog"
 url = "/blog/"
