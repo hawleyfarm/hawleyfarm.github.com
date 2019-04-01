@@ -7,8 +7,8 @@ title = "March 2019"
 parent = "Blog"
 weight = 2
 [[gallery]]
-image = "/images/uploads/20170715_105535.jpg"
-thumb = "/images/uploads/20170715_105535_thumb-1.jpg"
+image = "/images/uploads/20170715_105535-1.jpg"
+thumb = "/images/uploads/20170715_105535_thumb-2.jpg"
 title = "Fossil from Lyme Regis"
 
 +++
