@@ -7,6 +7,10 @@ title = "March 2019"
 parent = "Blog"
 weight = 2
 [[gallery]]
+image = ""
+thumb = ""
+title = "Primroses"
+[[gallery]]
 image = "/images/uploads/20170715_105535-1.jpg"
 thumb = "/images/uploads/20170715_105535_thumb-2.jpg"
 title = "Fossil from Lyme Regis"
@@ -14,7 +18,7 @@ title = "Fossil from Lyme Regis"
 +++
 ## March 2019
 
-March for us arrived like a lamb with light showers after the dry warm February, sometimes it was summer like! 
+March for us arrived like a lamb with light showers after the dry warm February, sometimes it was like summer 
 
 The guests leaving after their half term holiday have had a great time enjoying the beautiful weather and we think this is a lovely time to come away on holiday for many reasons.
 
@@ -33,3 +37,5 @@ Fencing is being done by Graham and Winston on the farm ready for the turn out, 
 The farm yard manure that has gatherd over the winter from the cattle is being spread over the fields as this is a good natural fertilizer to feed the ground so a good crop of grass will grow in the spring.
 
 We will wait for the Blackthorn to come out in flower before we are sure winter is over….
+
+As expected the blackthorn came out in flower and back came the winter with cold winds, this lasted into the start of April.
