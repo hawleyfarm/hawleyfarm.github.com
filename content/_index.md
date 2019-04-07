@@ -42,6 +42,6 @@ title = "A holiday with farm experience"
 [[featurette]]
 image = "/images/photos/wagon_house_blue_sky.jpg"
 text = "Our newly renovated farm lets mean you can go back to nature without abandoning your home comforts. Catering for 4-6 people, we are an ideal family destination, but can also be a tranquil getaway for groups, friends and colleagues. Please browse our website for more information and we look forward to greeting you at Hawley Farm soon! Graham and Pamela. P.S. see 3D tours of the [Cider Press](https://my.matterport.com/show/?m=PFyRT2X5moe) and the [Wagon House](https://my.matterport.com/show/?m=PsNbMG1tgPD)"
-title = "Luxury living"
+title = "Comfortable and Spacious Accommodation"
 
 +++
