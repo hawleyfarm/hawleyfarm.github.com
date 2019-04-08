@@ -15,3 +15,5 @@ There are five walks that have been  timed so you can plan your day and they all
 Lovely views of the country side which is in the Blackdown Hills.  A great way to keep healthy and to see the beauty of the countryside at any time of the year.
 
 There are many other footpaths that go further a field, we have maps here for your use if you want to make a day of it.
+
+If you have a family pet that would enjoy walks in the countryside, well behaved dogs are welcome. When walking it is important that your dog is on a lead as there is livestock in the fields and it is very important that you pick up after your dog and bin in the large bin by the holiday cottages. There is an extra charge for bringing a pet so it is important that this is on the booking form when you book. We do not like dogs left in the accommodation on their own in the day, there are many places that your dog would be able to go with you in the area.
