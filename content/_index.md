@@ -32,7 +32,7 @@ title = "Have a question?"
 [[featurette]]
 extraImage = "/images/badges/AA-Four-Stars.jpg"
 image = "/images/photos/000_0075.jpg"
-text = "Nestled in the beautiful English countryside, our barn conversion is the perfect choice if you´re looking for relaxing farm holidays in East Devon. With picturesque views of the countryside and plenty of places of interest to visit in the local area. Farm lets can be a fantastic choice for all of the family."
+text = "Nestled in the beautiful English countryside, our barn conversion is the perfect choice if you´re looking for relaxing farm holidays in East Devon. With picturesque views of the countryside and plenty of places of interest to visit in the local area. Farm cottages can be a fantastic choice for all of the family."
 title = "Welcome to Hawley Farm"
 [[featurette]]
 image = "/images/photos/1002196_crop.JPG"
