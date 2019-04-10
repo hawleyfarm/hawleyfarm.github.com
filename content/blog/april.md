@@ -17,6 +17,6 @@ The ewes have all lambed, bar eight so will have some stragglers later, but the 
 
 There is last minute [availability](https://www.hawleyfarm.co.uk/booking/ "availability") for those who would like to get away for a few days for a change of scenery and recharge your batteries. There are local events coming up to enjoy The Stockland  Fair  being one on the 27th May.
 
-The village of Dalwood have a lovely playing field open to all with some wonderful new childrens equipment this is on the Jubilee field and Pavilion a short walk down the road from Hawley farm, where village events take place in the summer, the main one is Dalwood Fair is on the 17th  August. There will be a 10KISH on Sunday 21st July  2019.
+The village of Dalwood have a lovely playing field open to all with some wonderful new childrens equipment this is on the Jubilee field and Pavilion a short walk down the road from [Hawley farm](https://www.hawleyfarm.co.uk "Home"), where village events take place in the summer, the main one is Dalwood Fair is on the 17th  August. There will be a 10KISH on Sunday 21st July  2019.
 
 Please come and take part in our country events as we are all very welcoming here and love to see visitors from all over the world.
