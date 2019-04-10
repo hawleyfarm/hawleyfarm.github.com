@@ -9,7 +9,7 @@ title = "April 2019"
 
 The blackthorn continues to flower and so the cold weather remains, sunny in the day, but cold at night, with frosts, not much rain, so the spring flowers are still looking great and lasting longer than normal.
 
-I would say it has been a super spring and every thing has been looking lovely. We are now in the Easter Holidays and lovely to see children who are interested in what goes on in the countryside. Coming with them is their family pet who they say is getting tired after all the exersize it is getting while on holiday here.
+I would say it has been a super spring and every thing has been looking lovely. We are now in the Easter [Holidays](https://www.hawleyfarm.co.uk/accommodation/stables/ "stables") and lovely to see children who are interested in what goes on in the countryside. Coming with them is their family pet who they say is getting tired after all the exersize it is getting while on holiday here.
 
 The cows have gone out to grass by day but waiting for the warmer nights to stay out all the time. We have had a batch of spring calves,  limousine cross as they are sired by our own bull.
 
