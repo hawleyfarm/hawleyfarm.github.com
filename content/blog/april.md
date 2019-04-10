@@ -2,7 +2,7 @@
 date = ""
 gallery = []
 tags = []
-title = "April 2019"
+title = "April 2019."
 
 +++
 **APRIL 2019**
