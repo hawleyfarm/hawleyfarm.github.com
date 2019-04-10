@@ -1,8 +1,7 @@
 +++
 date = "2019-04-09T23:00:00+00:00"
-draft = true
 tags = []
-title = "April 2019."
+title = "April 2019.."
 [[gallery]]
 image = ""
 thumb = ""
@@ -23,4 +22,4 @@ There is last minute [availability](https://www.hawleyfarm.co.uk/booking/ "avail
 
 The village of Dalwood have a lovely playing field open to all with some wonderful new childrens equipment this is on the Jubilee field and Pavilion a short walk down the road from [Hawley farm](https://www.hawleyfarm.co.uk "Home"), where village events take place in the summer, the main one is Dalwood Fair is on the 17th  August. There will be a 10KISH on Sunday 21st July  2019.
 
-Please come and take part in our country events as we are all very welcoming here and love to see visitors from all over the world.
+Please come and take part in our country events as we are all very welcoming here and love to see visitors from all over the world..
