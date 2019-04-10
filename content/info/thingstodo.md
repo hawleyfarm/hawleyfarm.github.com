@@ -16,7 +16,7 @@ Lovely views of the country side which is in the Blackdown Hills AONB.  A great 
 
 There are many other footpaths that go further a field, we have maps here for your use if you want to make a day of it.
 
-If you have a family pet that would enjoy walks in the countryside, well behaved dogs are welcome. When walking it is important that your dog is on a lead as there is livestock in the fields and it is very important that you pick up after your dog and bin in the large bin by the holiday cottages.
+If you have a family pet that would enjoy walks in the countryside, well behaved dogs are welcome. When walking it is important that your dog is on a lead as there is livestock in the fields and it is very important that you pick up after your dog and bin in the large bin by the [holiday cottages.](https://www.hawleyfarm.co.uk/accommodation/wagonhouse/ "accommodation")
 
 The village has a vine yard that makes some award winning wine, you will pass, also others sites of interest would be Loughwood Meeting House, this is open and is owned by the National Trust. St Peters church in the centre of the village and the Corry Brook. Beckford Bridge is worth a visit by foot and is a good work out due to the hills. The Shute Armada Beacon House is one of only two remaining in Devon and is on footpath no.5.
 
