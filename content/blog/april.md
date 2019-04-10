@@ -1,9 +1,12 @@
 +++
 date = "2019-04-09T23:00:00+00:00"
 draft = true
-gallery = []
 tags = []
 title = "April 2019."
+[[gallery]]
+image = ""
+thumb = ""
+title = ""
 
 +++
 **APRIL 2019**
