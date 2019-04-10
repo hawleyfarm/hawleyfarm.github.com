@@ -22,4 +22,4 @@ Some ewes have already had their lambs and can be seen in the fields with their 
 
 We have many snowdrops that bring cheer to us, it shows us spring is on its way soon. The winter is a very beautiful time, the bulbs are moving up out of the ground and soon more flowers will be seen.
 
-Thoughts of [summer](www.hawleyfarm.co.uk/accommodation "Accommodation") and the warmer months.
+Thoughts of [summer](https://www.hawleyfarm.co.uk/accommodation/ciderpress/ "Accommodation") and the warmer months.
