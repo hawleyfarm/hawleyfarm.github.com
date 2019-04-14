@@ -19,7 +19,7 @@ I would say it has been a super spring and every thing has been looking lovely. 
 
 The cows have gone out to grass by day but waiting for the warmer nights to stay out all the time. We have had a batch of spring calves,  limousin cross as they are sired by our own bull.
 
-The ewes have all lambed, bar eight so will have some stragglers later, but the others are enjoying the lovely dry weather. In the mornings as the nights are cold the young lambs like to sleep on top of the ewes as their wool fleeces is lovely and warm.
+The ewes have all lambed, except eight so will have some  later perhaps, but the others are enjoying the lovely dry weather. In the mornings as the nights are cold with frosts the young lambs like to sleep on top of the ewes as their wool fleeces is lovely and warm.
 
 There is last minute [availability](https://www.hawleyfarm.co.uk/booking/ "availability") for those who would like to get away for a few days for a change of scenery and recharge your batteries. There are local events coming up to enjoy The Stockland Fair  being one on the 27th May.
 
