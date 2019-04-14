@@ -3,6 +3,9 @@ date = "2019-01-31T12:45:39.000+07:00"
 showTitle = false
 tags = []
 title = "February 2019"
+[menu.main]
+parent = "Blog"
+weight = 1
 [[gallery]]
 image = "/images/photos/IMG_20190203_102459_453s.jpg"
 thumb = "/images/photos/thumbs/IMG_20190203_102459_453s.jpg"
