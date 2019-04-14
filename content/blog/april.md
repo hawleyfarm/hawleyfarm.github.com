@@ -2,6 +2,9 @@
 date = "2019-04-09T23:00:00+00:00"
 tags = []
 title = "April 2019"
+[menu.main]
+parent = "Blog"
+weight = 3
 [[gallery]]
 image = ""
 thumb = ""
