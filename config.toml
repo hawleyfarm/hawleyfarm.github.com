@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hawley Farm"
+title = "Hawley Farm Holiday Cottages in East Devon"
 [[menu.main]]
 name = "When and where"
 parent = "Reviews/More information"
