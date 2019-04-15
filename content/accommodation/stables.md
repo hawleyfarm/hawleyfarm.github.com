@@ -147,3 +147,7 @@ title = "Upstairs bedroom"
 * Garden with table and seating for 6
 * Outdoor balcony area off lounge
 * BBQ and parking
+
+"We stayed at the Stables in November, it is well thought out conversion, finished to a high standard, it has every thing you could possible need. We will most certainly return"
+
+Lynda L.
