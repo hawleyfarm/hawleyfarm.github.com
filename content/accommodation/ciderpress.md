@@ -121,3 +121,7 @@ title = "View from Cider Press"
 * Lawn, patio and garden
 * Barbecue area with table and chairs for six people
 * Parking spaces for two cars with a car park for more if needed.
+
+"Our accommodation at Hawley Farm was probably the best self-catering at which we've ever stayed."
+
+Don.
