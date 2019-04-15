@@ -7,7 +7,7 @@ title = "Stables"
 [[carousel]]
 active = "active"
 imageCarousel = "/images/photos/20180420_120717.jpg"
-text = "This historical building has recently given a new lease of life in Easter 2018 and is now available as a holiday let."
+text = "This historical building has recently given a new lease of life in Easter 2018 and is now available as a holiday cottage."
 title = "The Stable"
 [[carousel]]
 imageCarousel = "/images/photos/20180420_125605.jpg"
