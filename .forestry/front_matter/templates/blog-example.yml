@@ -39,6 +39,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/what-if-it-rains.md
 - content/our-story.md
 - content/out-and-about-gardens.md
 - content/blog/april-2019.md
