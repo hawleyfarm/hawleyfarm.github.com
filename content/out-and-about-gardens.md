@@ -2,7 +2,7 @@
 date = "2019-04-14T23:00:00+00:00"
 gallery = []
 tags = []
-title = "Gardens x three !"
+title = "Gardens in East Devon"
 
 +++
 Gardens
