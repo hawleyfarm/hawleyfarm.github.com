@@ -13,10 +13,12 @@ If you come in  a gardening group of 10 or more  Mary can arrange a tour, around
 
 Ford Abbey and Gardens are just over the border into Dorset, but only 30 minutes from Hawley farm, founded by monks 800 years ago. Thirty acres of all year round interest.  From 1st March, the fountain is on three times a day, 12noon, 1.30 and 3pm. A working kitchen garden, spring bulbs, herbaceous borders along the canel, a bog garden and arboretum. Good autumn colours.
 
- A plant Nursery and a food and gift shop.  Dog friendly on leads and mobility scooters for hire if booked. The House and Gardens are open all days except Mondays and Saturdays from 10am. to 5.30   info@fordabbey.co.uk   tel no. 01460221290   postcode   TA204LU
+A plant Nursery and a food and gift shop.  Dog friendly on leads and mobility scooters for hire if booked. The House and Gardens are open all days except Mondays and Saturdays from 10am. to 5.30   info@fordabbey.co.uk   tel no. 01460221290   postcode   TA204LU
 
 Bicton Park Botanical Gardens are 45 miniutes drive. Open every day from 10.00am. At 63 acres, there is lots to see and explore for all the family.  Italian garden, American and Stream gardens, Mediterranean and Rose gardens. The Fernery and Shell House. The Hermitage garden. the Pinetum and Arboretum, and much more.
 
 Childrens outdoor and indoor play,  a woodland railway, a countryside museum, this is a full day out for all.
 
 Dogs on leads,  postcode   EX9 7BG
+
+If you would like to see the smaller local gardens there are many that open up for the National Garden Scheme, it is really worth going as they may only open for a few days in the year when they are at their best, all the money goes to good charities
