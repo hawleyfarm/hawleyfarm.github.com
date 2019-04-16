@@ -20,7 +20,7 @@ If you have a family pet that would enjoy walks in the countryside, well behaved
 
 The village has a vine yard that makes some award winning wine, you will pass, also others sites of interest would be Loughwood Meeting House, this is open and is owned by the National Trust. St Peters church in the centre of the village and the Corry Brook. Beckford Bridge is worth a visit by foot and is a good work out due to the hills. The Shute Armada Beacon House is one of only two remaining in Devon and is on footpath no.5.
 
-If you are in a walking group you could book all three cottages and discover East Devon, the cottages can sleep up 14 in sevon rooms.
+If you are in a walking group you could book all three cottages and discover East Devon, the cottages can sleep up 14 in seven rooms.
 
 Hawley Farm[ holiday accommodation](https://www.hawleyfarm.co.uk/accommodation/stables/ "Accommodation") is a short distance from the coast, so this section of  the South Wast coastal footpath is just right to do while holidaying at Dalwood. If you come with friends and two cars, it works well. Beer through to Branscombe is said to be the best bit of the whole 600 miles round. There is a bus that you can catch if needed.
 
