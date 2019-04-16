@@ -2,7 +2,7 @@
 date = "2019-01-31T19:06:49.000+07:00"
 showTitle = "true"
 tags = []
-title = "Things to do"
+title = "Walk this way!"
 [menu.main]
 parent = "Reviews/More information"
 weight = 5
