@@ -8,7 +8,7 @@ parent = "Reviews/More information"
 weight = 5
 
 +++
-Walking the many footpaths, that are right from your door when you stay at [Hawley ](https://www.hawleyfarm.co.uk/accommodation/ciderpress/ "accommodation")farm self catering holiday cottages near Axminster and Honiton.
+Walking the many footpaths, that are right from your door when you stay at Hawley Farm self catering holiday cottages near Axminster and Honiton.
 
 There are five walks that have been  timed so you can plan your day and they all pass the Tuckers Arms pub in the village of Dalwood where you will be able to have a rest with food and drink if you arrive at lunch time or from six in the evening, or the small village shop where you can buy an ice cream. You will see the Devon flint stone and thatch houses that were made from what was found and grown in the area.
 
