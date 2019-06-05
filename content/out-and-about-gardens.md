@@ -3,6 +3,9 @@ date = "2019-04-14T23:00:00+00:00"
 gallery = []
 tags = []
 title = "Gardens in East Devon"
+[menu.main]
+parent = "Reviews/More information"
+weight = 8
 
 +++
 Gardens
