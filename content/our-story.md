@@ -3,6 +3,9 @@ date = "2019-04-15T23:00:00+00:00"
 gallery = []
 tags = []
 title = "Our Story"
+[menu.main]
+parent = "Reviews/More information"
+weight = 6
 
 +++
 Hawley Farm

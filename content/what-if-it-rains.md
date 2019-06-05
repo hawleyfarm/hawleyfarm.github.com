@@ -3,6 +3,9 @@ date = "2019-04-15T23:00:00+00:00"
 gallery = []
 tags = []
 title = "What if it rains?"
+[menu.main]
+parent = "Reviews/More information"
+weight = 7
 
 +++
 Rainy days when on Holiday at Hawley farm.
