@@ -8,7 +8,7 @@ title = "Our Story"
 +++
 Hawley Farm
 
-We arrived at Hawley farm in 1984 and milked a herd of cows on the small farm, we had fun and games in bad weather when the milk tanker came to collect the milk and the cake lorry tried to deliver. The  hill and the oak trees were not helping us get large lorries in and out, we can tell you some more stories when you arrive for your holiday!
+We arrived at Hawley farm in 1984 and milked a herd of cows on the small farm, we had fun and games in bad weather when the milk tanker came to collect the milk and the cake lorry tried to deliver. The  hill and the oak trees were not helping us getting large lorries in and out when the snow is on the ground, we can tell you some more stories when you arrive for your holiday!
 
 The large listed buildings were a worry, in bad weather we have seen the roofs lift up and down as the wood had rotten and nowhere to bang a nail in. But lucky they did not blow away. The walls were falling out and they were dangerous. We were bound to keep them up, as they were listed buildings.
 
