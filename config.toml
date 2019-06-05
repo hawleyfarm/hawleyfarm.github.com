@@ -17,14 +17,14 @@ parent = "Reviews/More information"
 url = "/contact"
 weight = 3
 [[menu.main]]
-name = "How to find us"
-parent = "Reviews/More information"
-url = "/info/findus"
-weight = 2
-[[menu.main]]
 name = "Wagonhouse"
 parent = "Accommodation"
 url = "/accommodation/wagonhouse"
+weight = 2
+[[menu.main]]
+name = "How to find us"
+parent = "Reviews/More information"
+url = "/info/findus"
 weight = 2
 [[menu.main]]
 name = "Ciderpress"
