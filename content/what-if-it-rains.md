@@ -1,12 +1,11 @@
 +++
 date = "2019-04-15T23:00:00+00:00"
-draft = true
 gallery = []
 tags = []
 title = "What if it rains?"
 
 +++
-Rainy days when on holiday at Hawley farm.
+Rainy days when on Holiday at Hawley farm.
 
 * [**Seaton Jurassic**](http://seatonjurassic.org/) - a community-led centre that will engage thousands of people with East Devon’s unique geological, coastal and marine heritage
 * [**Tickety Boo, Ottery St Mary**](https://www.facebook.com/TicketyBooOSM/) – a brand new coffee shop and play centre, right in the centre of Ottery St Mary. Great coffees!
