@@ -11,8 +11,8 @@ weight = 7
 Rainy days when on Holiday at Hawley farm.
 
 * [**Seaton Jurassic**](http://seatonjurassic.org/) - a community-led centre that will engage thousands of people with East Devon’s unique geological, coastal and marine heritage
-* [**Tickety Boo, Ottery St Mary**](https://www.facebook.com/TicketyBooOSM/) – a brand new coffee shop and play centre, right in the centre of Ottery St Mary. Great coffees!
-* [**Honiton Playdome**](http://www.theplaydome.com/) – very nice indoor play centre, which does a mean coffee too! Nice leather sofas and free WiFi
+* [**Tickety Boo, Ottery St Mary**](https://www.facebook.com/TicketyBooOSM/) – a  coffee shop and play centre, right in the centre of Ottery St Mary. 
+* [**Honiton Playdome**](http://www.theplaydome.com/) –  indoor play centre,  leather sofas and free WiFi
 * [**Thelma Hubert Gallery**](http://www.thelmahulbert.com/) – offers exhibitions as well as various activities for all age ranges. Check website for calendar
 * [**Honiton Pottery & Milkshake Bar**](http://www.honitonpottery.co.uk/) – fun place to either ‘throw’your own pots, or decorate pieces they have available
 * [**Pecorama**](http://www.pecorama.info/) – an absolute ‘must-do’ for anyone who loves trains, but there is so much more to Pecorama that even if you don’t give much about trains, you’ll have a great time
