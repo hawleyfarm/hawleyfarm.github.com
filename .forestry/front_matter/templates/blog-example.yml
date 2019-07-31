@@ -39,6 +39,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/june.md
 - content/our-story.md
 - content/blog/march-2019.md
 - content/out-and-about-gardens.md
