@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 gallery = []
 tags = []
 title = "JUNE"
