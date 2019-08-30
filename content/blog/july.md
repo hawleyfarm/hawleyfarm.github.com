@@ -4,8 +4,8 @@ gallery = []
 tags = []
 title = "JULY"
 [menu.main]
-name = ""
-weight = 6
+parent = "Blog"
+weight = 5
 
 +++
 JULY
