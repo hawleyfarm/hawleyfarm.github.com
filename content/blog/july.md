@@ -4,6 +4,7 @@ gallery = []
 tags = []
 title = "JULY"
 [menu.main]
+name = "July  2019"
 parent = "Blog"
 weight = 6
 
