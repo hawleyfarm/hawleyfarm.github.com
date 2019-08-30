@@ -5,7 +5,7 @@ tags = []
 title = "JULY"
 [menu.main]
 parent = "Blog"
-weight = 5
+weight = 6
 
 +++
 JULY

@@ -3,6 +3,10 @@ date = ""
 gallery = []
 tags = []
 title = "JUNE"
+[menu.main]
+name = "JUNE 2019"
+parent = "Blog"
+weight = 5
 
 +++
 JUNE
