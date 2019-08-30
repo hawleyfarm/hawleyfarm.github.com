@@ -3,6 +3,9 @@ date = ""
 gallery = []
 tags = []
 title = "JULY"
+[menu.main]
+name = ""
+weight = 6
 
 +++
 JULY
