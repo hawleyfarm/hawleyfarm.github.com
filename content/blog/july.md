@@ -1,15 +1,16 @@
 +++
 date = ""
+draft = true
 gallery = []
 tags = []
-title = "JULY"
+title = "July 2019"
 [menu.main]
 name = "July  2019"
 parent = "Blog"
 weight = 6
 
 +++
-JULY
+July 2019
 
 July has gone on record as the hottest month so far so the the sun shone and the rain stayed away even when the thunder and lightning happened we missed the rain.
 
