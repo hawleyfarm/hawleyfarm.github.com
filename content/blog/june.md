@@ -1,15 +1,16 @@
 +++
 date = ""
+draft = true
 gallery = []
 tags = []
-title = "JUNE"
+title = "June 2019"
 [menu.main]
 name = "June  2019"
 parent = "Blog"
 weight = 5
 
 +++
-JUNE
+June 2019
 
 Well the rain came and came and we were pleased to see the much needed rain as it was very dry so very welcome. However like all good things it went on a little too long the dull days were over cast and we then, as it continued, we hoped for sun, to get to the second cut silage! The last week the good weather returned and the silage was cut the second time and the crop was so much better due to the rain.
 
