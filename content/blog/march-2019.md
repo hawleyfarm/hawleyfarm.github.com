@@ -17,7 +17,7 @@ title = "Fossil from Lyme Regis"
 +++
 ## March 2019
 
-March for us arrived like a lamb with light showers after the dry warm February, sometimes it was like summer
+March for us arrived like a lamb with light showers after the dry warm February, sometimes it was like summer. Holiday cottages in Dalwood close to Axminster.
 
 The guests leaving after their half term [holiday](https://www.hawleyfarm.co.uk/accommodation/wagonhouse/ "Accommodation") have had a great time enjoying the beautiful weather and we think this is a lovely time to come away on holiday for many reasons.
 
