@@ -39,11 +39,11 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/aug-sept-oct-2019.md
 - content/blog/june.md
 - content/blog/may.md
 - content/blog/april-2019.md
 - content/blog/july.md
-- content/blog/aug-sept-oct-2019.md
 - content/blog/march-2019.md
 - content/what-if-it-rains.md
 - content/our-story.md

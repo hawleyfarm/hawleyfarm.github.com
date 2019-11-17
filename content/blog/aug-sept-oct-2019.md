@@ -1,12 +1,15 @@
 +++
 date = ""
 draft = true
-gallery = []
 tags = []
-title = "Aug/Sept/Oct  2019"
+title = "Aug-Oct 2019"
+[[gallery]]
+image = "/images/uploads/IMG_thumb.jpeg"
+thumb = "/images/uploads/IMG_thumb.jpeg"
+title = "Calves feeding"
 
 +++
-August/September/October 2019
+## August - October 2019
 
 Honiton Show had a lovely day on the 1st August, the run of good weather continued.
 
