@@ -5,7 +5,7 @@
     <div class="container marketing">
       {{ with .Params.featurette }}
         {{range .}}
-          {{ partial "featurette/featurette.html" (dict "title" .title "description" .text "image" .image "extraImage" .extraImage "invert" .invert) }}
+          {{ partial "featurette/featurette.html" (dict "title" .title "description" .text "image" .image "extraImage" .extraImage "invert" .invert "alt" .alt) }}
         {{ end }}
       {{ end }}
       </div>
