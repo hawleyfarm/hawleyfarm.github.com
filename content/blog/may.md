@@ -8,7 +8,7 @@ parent = "Blog"
 weight = 4
 [[gallery]]
 image = "/images/uploads/IMG_20190611_224001.jpg"
-thumb = "/images/uploads/IMG_20190611_224001.jpg"
+thumb = "/images/uploads/IMG_20190611_224001TN.jpg"
 title = "Cut grass"
 
 +++
