@@ -7,14 +7,14 @@
       <img class="featurette-image img-fluid center-block" src="{{.image}}" alt="{{.alt}}" width="100%">
     </div>
     <div class="col-md-7">
-      <h2 class="featurette-heading"><span class="text-muted">{{.title}}</span> {{with .extraImage}}<img src="{{.}}" alt="{{.title}}" width="50px">{{end}}</h2>
+      <h2 class="featurette-heading"><span class="text-muted">{{.title}}</span> {{with .extraImage}}<img src="{{.}}" width="50px">{{end}}</h2>
       <p class="lead">
         {{ .description | markdownify }}
       </p>
     </div>
 {{ else }}
     <div class="col-md-7">
-      <h2 class="featurette-heading"><span class="text-muted">{{.title}}</span> {{with .extraImage}}<img src="{{.}}" alt="{{.title}}" width="50px">{{end}}</h2>
+      <h2 class="featurette-heading"><span class="text-muted">{{.title}}</span> {{with .extraImage}}<img src="{{.}}" width="50px">{{end}}</h2>
       <p class="lead">
         {{ .description | markdownify }}
       </p>
