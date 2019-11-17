@@ -1,12 +1,15 @@
 +++
 date = ""
-gallery = []
 tags = []
 title = "July 2019"
 [menu.main]
 name = "July  2019"
 parent = "Blog"
 weight = 6
+[[gallery]]
+image = "/images/uploads/IMG_20190815_072243_1thumb.jpg"
+thumb = "/images/uploads/IMG_20190815_072243_1thumb.jpg"
+title = ""
 
 +++
 ## July 2019
