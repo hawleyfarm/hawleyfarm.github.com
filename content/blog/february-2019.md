@@ -1,6 +1,5 @@
 +++
-date = "2019-01-31T12:45:39.000+07:00"
-draft = true
+date = 2019-01-31T05:45:39Z
 showTitle = false
 tags = []
 title = "February 2019"
