@@ -7,7 +7,7 @@ parent = "Blog"
 weight = 3
 [[gallery]]
 image = "/images/uploads/IMG_20190611small.jpg"
-thumb = ""
+thumb = "/images/uploads/IMG_20190611small.jpg"
 title = "Lambs"
 
 +++
