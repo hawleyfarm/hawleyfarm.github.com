@@ -4,23 +4,23 @@
   {{ if eq .invert "true" }}
   
     <div class="col-md-5">
-      <img class="featurette-image img-fluid center-block" src="{{.image}}" alt="" width="100%">
+      <img class="featurette-image img-fluid center-block" src="{{.image}}" alt=="{{.alt}}" width="100%">
     </div>
     <div class="col-md-7">
-      <h2 class="featurette-heading"><span class="text-muted">{{.title}}</span> {{with .extraImage}}<img src="{{.}}" alt="{{.alttext}}" width="50px">{{end}}</h2>
+      <h2 class="featurette-heading"><span class="text-muted">{{.title}}</span> {{with .extraImage}}<img src="{{.}}" alt="{{.alt}}" width="50px">{{end}}</h2>
       <p class="lead">
         {{ .description | markdownify }}
       </p>
     </div>
 {{ else }}
     <div class="col-md-7">
-      <h2 class="featurette-heading"><span class="text-muted">{{.title}}</span> {{with .extraImage}}<img src="{{.}}" alt="" width="50px">{{end}}</h2>
+      <h2 class="featurette-heading"><span class="text-muted">{{.title}}</span> {{with .extraImage}}<img src="{{.}}" alt="{{.alt}}" width="50px">{{end}}</h2>
       <p class="lead">
         {{ .description | markdownify }}
       </p>
     </div>
     <div class="col-md-5">
-      <img class="featurette-image img-fluid center-block" src="{{.image}}" alt="" width="100%">
+      <img class="featurette-image img-fluid center-block" src="{{.image}}" alt="{{.alt}}" width="100%">
     </div>
 {{ end }}
 
