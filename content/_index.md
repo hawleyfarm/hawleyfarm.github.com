@@ -1,5 +1,5 @@
 +++
-date = "2019-01-31T12:45:39.000+07:00"
+date = 2019-01-31T05:45:39Z
 showTitle = "false"
 tags = []
 title = "Home"
@@ -30,7 +30,7 @@ imageCarousel = "/images/photos/deer_in_garden.jpg"
 text = "If you have a questions that this website doesn't answer, then please contact us. We will email or call back with the answer as soon as we can."
 title = "Have a question?"
 [[featurette]]
-alt = "ABC"
+alt = "Cows in a field"
 extraImage = "/images/badges/AA-Four-Stars.jpg"
 image = "/images/photos/000_0075.jpg"
 text = "Nestled in the beautiful English countryside, our barn conversion is the perfect choice if you´re looking for relaxing farm holidays in East Devon. With picturesque views of the countryside and plenty of places of interest to visit in the local area. Farm cottages can be a fantastic choice for all of the family."
