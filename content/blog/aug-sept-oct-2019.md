@@ -10,9 +10,9 @@ August/September/October 2019
 
 Honiton Show had a lovely day on the 1st August, the run of good weather continued.
 
-Beach days a many with the choice of beaches such as Lyme Regis, Seaton, Beer, Branscombe and Sidmouth close to Hawley Farm, for swimming and taking the sun. Dalwood fair also brought in the crowds. Making a splendid day out for all the family when on holiday in East Devon staying on a farm in magnificent accommodation.
+Beach days a many with the choice of beaches such as Lyme Regis, Seaton, Beer, Branscombe and Sidmouth close to Hawley Farm, for swimming and taking the sun. Dalwood fair also brought in the crowds, making a splendid day out for all the family when on holiday whilst staying on our farm.
 
-On the farm the cows were drying up for their rest period enjoying glorious days laying in the sun.
+On the farm, the cows are drying up for their rest period enjoying glorious days laying in the sun.
 
 The calving started on the week of the 21st August so a steady stream of calves began.
 
