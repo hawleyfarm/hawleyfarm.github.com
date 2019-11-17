@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/our-story/</loc>
+    <lastmod>2019-04-15T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/what-if-it-rains/</loc>
+    <lastmod>2019-04-15T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/out-and-about-gardens/</loc>
+    <lastmod>2019-04-14T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/april-2019/</loc>
+    <lastmod>2019-04-09T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/march-2019/</loc>
+    <lastmod>2019-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/february-2019/</loc>
+    <lastmod>2019-02-01T05:45:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/info/thingstodo/</loc>
+    <lastmod>2019-01-31T12:06:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/reviews/guestbook/</loc>
+    <lastmod>2019-01-31T18:27:26+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/info/findus/</loc>
+    <lastmod>2019-01-31T18:18:14+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/info/whenandwhere/</loc>
+    <lastmod>2019-01-31T17:43:37+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/booking/</loc>
+    <lastmod>2019-01-31T17:24:54+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2019-01-31T17:24:54+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accommodation/ciderpress/</loc>
+    <lastmod>2019-01-31T12:45:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-01-31T05:45:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accommodation/stables/</loc>
+    <lastmod>2019-01-31T12:45:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accommodation/wagonhouse/</loc>
+    <lastmod>2019-01-31T12:45:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/accommodation/</loc>
+    <lastmod>2019-01-31T12:45:39+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/aug-sept-oct-2019/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-04-09T23:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/info/</loc>
+    <lastmod>2019-01-31T12:06:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/july/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/june/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/may/</loc>
+  </url>
+  
+  <url>
+    <loc>/reviews/</loc>
+    <lastmod>2019-01-31T18:27:26+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
