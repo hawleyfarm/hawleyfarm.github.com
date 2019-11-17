@@ -39,8 +39,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/blog/may.md
 - content/blog/april-2019.md
+- content/blog/may.md
 - content/blog/march-2019.md
 - content/blog/aug-sept-oct-2019.md
 - content/blog/july.md
