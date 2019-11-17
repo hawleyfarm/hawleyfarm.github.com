@@ -9,7 +9,7 @@ weight = 6
 [[gallery]]
 image = "/images/uploads/IMG_20190815_072243_1thumb.jpg"
 thumb = "/images/uploads/IMG_20190815_072243_1thumb.jpg"
-title = ""
+title = "Mushrooms from the field"
 
 +++
 ## July 2019
