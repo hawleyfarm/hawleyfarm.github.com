@@ -2,6 +2,9 @@
 date = ""
 tags = []
 title = "Aug-Oct 2019"
+[menu.main]
+parent = "Blog"
+weight = 7
 [[gallery]]
 image = "/images/uploads/IMG_thumb.jpeg"
 thumb = "/images/uploads/IMG_thumb.jpeg"

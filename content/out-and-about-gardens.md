@@ -1,5 +1,5 @@
 +++
-date = "2019-04-14T23:00:00+00:00"
+date = 2019-04-14T23:00:00Z
 gallery = []
 tags = []
 title = "Gardens in East Devon"

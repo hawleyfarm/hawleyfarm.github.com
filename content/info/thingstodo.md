@@ -1,5 +1,5 @@
 +++
-date = "2019-01-31T19:06:49.000+07:00"
+date = 2019-01-31T12:06:49Z
 showTitle = "true"
 tags = []
 title = "Walk this way!"
