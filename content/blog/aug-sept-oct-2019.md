@@ -1,5 +1,6 @@
 +++
 date = ""
+draft = true
 tags = []
 title = "Aug-Oct 2019"
 [menu.main]
@@ -28,3 +29,5 @@ There was a rainy time with cooler temperatures from around the 21st September. 
 The cows start to receive silage for extra feed as the grass loses its value and the cows need extra. feed.
 
 During the second half of October the leaves start to change colour, the fascinating Oak trees really look delightful.
+
+The older calves enjoy having their cake in the troughs, a good time to count them if you can!
