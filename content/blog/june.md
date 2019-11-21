@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 tags = []
 title = "June 2019"
 [menu.main]
