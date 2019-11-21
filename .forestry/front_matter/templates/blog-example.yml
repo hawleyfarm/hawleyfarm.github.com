@@ -39,6 +39,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/info/frequently-asked-questions.md
 - content/our-story.md
 - content/blog/aug-sept-oct-2019.md
 - content/blog/june.md
