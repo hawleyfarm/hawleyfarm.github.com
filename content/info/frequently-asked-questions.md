@@ -38,7 +38,7 @@ The Tuckers arms in the village of Dalwood ring to book tel.no. 01404881342, it 
 
 ##### 8. We have kids, do you have you a cot, stair gate?
 
-Yes, Yes.
+Yes, Yes. (small playing field 1/2 mile towards village)
 
 ##### 9. Do you take our well trained dog/s?
 
