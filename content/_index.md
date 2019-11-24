@@ -18,7 +18,7 @@ title = "Ever stayed in a working farm holiday cottage before?"
 Class = "third-slide"
 imageCarousel = "/images/photos/P1010077.JPG"
 text = "Devon is said to be one of the most beautiful counties in the United Kingdom with history, culture and stunning views intertwined. The Jurassic Coast has a great story to tell and the rolling Blackdown Hills are the perfect place to enjoy a picnic on in the warm summer months."
-title = "Stay in quiet rural East Devon"
+title = "Stay in quiet rural East Devon close to the Coast"
 [[carousel]]
 Class = "fourth-slide"
 imageCarousel = "/images/photos/lymeregisbeachandhabour.JPG"
