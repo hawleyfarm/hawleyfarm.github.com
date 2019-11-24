@@ -7,7 +7,7 @@ title = "Home"
 Class = "first-slide"
 active = "active"
 imageCarousel = "/images/photos/20180420_121256-EFFECTS_squash.jpg"
-text = "Nestled in the beautiful English countryside, our unique barn conversions are the perfect choice if you´re looking for a relaxing holiday in quiet and peaceful East Devon. Hotel near Axminster."
+text = "Nestled in the beautiful English countryside, our unique barn conversions are the perfect choice if you´re looking for a relaxing holiday in quiet and peaceful East Devon. Farm holiday cottages.  Hotel near Axminster."
 title = "Hawley Farm Holiday Accommodation"
 [[carousel]]
 Class = "second-slide"
