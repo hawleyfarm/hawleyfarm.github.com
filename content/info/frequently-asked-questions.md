@@ -14,15 +14,15 @@ Yes, a sheet towel and a hand towel each.
 
 ##### 2. Do you provide linen?
 
-Yes, cotton,50/50, all beds made up for your requirements as the beds are flexible.
+Yes, 100%cotton & 50/50, all beds made up for your requirements as  some beds are flexible.
 
 ##### 3. What time can we arrive?
 
-3 p.m.
+3 p.m. If you ring we may be ready earlier.
 
 ##### 4. Can we get our shopping delivered?
 
-Yes.
+Yes. Shops at Axminster 4mile, Honiton 5miles. Excellent  farm shop at Kilmington 3miles. Community shop in Dalwood 1 mile, with some supplies.
 
 ##### 5. Where do I collect the key?
 
@@ -34,10 +34,16 @@ Yes, we have a large car park so if you have friends round to visit they can par
 
 ##### 7. Where can we eat out that is close?
 
-The Tuckers arms in the village of Dalwood ring to book tel.no. 01404881342.  The Sidmouth Arms at Upottery tel.no. 01404861252. The Hare and Hounds 0140486141760.
+The Tuckers arms in the village of Dalwood ring to book tel.no. 01404881342, it is closed in the afternoon.  The Sidmouth Arms at Upottery tel.no. 01404861252. The Hare and Hounds 0140486141760.
 
 ##### 8. We have kids, do you have you a cot, stair gate?
 
+Yes, Yes.
+
 ##### 9. Do you take our well trained dog/s?
 
+We take well trained dog for each let but not in high season. There is a charge of £25 per stay. We have rules that you must stick to. We do not have an enclosed garden. We do have great walks that would suit your dog.
+
 ##### 10. We like walking, tell us where.
+
+We have OS maps and also show you where they start. There is a map of the local walks also that are timed. The coastal paths are very popular also.
