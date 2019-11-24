@@ -10,7 +10,7 @@ title = "Frequently asked Questions"
 
 ##### 1. Do you provide towels?
 
-Yes, a sheet towel and a hand towel each.
+Yes, a large sheet towel and a hand towel each for each person. Please bring your own towels for the beach.
 
 ##### 2. Do you provide linen?
 
@@ -18,11 +18,11 @@ Yes, 100%cotton & 50/50, all beds made up for your requirements as  some beds ar
 
 ##### 3. What time can we arrive?
 
-3 p.m. If you ring we may be ready earlier.
+3 p.m or later. If you ring we may be ready earlier.
 
 ##### 4. Can we get our shopping delivered?
 
-Yes. Shops at Axminster 4mile, Honiton 5miles. Excellent  farm shop at Kilmington 3miles. Community shop in Dalwood 1 mile, with some supplies.
+Yes.  If you want me to unpack please let me know.  Shops at Axminster 4mile, Honiton 5miles. Excellent  farm shop at Kilmington 3miles. Community shop in Dalwood 1 mile, with some supplies.
 
 ##### 5. Where do I collect the key?
 
