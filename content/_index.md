@@ -27,8 +27,8 @@ title = "The Jurassic Coast"
 [[carousel]]
 Class = "fifth-slide"
 imageCarousel = "/images/photos/deer_in_garden.jpg"
-text = "If you have a questions that this website doesn't answer, then please contact us. We will email or call back with the answer as soon as we can."
-title = "Have a question? Tel no. 01404831250 / 07968155916"
+text = "If you have a questions that this website doesn't answer, then please contact us. We will email or call back with the answer as soon as we can. A great East Devon farm holiday is waiting for you, come and stay in the cottages."
+title = "Have a question? Please call or message, Tel no. 01404831250 / 07968155916"
 [[featurette]]
 alt = "Cows in a field"
 extraImage = "/images/badges/AA-Four-Stars.jpg"
