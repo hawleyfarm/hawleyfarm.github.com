@@ -46,4 +46,6 @@ We take well trained dog for each let but not in high season. There is a charge 
 
 ##### 10. We like walking, tell us where.
 
-We have OS maps and also show you where they start. There is a map of the local walks also that are timed. The coastal paths are very popular also.
+We have many places to walk.
+
+We have OS maps and also show you where they start. There is a map of the local walks around the village that are timed. The coastal paths are very popular also.
