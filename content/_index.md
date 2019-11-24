@@ -13,7 +13,7 @@ title = "Hawley Farm Holiday Accommodation"
 Class = "second-slide"
 imageCarousel = "/images/photos/100_2352.JPG"
 text = "Picturesque views of the countryside and plenty of interest for all ages in the area, farm holiday cottages can be a fantastic choice for all of the family."
-title = "Ever stayed on a working farm before?"
+title = "Ever stayed in a working farm holiday cottage before?"
 [[carousel]]
 Class = "third-slide"
 imageCarousel = "/images/photos/P1010077.JPG"
