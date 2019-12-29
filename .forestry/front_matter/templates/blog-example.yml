@@ -39,13 +39,13 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/april-2019.md
+- content/blog/aug-sept-oct-2019.md
+- content/blog/july.md
+- content/blog/june.md
+- content/blog/march-2019.md
+- content/blog/may.md
 - content/info/frequently-asked-questions.md
 - content/our-story.md
-- content/blog/aug-sept-oct-2019.md
-- content/blog/june.md
-- content/blog/july.md
-- content/what-if-it-rains.md
 - content/out-and-about-gardens.md
-- content/blog/march-2019.md
-- content/blog/april-2019.md
-- content/blog/may.md
+- content/what-if-it-rains.md
