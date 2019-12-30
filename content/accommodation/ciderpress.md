@@ -1,6 +1,6 @@
 +++
 Link3D = "https://my.matterport.com/show/?m=PFyRT2X5moe"
-date = "2019-01-31T12:45:39.000+07:00"
+date = 2019-01-31T05:45:39Z
 showBooking = "false"
 showTitle = false
 tags = []
@@ -11,7 +11,7 @@ imageCarousel = "/images/photos/P1010085.JPG"
 text = "This holiday let was once a place for making and storing cider. By restoring this historical building, we have added a touch of modern magic while still keeping this East Devon farm let homely and comfortable. Relax with stunning countryside and garden views while enjoying free WiFi throughout your accommodation. The room layout is upside-down, i.e. living area upstairs, sleeping area downstairs."
 title = "The Cider Press"
 [[carousel]]
-imageCarousel = "/images/photos/P1010034.JPG"
+imageCarousel = "/IMG_20191229_115435c.jpg"
 text = "The three bedrooms of The Cider Press boast plenty of space for up to six people. The Master Bedroom is complete with en suite bathroom  and all bedrooms have lots of storage options. With the quietude of the country, warm, wooden furniture and cosy furnishings, you´ll fall asleep with ease."
 title = "Sleeps up to 6 people"
 [[carousel]]
