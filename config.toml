@@ -64,6 +64,7 @@ dateFormat = "Jan 2, 2006"
 hideFooter = false
 includeBootstrapJs = false
 showActiveNav = true
+enableRobotsTXT = true
 [permalinks]
 post = "/:filename/"
 [taxonomies]
