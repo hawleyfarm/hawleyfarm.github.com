@@ -14,4 +14,6 @@
     {{ $title = .Site.Title }}
   {{ end }}
   <title>{{ $title }}</title>
+  
+  {{ partial schema.html . }}
 </head>
