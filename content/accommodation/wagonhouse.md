@@ -1,6 +1,6 @@
 +++
 Link3D = "https://my.matterport.com/show/?m=PsNbMG1tgPD"
-date = "2019-01-31T12:45:39.000+07:00"
+date = 2019-01-31T05:45:39Z
 showTitle = false
 tags = []
 title = "Wagon House"
@@ -14,7 +14,7 @@ imageCarousel = "/images/photos/P1010055.JPG"
 text = "The bedrooms of The Wagon House are all about pure comfort with big beds and furnishings to keep you snug at night. Both have en suite bathrooms which is a massive advantage for those wanting extra privacy. The original features and wooden beams are also a nod back to the history of our farm houses."
 title = "Sleeps up to 4 people"
 [[carousel]]
-imageCarousel = "/images/photos/P1010103.JPG"
+imageCarousel = "/images/uploads/IMG_0245w.JPG"
 text = "Our two comfortable leather sofas make the living area a welcoming place to watch television or discuss your trip. There's a wood burner if you´re coming to visit during winter and we also have a separate WC downstairs for your convenience."
 title = "Living Area"
 [[carousel]]
