@@ -3,6 +3,10 @@ date = ""
 gallery = []
 tags = []
 title = "Frequently Asked Questions"
+[menu.main]
+name = "FAQs"
+parent = "Reviews/More information"
+weight = 9
 
 +++
 ## FAQs
