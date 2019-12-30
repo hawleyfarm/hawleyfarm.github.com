@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Hawley Farm Holiday Cottages in East Devon"
+enableRobotsTXT = true
 [[menu.main]]
 name = "When and where"
 parent = "Reviews/More information"
@@ -64,7 +65,6 @@ dateFormat = "Jan 2, 2006"
 hideFooter = false
 includeBootstrapJs = false
 showActiveNav = true
-enableRobotsTXT = true
 [permalinks]
 post = "/:filename/"
 [taxonomies]
