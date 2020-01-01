@@ -17,5 +17,3 @@ We can take payment by cheque, bank transfer and Paypal.
 "Fantastic cottages, spacious and modern well located to Lyme Regis and other areas"
 
 Mark M.
-
-#### Special offer for any week until 8th February £380
