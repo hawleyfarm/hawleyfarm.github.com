@@ -25,7 +25,7 @@ Yes, all beds made up for your requirements as some beds are flexible.
 
 ### 4. Can we get our shopping delivered?
 
-Yes. Tesco and other stores deliver.  If you want me to unpack please let me know.  Shops at Axminster (4 miles), Honiton (5 miles). Excellent Farm Shop at Kilmington (3 miles). Community shop in Dalwood (1 mile) with some supplies.
+Yes. Tesco, Waitrose and other stores deliver.  If you want me to unpack please let me know.  Shops at Axminster (4 miles), Honiton (5 miles). Excellent Farm Shop at Kilmington (3 miles). Community shop in Dalwood (1 mile) with some supplies.
 
 ### 5. Where do I collect the key?
 
@@ -39,9 +39,9 @@ Yes, we have a large car park so if you have friends round to visit they can par
 
 The Tuckers Arms is in the village of Dalwood (01404881342), closed in the afternoon. The Sidmouth Arms at Upottery (01404861252). The Hare and Hounds (0140486141760).
 
-### 8. We have kids, do you have you a cot, stair gate?
+### 8. We have kids, do you have a cot, stair gate?
 
-We have a cots, highchairs and stairgates, but must be prearranged. Small playing field 1/2 mile towards village.
+We have a cots, highchairs and stairgates, also a bed guard, but must be prearranged. Small playing field 1/2 mile towards village.
 
 ### 9. Do you take our well trained dog(s)?
 
