@@ -24,4 +24,4 @@ If you are in a walking group you could book all three selfcatering cottages and
 
 Hawley Farm[ holiday accommodation](https://www.hawleyfarm.co.uk/accommodation/stables/ "Accommodation") is a short distance from the Jurassic coast, so this section of  the South Wast coastal footpath is just right to do while holidaying at Dalwood. If you come with friends and two cars, it works well. Beer through to Branscombe is said to be the best bit of the whole 600 miles round. There is a bus that you can catch if needed.
 
-What ever the time of year it is great to be outside making the most of every day with a good pair of walking boots and coat or sun hat. Then back for a lovely comfortable evening and sleep at Hawley Farm holiday cottages.
+What ever the time of year it is great to be outside making the most of every day with a good pair of walking boots and coat or sun hat. Then back for a lovely comfortable evening and sleep at Hawley Farm holiday cottages near Axminster in East Devon.
