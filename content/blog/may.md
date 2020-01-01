@@ -19,6 +19,6 @@ After checking the sheep this evening at 9.30 pm they are still busy eating, bla
 
 We put up an electric fence with three strands of wire with a small shock that will train the lambs not to cross to get into the hedge. A few try and pull the wire down, and I put it up again, but after a day they learn, and are reformed characters, so it is quieter and the hedges can grow without being constantly nibbled!
 
-It is great to see the lambs running around and jumping in the air as if they are on springs.
+It is great to see the lambs running around and jumping in the air as if they are on springs. Children love to bottle feed spare lambs while on holiday in the spacious barn conversions near the Jurassic Coast.
 
 Have just cut for 1st cut silage, it is early as the spring has been magnificent. The quality will be great but the quantity will not be large. Regrowth soon if it rains, we hope!
