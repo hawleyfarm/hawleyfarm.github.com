@@ -15,6 +15,8 @@ title = "Calves feeding"
 
 Honiton Show had a lovely day on the 1st August, the run of good weather continued.
 
+It is always on the first Thursday of August, 12 minutes from the holiday homes at Dalwood.
+
 Beach days a many with the choice of beaches such as Lyme Regis, Seaton, Beer, Branscombe and Sidmouth close to Hawley Farm, for swimming and taking the sun. Dalwood fair also brought in the crowds, making a splendid day out for all the family when on holiday whilst staying on our farm.
 
 On the farm, the cows are drying up for their rest period enjoying glorious days laying in the sun.
