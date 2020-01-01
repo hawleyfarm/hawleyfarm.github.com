@@ -1,6 +1,5 @@
 +++
 date = 2019-01-31T10:24:54Z
-draft = true
 showBooking = "true"
 showTitle = "false"
 tags = []
