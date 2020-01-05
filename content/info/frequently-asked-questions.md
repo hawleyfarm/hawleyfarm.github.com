@@ -25,7 +25,7 @@ Yes, all beds made up for your requirements as some beds are flexible.
 
 ### 4. Can we get our shopping delivered?
 
-Yes. Tesco, Waitrose and other stores deliver.  If you want me to unpack please let me know.  Shops at Axminster (4 miles), Honiton (5 miles). Excellent Farm Shop at Kilmington (3 miles). Community shop in Dalwood (1 mile) with some supplies.
+Yes. Tesco, Waitrose and other stores deliver. If you want me to unpack please let me know.  Shops at Axminster (4 miles), Honiton (5 miles). Excellent Farm Shop at Kilmington (3 miles). Community shop in Dalwood (1 mile) with some supplies.
 
 ### 5. Where do I collect the key?
 
