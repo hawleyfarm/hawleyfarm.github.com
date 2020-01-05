@@ -1,6 +1,6 @@
 baseURL = "https://www.hawleyfarm.co.uk/"
 languageCode = "en-us"
-title = "East Devon Holiday Cottages | Hawley Farm Accommodation | Jurassic Coast"
+title = "East Devon Holiday Cottages | Hawley Farm | Jurassic Coast"
 enableRobotsTXT = true
 [[menu.main]]
 name = "When and where"
