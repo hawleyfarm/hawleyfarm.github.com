@@ -29,7 +29,7 @@ Yes. Tesco, Waitrose and other stores deliver. If you want me to unpack please l
 
 ### 5. Where do I collect the key?
 
-The key will be in the door and you will be able to enter as soon as you arrive. We will be around to greet you.
+The key will be at the door and you will be able to enter as soon as you arrive. We will be around to greet you.
 
 ### 6. Can I park all our cars?
 
