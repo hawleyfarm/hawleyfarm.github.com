@@ -41,7 +41,7 @@ The Tuckers Arms is in the village of Dalwood (01404881342), closed in the after
 
 ### 8. We have kids, do you have a cot, stair gate?
 
-We have a cots, highchairs and stairgates, also a bed guard, but must be prearranged. Small playing field 1/2 mile towards village.
+We have cots, highchairs and stairgates, also a bed guard, but must be prearranged. Small playing field 1/2 mile towards village.
 
 ### 9. Do you take our well trained dog(s)?
 
