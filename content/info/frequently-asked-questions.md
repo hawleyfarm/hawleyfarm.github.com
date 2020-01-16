@@ -17,7 +17,7 @@ Yes, a large sheet towel and a hand towel each for each person. Please bring you
 
 ### 2. Do you provide linen?
 
-Yes, all beds made up for your requirements as some beds are flexible.
+Yes, all beds made up for your requirements as some beds are flexible. We have some feather pillows, if this does not suit you please let me know so I can remove them.
 
 ### 3. What time can we arrive?
 
