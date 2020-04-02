@@ -1,5 +1,6 @@
 +++
 date = ""
+draft = true
 gallery = []
 tags = []
 title = "Frequently Asked Questions"
@@ -9,15 +10,13 @@ parent = "Reviews/More information"
 weight = 9
 
 +++
-## FAQs   
+## FAQs
 
 Coronavirus
 
-We are very sorry to say we are temporarily closed to having guests stay due to the current situation and are not sure how long this will be.
-
 We wish all our guests, families friends, and all,  can stay safe in this very upsetting time.
 
-If  you would like to book a holiday in the future, please do, however,  we will not be taking any deposits until we are sure it can go ahead. We wait for guidance from the government.
+If  you would like to book a holiday in the future, please do, however,  we will not be taking any deposits until we are sure it can go ahead. We wait for guidance from the government. We are very sorry until then, we are temporary closed to taking guests
 
 Any holidays already booked and paid for, that cannot take place due to this pandemic can be re booked at a later date of the guests choice. There may be a slight adjustment in price depending what time of year this may be.  Thank you.
 
