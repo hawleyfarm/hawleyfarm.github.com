@@ -9,7 +9,9 @@ parent = "Reviews/More information"
 weight = 9
 
 +++
-## FAQs
+## FAQs   
+
+Coronavirus
 
 We are very sorry to say we are temporarily closed to having guests stay due to the current situation and are not sure how long this will be.
 
