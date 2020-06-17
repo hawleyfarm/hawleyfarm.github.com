@@ -9,15 +9,17 @@ parent = "Reviews/More information"
 weight = 9
 
 +++
-## FAQs
+## FAQs & COVID 19
 
 Coronavirus
 
 We wish all our guests, families friends, and all,  can stay safe in this very upsetting time.
 
-If  you would like to book a holiday in the future, please do, however,  we will not be taking any deposits until we are sure it can go ahead. We wait for guidance from the government. We are very sorry until then, we are temporary closed to taking guests
+If  you would like to book a holiday in the future, please do, however,  we will not be taking any deposits until we are sure it can go ahead. We wait for guidance from the government. We are very sorry until then, we are temporary closed to taking guests.
 
-Any holidays already booked and paid for, that cannot take place due to this pandemic can be re booked at a later date of the guests choice. There may be a slight adjustment in price depending what time of year this may be.  Thank you.
+We will be putting in place government guidelines to keep you and ourselves safe due to this pandemic.
+
+ Thank you.
 
 ### 1. Do you provide towels?
 
@@ -29,7 +31,9 @@ Yes, all beds made up for your requirements as some beds are flexible. We have s
 
 ### 3. What time can we arrive?
 
-3pm or later. If you call we may be ready earlier.
+5\.pm due to extra work caused by Covid. Sorry we need this extra time to keep you safe.
+
+We would also like to ask if you could leave by 9.30 for the same reason.
 
 ### 4. Can we get our shopping delivered?
 
