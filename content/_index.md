@@ -1,5 +1,6 @@
 +++
 date = 2019-01-31T05:45:39Z
+draft = true
 showTitle = "false"
 tags = []
 title = "Home"
@@ -33,7 +34,7 @@ title = "Have a question? Please call or message, Tel no. 01404831250 / 07968155
 alt = "Cows in a field"
 extraImage = "/images/badges/AA-Four-Stars.jpg"
 image = "/images/photos/000_0075.jpg"
-text = "Nestled in the beautiful English countryside, our barn conversion is the perfect choice if you´re looking for relaxing farm holidays in East Devon. With picturesque views of the countryside and plenty of places of interest to visit in the local area. Farm Holiday cottages can be a fantastic choice for all of the family."
+text = "Nestled in the beautiful English countryside, our barn conversion is the perfect choice if you´re looking for relaxing farm holidays in East Devon. With picturesque views of the countryside and plenty of places of interest to visit in the local area. Farm Holiday cottages can be a fantastic choice for all of the family.\nIMPORTANT, GOVERNMENT COVID 19 GUIDELINES WILL BE IN PLACE. "
 title = "Welcome to Hawley Farm Holiday Cottages"
 [[featurette]]
 alt = "A little sheep and a big sheep"
