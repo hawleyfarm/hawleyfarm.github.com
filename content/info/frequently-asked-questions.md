@@ -11,15 +11,15 @@ weight = 9
 +++
 ## FAQs & COVID 19
 
-Coronavirus
+Coronavirus information:
 
-We wish all our guests, families friends, and all,  can stay safe in this very upsetting time.
+We wish all our guests, families, friends, and all, can stay safe in this very upsetting time.
 
-If  you would like to book a holiday in the future, please do, however,  we will not be taking any deposits until we are sure it can go ahead. We wait for guidance from the government. We are very sorry until then, we are temporary closed to taking guests.
+If you would like to book a holiday in the future, please do, however,  we will not be taking any deposits until we are sure it can go ahead. We wait for guidance from the government. We are very sorry until then, we are temporarily closed to taking guests.
 
 We will be putting in place government guidelines to keep you and ourselves safe due to this pandemic.
 
- Thank you.
+Thank you.
 
 ### 1. Do you provide towels?
 
