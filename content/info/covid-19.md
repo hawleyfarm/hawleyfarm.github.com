@@ -11,7 +11,7 @@ We are pleased to say we will be open for Holiday guests from the 4th July after
 
 It has been an upsetting time for all of us, but hope you would like to have a UK holiday here in rural East Devon.
 
-I would like to put your mind at rest, we have been working hard to make a safe environment for your holiday here at Hawley Farm Holiday  Accommodation.
+We would like to put your mind at rest, we have been working hard to make a safe environment for your holiday here at Hawley Farm Holiday  Accommodation.
 
 With that in mind, there are a few changes that we have had to put in place to allow us more time to clean and sanitise the properties  for your stay to benefit  the  health and safety of us all.
 
@@ -35,4 +35,4 @@ We hope you will have a pleasant holiday with us but if you any questions or con
 
 email,     info@hawleyfarm.co.uk
 
-Thank you for reading, we look forward to meeting you at a social distance.
+Thank you for reading, we look forward to meeting you, at a social distance.
