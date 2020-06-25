@@ -34,7 +34,7 @@ alt = ""
 extraImage = ""
 image = ""
 text = "We are able to accommodate guests safely during the current pandemic. Please see the Covid 19 page."
-title = "Covid 19 information page"
+title = "Covid 19"
 [[featurette]]
 alt = "Cows in a field"
 extraImage = "/images/badges/AA-Four-Stars.jpg"
