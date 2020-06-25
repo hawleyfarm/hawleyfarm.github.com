@@ -3,6 +3,9 @@ date = 2020-06-24T23:00:00Z
 gallery = []
 tags = []
 title = "COVID 19"
+[menu.main]
+name = "Covid 19"
+weight = 6
 
 +++
 # **COVID 19**

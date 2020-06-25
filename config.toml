@@ -1,7 +1,7 @@
 baseURL = "https://www.hawleyfarm.co.uk/"
+enableRobotsTXT = true
 languageCode = "en-us"
 title = "East Devon Holiday Cottages | Hawley Farm | Jurassic Coast"
-enableRobotsTXT = true
 [[menu.main]]
 name = "When and where"
 parent = "Reviews/More information"
@@ -28,14 +28,14 @@ parent = "Reviews/More information"
 url = "/info/findus"
 weight = 2
 [[menu.main]]
-name = "Reviews"
-parent = "Reviews/More information"
-url = "/reviews/guestbook/"
-weight = 1
-[[menu.main]]
 name = "Ciderpress"
 parent = "Accommodation"
 url = "/accommodation/ciderpress"
+weight = 1
+[[menu.main]]
+name = "Reviews"
+parent = "Reviews/More information"
+url = "/reviews/guestbook/"
 weight = 1
 [[menu.main]]
 name = "Blog"
