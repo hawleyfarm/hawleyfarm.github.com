@@ -30,6 +30,12 @@ imageCarousel = "/images/photos/deer_in_garden.jpg"
 text = "If you have a questions that this website doesn't answer, then please contact us. We will email or call back with the answer as soon as we can. A great East Devon farm holiday is waiting for you, come and stay in the cottages."
 title = "Have a question? Please call or message, Tel no. 01404831250 / 07968155916"
 [[featurette]]
+alt = ""
+extraImage = ""
+image = ""
+text = "We are able to accommodate guests safely during the current pandemic. Please see the Covid 19 page."
+title = "Covid 19 information page"
+[[featurette]]
 alt = "Cows in a field"
 extraImage = "/images/badges/AA-Four-Stars.jpg"
 image = "/images/photos/000_0075.jpg"
