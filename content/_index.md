@@ -33,7 +33,7 @@ title = "Have a question? Please call or message, Tel no. 01404831250 / 07968155
 alt = ""
 extraImage = ""
 image = ""
-text = "We are able to accommodate guests safely during the current pandemic. Please see the [Covid 19 page](www.hawleyfarm.co.uk/info/covid-19/) from the top menu."
+text = "We are able to accommodate guests safely during the current pandemic. Please see the [Covid 19 page](info/covid-19/) from the top menu."
 title = "Covid 19"
 [[featurette]]
 alt = "Cows in a field"
