@@ -18,6 +18,11 @@ We would like to put your mind at rest, we have been working hard to make a safe
 
 With that in mind, there are a few changes that we have had to put in place to allow us more time to clean and sanitise the properties for your stay to ensure the health and safety of us all.
 
+Following these changes, the AA and VisitEngland have granted us certificates confirming that we are _Covid Secure_:
+
+* AA: "Covid-19 Confident"
+* VisitEngland: "We're good to go"
+
 # **Day of arrival**
 
 Your holiday accommodation will be cleaned and sanitised ready for your arrival and you will notice the hand sanitiser at the front entrance, this is for you and all your party to use each time you enter your property. Please can you arrive not before 5pm unless you have been told otherwise.
