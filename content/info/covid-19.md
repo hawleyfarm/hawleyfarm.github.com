@@ -20,7 +20,7 @@ With that in mind, there are a few changes that we have had to put in place to a
 
 Following these changes, the AA and VisitEngland have granted us certificates confirming that we are _Covid Secure_:
 
-* AA: "Covid-19 Confident"
+* The AA: ["Covid-19 Confident"](/images/uploads/covid_confident_certificate.pdf)
 * VisitEngland: "We're good to go"
 
 # **Day of arrival**
