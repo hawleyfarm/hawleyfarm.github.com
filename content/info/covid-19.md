@@ -1,6 +1,5 @@
 +++
 date = 2020-06-24T23:00:00Z
-draft = true
 gallery = []
 tags = []
 title = "COVID 19"
@@ -22,8 +21,8 @@ With that in mind, there are a few changes that we have had to put in place to a
 Following these changes, the AA and VisitEngland have granted us certificates confirming that we are _Covid Secure_:
 
 * The AA: ["Covid-19 Confident"](/images/uploads/covid_confident_certificate.pdf)
-* VisitEngland: ["We're good to go"](/images/uploads/we-re-good-to-go-certificate.pdf)
-* Local Lockdown.  If you have a booked holiday with us here and are unable to come due to a local lock down. Please be assured that we will re book you for another time suitable,  to take your holiday at a later date.
+* Visit England: ["We're good to go"](/images/uploads/we-re-good-to-go-certificate.pdf)
+* Local Lock down.  If you have a booked holiday with us here and are unable to come due to a local lock down. Please be assured that we will re book you for another time suitable,  to take your holiday at a later date.
 
 # **Day of arrival**
 
