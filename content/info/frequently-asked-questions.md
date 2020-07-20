@@ -1,5 +1,6 @@
 +++
 date = ""
+draft = true
 gallery = []
 tags = []
 title = "Frequently Asked Questions"
@@ -13,19 +14,19 @@ weight = 9
 
 **1a. What is open now for us to take the children out. Here are a few,**
 
-Axe valley wildlife, https://www.axevallypark.co.uk   
+Axe valley wildlife, [https://www.axevalleypark.co.uk/](https://www.axevalleypark.co.uk/ "https://www.axevalleypark.co.uk/")
 
-Stuart line Cruises, https://www.stuartlinecruises.co.uk    
+Stuart line Cruises, https://www.stuartlinecruises.co.uk
 
-Diggerland  https://www.diggerland.com   
+Diggerland  https://www.diggerland.com
 
 Seaton Tram https://www.tram.co.uk
 
 Crealy themepark  https://www.crealy.co.uk
 
- Escot wildlife   https://devon.wildwoodtrust.org
+Escot wildlife   https://devon.wildwoodtrust.org
 
- Bicton park    https://www.bictongardens.co.uk
+Bicton park    https://www.bictongardens.co.uk
 
 ### 1. Do you provide towels?
 
