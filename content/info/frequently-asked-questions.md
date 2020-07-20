@@ -63,7 +63,7 @@ We have cots, highchairs and stairgates, also a bed guard, but must be prearrang
 
 ### 9. Do you take our well trained dog(s)?
 
-We take well trained dogs for each holiday let, but not in high season. There is a charge of £30 per stay per dog. We have rules that you must stick to; dogs not left unattended, not allowed on beds or furniture, must be on a lead when walking on footpaths in the fields. We do not have an enclosed garden. We do have great walks that would suit your dog.
+We take well trained dogs for each holiday let.  There is a charge of £30 per stay per dog. We have rules that you must stick to; dogs not left unattended, not allowed on beds or furniture, must be on a lead when walking on footpaths in the fields. We do not have an enclosed garden. We do have great walks that would suit your dog.
 
 ### 10. We like walking, tell us where.
 
