@@ -11,6 +11,22 @@ weight = 9
 +++
 ## FAQs
 
+**1a. What is open now for us to take the children out. Here are a few,**
+
+Axe valley wildlife, https://www.axevallypark.co.uk   
+
+Stuart line Cruises, https://www.stuartlinecruises.co.uk    
+
+Diggerland  https://www.diggerland.com   
+
+Seaton Tram https://www.tram.co.uk
+
+Crealy themepark  https://www.crealy.co.uk
+
+ Escot wildlife   https://devon.wildwoodtrust.org
+
+ Bicton park    https://www.bictongardens.co.uk
+
 ### 1. Do you provide towels?
 
 Yes, a large sheet towel and a hand towel each for each person. Please bring your own towels for the beach.
