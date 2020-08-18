@@ -1,5 +1,6 @@
 +++
 date = ""
+draft = true
 gallery = []
 tags = []
 title = "Frequently Asked Questions"
@@ -59,11 +60,11 @@ The Tuckers Arms is in the village of Dalwood (01404881342), closed in the after
 
 ### 8. We have kids, do you have a cot, stair gate?
 
-We have cots, highchairs and stairgates, also a bed guard, but must be prearranged. Small playing field 1/2 mile towards village.
+We have cots, highchairs and stair gates, also a bed guard, but must be prearranged. Small playing field 1/2 mile towards village.
 
-### 9. Do you take our well trained dog(s)?
+### 9. Dogs can they come? Do you take our well behaved dog(s)?
 
-We take well trained dogs for each holiday let.  There is a charge of £30 per stay per dog. We have rules that you must stick to; dogs not left unattended, not allowed on beds or furniture, must be on a lead when walking on footpaths in the fields. We do not have an enclosed garden. We do have great walks that would suit your dog.
+We take well behaved dogs for each holiday let.  There is a charge of £30 per stay per dog. We have rules that you must stick to; dogs not left unattended, not allowed on beds or furniture, must be on a lead when walking on footpaths in the fields. Always pick up after your dog. We do not have an enclosed garden. We do have great walks that would suit your dog. We welcome your canine family friend.
 
 ### 10. We like walking, tell us where.
 
