@@ -29,6 +29,10 @@ Bicton park    https://www.bictongardens.co.uk
 
 Abbotbury Swannery  abbotbury-tourism.co.uk
 
+Honiton Dairy Ice cream shop. High street Honiton
+
+The Community Waffle House Axminster  waffle.org.uk
+
 ### 1. Do you provide towels?
 
 Yes, a large sheet towel and a hand towel each for each person. Please bring your own towels for the beach.
