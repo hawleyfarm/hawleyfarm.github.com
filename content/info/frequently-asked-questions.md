@@ -23,15 +23,15 @@ Seaton Tram https://www.tram.co.uk
 
 Crealy themepark  https://www.crealy.co.uk
 
-World of country life www.wouldofcountrylife.co.uk
+World of country life 
 
 Bicton park    https://www.bictongardens.co.uk
 
-Abbotbury Swannery  abbotbury-tourism.co.uk
+Abbotbury Swannery  
 
 Honiton Dairy Ice cream shop. High street Honiton
 
-The Community Waffle House Axminster  waffle.org.uk
+The Community Waffle House Axminster  
 
 ### 1. Do you provide towels?
 
