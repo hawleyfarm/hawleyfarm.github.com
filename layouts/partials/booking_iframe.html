@@ -1,3 +1,18 @@
-<div id="bookingiframe" class="container bookingiframe">
-  <iframe id="bookingiframe" src="https://www.devonfarms.co.uk/availability-chart.php?accom_id=272&refer=farmwebsite" width="100%" height="650px" frameborder="0" scrolling="yes" style="border:0" allowtransparency="true" style="background: #ffffe6;"></iframe>
-</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    accom_id="272";
+    jQuery(document).ready(function() {
+        jQuery.ajax( {
+            url      : "https://www.devonfarms.co.uk/availability-chart-outer.php?accom_id="+accom_id+"&refer=farmwebsite",
+            dataType : "text",
+            success  : function(data) {
+                data = data.replace(/\$/g,'jQuery');
+                jQuery("#booking-system").html(data);
+            },
+            error    : function(data) {
+                jQuery("#booking-system").html(data);
+            }
+        });
+    });
+</script>
+<div id="booking-system"></div>
