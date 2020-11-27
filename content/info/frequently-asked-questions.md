@@ -82,4 +82,4 @@ We have Ordnance Survey (OS) maps. There is a map of the local walks around the 
 
 You can stay with members of your own household and go out to dinner with them only.
 
-You can stay if you come from tier 1 or 2 areas only. Devon is currently tier 2, review on the 16th December2020
+You can stay if you come from tier 1 or 2 areas only. Devon is currently tier 2, review on the 16th December 2020
