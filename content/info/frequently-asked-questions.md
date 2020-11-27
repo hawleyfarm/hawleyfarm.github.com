@@ -1,5 +1,6 @@
 +++
 date = ""
+draft = true
 gallery = []
 tags = []
 title = "Frequently Asked Questions"
@@ -31,7 +32,7 @@ Abbotbury Swannery    [http://abbotsbury-tourism.co.uk/swannery/](http://abbotsb
 
 Honiton Dairy Ice cream shop. High street Honiton
 
-The Community Waffle House Axminster  
+The Community Waffle House Axminster
 
 ### 1. Do you provide towels?
 
@@ -76,3 +77,9 @@ We take well behaved dogs for each holiday let.  There is a charge of £30 per s
 We have many places to walk.
 
 We have Ordnance Survey (OS) maps. There is a map of the local walks around the village with approximate timings. The coastal paths are very popular also.
+
+### 11. I do not understand about tiers, can we stay?
+
+You can stay with members of your own household and go out to dinner with them only.
+
+You can stay if you come from tier 1 or 2 areas only. Devon is currently tier 2, review on the 16th December2020
