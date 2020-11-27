@@ -1,5 +1,6 @@
 +++
 date = 2020-06-24T23:00:00Z
+draft = true
 gallery = []
 tags = []
 title = "COVID 19"
@@ -13,6 +14,10 @@ weight = 6
 # **For all new bookings, if Government action concerning Covid 19 results in you being prevented from travelling we will refund all monies paid.**
 
 We are pleased to say we will be open for Holiday guests from the 4th July after the lockdown on 23rd March 2020.  An event that will go down in history.
+
+After the November lock down we are open again for guests from the 4th December.
+
+We hope to  welcome guests from tier 1 and 2 areas in household groups. For this winter time. 
 
 It has been an upsetting time for all of us, but we hope you would like to have a UK holiday here in rural East Devon.
 
