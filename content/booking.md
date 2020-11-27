@@ -1,5 +1,6 @@
 +++
 date = 2019-01-31T10:24:54Z
+draft = true
 showBooking = "true"
 showTitle = "false"
 tags = []
@@ -9,6 +10,8 @@ title = "Availability and Booking"
 ## Booking
 
 **For all new bookings, if Government action concerning Covid 19 results in you being prevented from travelling we will refund all monies paid.**
+
+We are taking booking for this wintertime from one household only. From tiers 1 and 2 areas. Devon is currently tier 2.
 
 Bookings are managed through Devon Farms, a cooperative of farming holiday providers. Please see the booking form below.
 
