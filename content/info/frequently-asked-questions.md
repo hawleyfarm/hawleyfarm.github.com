@@ -43,9 +43,9 @@ Yes, all beds made up for your requirements as some beds are flexible. We have s
 
 ### 3. What time can we arrive?
 
-5\.pm due to extra work caused by Covid. Sorry we need this extra time to keep you safe.
+Through the low season when bookings are fewer you may well be able to arrive from 2pm and vacate at 11am, please check this.
 
-We would also like to ask if you could leave by 9.30 for the same reason.
+For high season Holidays.   5.pm due to extra work caused by Covid. Sorry we need this extra time to keep you safe. We would also like to ask if you could leave by 9.30 for the same reason.
 
 ### 4. Can we get our shopping delivered?
 
