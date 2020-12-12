@@ -27,7 +27,7 @@ They continued into September and October with the pens getting full of calves. 
 
 There was a rainy time with cooler temperatures from around the 21st September. This was a relief as the ground had become very dry. The fields green up again.
 
-The cows start to receive silage for extra feed as the grass loses its value and the cows need extra. feed.
+The cows start to receive silage as the grass loses its value and the cows need extra feed.
 
 During the second half of October the leaves start to change colour, the fascinating Oak trees really look delightful.
 
