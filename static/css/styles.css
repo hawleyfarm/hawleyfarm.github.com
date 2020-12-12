@@ -189,8 +189,7 @@ thead {
   font-family: Source Sans Pro, Arial, sans-serif; }
 
 td {
-  min-width: 125px;
-  vertical-align: top;
+  min-width: 50px;
   padding: 8px; }
 
 td a {
