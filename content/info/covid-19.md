@@ -30,7 +30,7 @@ Following these changes, the AA and VisitEngland have granted us certificates co
 
 # **Day of arrival**
 
-Your holiday accommodation will be cleaned and sanitised ready for your arrival and you will notice the hand sanitiser at the front entrance, this is for you and all your party to use each time you enter your property. Please can you arrive not before 5pm unless you have been told otherwise.
+Your holiday accommodation will be cleaned and sanitised ready for your arrival and you will notice the hand sanitiser at the front entrance, this is for you and all your party to use each time you enter your property. Please can you arrive not before 4.30 pm unless you have been told otherwise.
 
 You will also be advised of your parking space and your open-air leisure space. We ask that you please respect other guests by keeping your party to your designated areas
 
@@ -40,7 +40,7 @@ The departure time for all our properties is now 9.30am prompt.
 
 On the morning of your departure can you please put all your bedding and towels in the linen bags provided and leave in the utility room and please leave a window open in every room, weather permitting
 
-Please note that all farm visits are now canceled until further notice. We are sorry and hope things will change for the better in the near future. The field footpaths are all open however to enjoy.
+Please note that all farm visits are now cancelled until further notice. We are sorry and hope things will change for the better in the near future. The field footpaths are all open however to enjoy.
 
 **Lastly, if any of your party show any symptoms of Covid-19 during your stay, please inform, Pamela, Graham or Annie, immediately.**
 
