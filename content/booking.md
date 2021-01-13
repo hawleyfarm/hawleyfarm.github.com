@@ -8,7 +8,7 @@ title = "Availability and Booking"
 +++
 ## Booking
 
-**For all new bookings, if Government action concerning Covid 19 results in you being prevented from travelling we will refund all monies paid.**
+**For all new bookings, if Government action concerning Covid 19 results in you being prevented from travelling we will REFUND ALL monies paid.**
 
 We are now Tier 3 and in lock down, so can not have holiday guests to stay here at this current time.
 
@@ -16,7 +16,7 @@ Please book dates you would like for later in the year, you will only pay for yo
 
 Bookings are managed through Free to Book. Please see the booking form below.
 
-The booking form is restricted to start your booking on a SATURDAY for CIDER PRESS and WAGON HOUSE. 
+The booking form is restricted to start your booking on a SATURDAY for CIDER PRESS and WAGON HOUSE.
 
 The STABLES however changes on a FRIDAY.
 
