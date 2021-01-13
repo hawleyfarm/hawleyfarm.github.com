@@ -24,7 +24,7 @@ From October to May, we are happy to relax this restriction, therefore if you wo
 
 We can take payment by cheque, bank transfer.
 
-Cider Press sleeps 6 three bedrooms, Wagon House sleeps 4 two bedrooms, Stables sleep up to seven two large bedrooms with sofa bed in living room .
+Cider Press sleeps 6 three bedrooms, Wagon House sleeps 4 two bedrooms, Stables sleep up to 7 in two large bedrooms with sofa bed in living room .
 
 "Fantastic cottages, spacious and modern well located to Lyme Regis and other areas"
 
