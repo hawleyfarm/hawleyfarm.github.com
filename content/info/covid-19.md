@@ -1,6 +1,5 @@
 +++
 date = 2020-06-24T23:00:00Z
-draft = true
 gallery = []
 tags = []
 title = "COVID 19"
@@ -11,7 +10,7 @@ weight = 6
 +++
 # **COVID 19**
 
-# **For all new bookings, if Government action concerning Covid 19 (lockdowns)results in you being prevented from travelling we will refund all monies paid.**
+# **For all  bookings, if Government action concerning Covid 19 (lockdowns)results in you being prevented from travelling we will refund all monies paid.**
 
 We however can not repay you if one or more of your party has to self isolate, is sick or wider family member is ill. Insurance can be taken out for these.
 
