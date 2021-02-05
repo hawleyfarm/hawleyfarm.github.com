@@ -8,9 +8,13 @@ title = "Availability and Booking"
 +++
 ## Booking
 
-**For all new bookings, if Government action concerning Covid 19 results in you being prevented from travelling we will REFUND ALL monies paid.**
+**For all bookings, if Government action concerning Covid 19 (LOCKDOWNS) results in you being prevented from travelling we will REFUND ALL monies paid.**
 
-We are now Tier 3 and in lock down, so can not have holiday guests to stay here at this current time.
+Bookings made from 5th february 2021 onwards, we cannot repay if one or more guests has to self isolate and stay at home or if sick or wider members of your family are not well.
+
+INSURANCE CAN BE TAKEN OUT FOR THESE.
+
+We hope to know on the 22nd february the date when holidays may comence.
 
 Please book dates you would like for later in the year, you will only pay for your holiday if it can go ahead according to UK law. Thank you.
 
