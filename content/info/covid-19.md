@@ -14,7 +14,7 @@ weight = 6
 
 We however can not repay you if one or more of your party has to self isolate, is sick or wider family member is ill. Insurance can be taken out for these.
 
-Please book dates in the year.  You will only pay for  your holiday when it can go ahead due to UK law. We will have more information about when we may open on the 22nd February.
+Please book dates in the year you would like.  We are looking forward to the warmer months and greeting guests again, but not sure when we may open.  We will have more information about this  on the 22nd February.
 
 We hope  you would like to have a UK holiday here in rural East Devon, close to the Jurassic Coast.
 
