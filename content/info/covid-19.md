@@ -1,5 +1,6 @@
 +++
 date = 2020-06-24T23:00:00Z
+draft = true
 gallery = []
 tags = []
 title = "COVID 19"
@@ -10,13 +11,13 @@ weight = 6
 +++
 # **COVID 19**
 
-# **For all new bookings, if Government action concerning Covid 19 results in you being prevented from travelling we will refund all monies paid.**
+# **For all new bookings, if Government action concerning Covid 19 (lockdowns)results in you being prevented from travelling we will refund all monies paid.**
 
-We are closed to holiday guests again, due to being now a Tier 3.
+We however can not repay you if one or more of your party has to self isolate, is sick or wider family member is ill. Insurance can be taken out for these.
 
-However, please book dates for later in the year, you will only pay for  your holiday when it can go ahead due to UK law.
+Please book dates in the year.  You will only pay for  your holiday when it can go ahead due to UK law. We will have more information about when we may open on the 22nd February.
 
-It has been an upsetting time for all of us, but we hope you would like to have a UK holiday here in rural East Devon.
+We hope  you would like to have a UK holiday here in rural East Devon, close to the Jurassic Coast.
 
 We would like to put your mind at rest, we have been working hard to make a safe environment for your holiday here at Hawley Farm Holiday Accommodation.
 
