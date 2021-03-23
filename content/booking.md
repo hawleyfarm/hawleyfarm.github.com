@@ -1,6 +1,5 @@
 +++
 date = 2019-01-31T10:24:54Z
-draft = true
 showBooking = "true"
 showTitle = "false"
 tags = []
@@ -17,7 +16,9 @@ INSURANCE CAN BE TAKEN OUT FOR THESE.
 
 Holidays may commence from the 12th April for single households and 17th May for two households. (All being well)
 
-Please book dates you would like for later in the year, you will only pay for your holiday if it can go ahead according to UK law. Thank you.
+There is availability from the 19th April at the moment!
+
+Please book dates you would like, you will only pay for your holiday if it can go ahead according to UK law. Thank you.
 
 Bookings are managed through Free to Book. Please see the booking form below.
 
