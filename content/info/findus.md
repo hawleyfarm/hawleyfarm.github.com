@@ -1,5 +1,6 @@
 +++
-date = "2019-01-31T18:18:14.000+07:00"
+date = 2019-01-31T11:18:14Z
+draft = true
 showMap = "true"
 showTitle = "false"
 tags = []
@@ -15,4 +16,16 @@ Hawley Farm, Dalwood, Axminster, Devon, EX13 7HR
 
 If you have any problems finding us please ring Tel. No.
 
-01404831250 / 07968155916
+01404831250 / 0796815591
+
+Please follow google maps for Hawley farm and you should come straight here.
+
+Post Code can be problematic as others have the same, so you can be taken down the wrong narrow lane at the very end of your journey where it is difficult to turn.
+
+What three words are good.
+
+Wagon House ///gratitude.parked.hitters
+
+Cider press ///caps.obliging.handbag
+
+The Stables ///wire.amplified.gain
