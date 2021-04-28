@@ -23,3 +23,5 @@ Thank you,     Graham and Pamela.
 "Fantastic cottages, spacious and modern well located to Lyme Regis and other areas"
 
 Mark M.
+
+                                                                                                                                                BOOK  HERE  
