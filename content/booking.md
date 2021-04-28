@@ -12,21 +12,15 @@ title = "Availability and Booking"
 
 Holidays may commence from the 12th April for single households and 17th May for two households.
 
-There is availability from the 24th April at the moment!
-
-Please book dates you would like.
-
 Bookings are managed through Free to Book. Please see the booking form below.
 
 The booking form is restricted to start your booking on a SATURDAY for CIDER PRESS, WAGON HOUSE and The STABLES for high season.
 
 From October to June we are happy to relax this restriction, therefore if you would prefer a different period, please ["contact us"](/contact). You can always ring, anytime. 07968155916 / 01404831250
 
-Cider Press sleeps 6 three bedrooms, Wagon House sleeps 4 two bedrooms, Stables sleep up to 7 in two large bedrooms with sofa bed in living room . A dog is welcome @£30 but the garden is not enclosed.
+Cider Press sleeps 6, three bedrooms, Wagon House sleeps 4, two bedrooms, Stables sleep up to 7 in two large bedrooms with sofa bed in living room . A well behaved dog is welcome to stay @£30  The garden is not enclosed. There is livestock in the fields.
 
-Thank you,
-
-Graham and Pamela
+ Thank you,     Graham and Pamela.
 
 "Fantastic cottages, spacious and modern well located to Lyme Regis and other areas"
 
