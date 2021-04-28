@@ -8,9 +8,7 @@ title = "Availability and Booking"
 +++
 ## Booking
 
-**For all bookings, if Government action concerning Covid 19 (LOCKDOWNS) results in you being prevented from travelling we will REFUND ALL monies paid.**
-
-Holidays may commence from the 12th April for single households and 17th May for two households.   Please see the booking form below.
+**For all bookings, if Government action concerning Covid 19 (LOCKDOWNS) results in you being prevented from travelling we will REFUND ALL monies paid.**  Holidays may commence from the 12th April for single households and 17th May for two households.   Please see the booking form below.
 
 The booking form is restricted to start your booking on a SATURDAY for CIDER PRESS, WAGON HOUSE and The STABLES for high season.
 
