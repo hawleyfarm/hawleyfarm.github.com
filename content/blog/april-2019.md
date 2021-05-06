@@ -17,7 +17,7 @@ The blackthorn continues to flower and so the cold weather remains, sunny in the
 
 I would say it has been a super spring and every thing has been looking lovely. We are now in the Easter [Holidays](https://www.hawleyfarm.co.uk/accommodation/stables/ "stables") and lovely to see children who are interested in what goes on in the countryside. Coming with them is their family pet who they say is getting tired after all the exercise it is getting while on holiday here.
 
-The cows have gone out to grass by day but waiting for the warmer nights to stay out all the time. We have had a batch of spring calves,  limousin cross as they are sired by our own bull.
+The cows have gone out to grass by day but waiting for the warmer nights to stay out all the time. We have had a batch of spring calves,  limousine cross as they are sired by our own bull.
 
 The ewes have all lambed, except eight so will have some  later perhaps, but the others are enjoying the lovely dry weather. In the mornings as the nights are cold with frosts the young lambs like to sleep on top of the ewes as their wool fleeces is lovely and warm.
 
