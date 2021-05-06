@@ -45,7 +45,7 @@ Yes, all beds made up for your requirements as some beds are flexible. We have s
 
 Through the low season when bookings are fewer you may well be able to arrive from 2pm and vacate at 11am, please check this.
 
-For high season Holidays.   5.pm due to extra work caused by Covid. Sorry we need this extra time to keep you safe. We would also like to ask if you could leave by 9.30 for the same reason.  We hope to be able to receive guests from 4pm if able this will be confirmed before you arrive.
+For MOST though, You can arrive from   4.pm and later if that suits you.   We would also like to ask if you could leave by 9.30 prompt. We do need this time for the change over. 
 
 ### 4. Can we get our shopping delivered?
 
@@ -76,7 +76,3 @@ We take well behaved dogs for each holiday let.  There is a charge of £30 per s
 We have many places to walk.
 
 We have Ordnance Survey (OS) maps. There is a map of the local walks around the village with approximate timings. The coastal paths are very popular also.
-
-### 11. I do not understand about tiers, can we stay?
-
-At this time we can not have holiday guests as we are in a lock down. We are hoping to be open in March, but no date has been set.
