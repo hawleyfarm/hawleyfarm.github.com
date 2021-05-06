@@ -10,11 +10,11 @@ weight = 6
 +++
 # **COVID 19**
 
-# **For all  bookings, if Government action concerning Covid 19 (lockdowns)results in you being prevented from travelling we will refund all monies paid.**
+# **For all  bookings, if Government action concerning Covid 19 (lock downs)results in you being prevented from travelling we will refund all monies paid.**
 
 We however can not repay you if one or more of your party has to self isolate, is sick or wider family member is ill. Insurance can be taken out for these.
 
-Please book dates in the year you would like.  We are looking forward to the warmer months and greeting guests again, but not sure when we may open.  We will have more information about this  on the 22nd February.
+Please book dates in the year you would like.  We are looking forward to the warmer months and greeting guests again.
 
 We hope  you would like to have a UK holiday here in rural East Devon, close to the Jurassic Coast.
 
@@ -22,7 +22,7 @@ We would like to put your mind at rest, we have been working hard to make a safe
 
 With that in mind, there are a few changes that we have had to put in place to allow us more time to clean and sanitise the properties for your stay to ensure the health and safety of us all.
 
-Following these changes, the AA and VisitEngland have granted us certificates confirming that we are _Covid Secure_:
+Following these changes, the AA and Visit England have granted us certificates confirming that we are _Covid Secure_:
 
 * The AA: ["Covid-19 Confident"](/images/uploads/covid_confident_certificate.pdf)
 * Visit England: ["We're good to go"](/images/uploads/we-re-good-to-go-certificate.pdf)
@@ -30,7 +30,7 @@ Following these changes, the AA and VisitEngland have granted us certificates co
 
 # **Day of arrival**
 
-Your holiday accommodation will be cleaned and sanitised ready for your arrival and you will notice the hand sanitiser at the front entrance, this is for you and all your party to use each time you enter your property. Please can you arrive not before 4.30 pm unless you have been told otherwise.
+Your holiday accommodation will be cleaned and sanitised ready for your arrival and you will notice the hand sanitiser at the front entrance, this is for you and all your party to use each time you enter your property. Please can you arrive not before 4.00 pm unless you have been told otherwise.
 
 You will also be advised of your parking space and your open-air leisure space. We ask that you please respect other guests by keeping your party to your designated areas
 
