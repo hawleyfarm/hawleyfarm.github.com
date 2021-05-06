@@ -11,7 +11,7 @@ thumb = "/images/uploads/IMG_20190611smallTN.jpg"
 title = "Lambs"
 
 +++
-## April 2019
+## April 
 
 The blackthorn continues to flower and so the cold weather remains, sunny in the day, but cold at night, with frosts, not much rain, so the spring flowers are still looking grand and lasting longer than normal.
 
