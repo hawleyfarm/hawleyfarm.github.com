@@ -18,7 +18,7 @@ From October to June we are happy to relax this restriction, therefore if you wo
 
 Cider Press sleeps 6, three bedrooms, Wagon House sleeps 4, two bedrooms, Stables sleep up to 7 in two large bedrooms with sofa bed in living room . A well behaved dog is welcome to stay @£30  The garden is not enclosed. There is livestock in the fields.
 
-To view Ts & Cs click here.
+To view Ts & Cs click [here](/images/uploads/hawley-farm-terms-and-conditions.pdf).
 
 Thank you, Graham and Pamela.
 
