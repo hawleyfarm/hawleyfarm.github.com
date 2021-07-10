@@ -17,24 +17,6 @@
   {{end}}
 
   <div class="row content">
-    <div class="col-md-3">
-      <div id="TA_selfserveprop110" class="TA_selfserveprop">
-        <ul id="lUrHb9LQPk" class="TA_links Cik9wM">
-          <li id="KZUWU4aPSo" class="ct4Kgr"><a target="_blank" href="https://www.tripadvisor.co.uk/"><img src="https://www.tripadvisor.co.uk/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/></a></li>
-        </ul>
-      </div>
-      <script async src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=110&amp;locationId=7131341&amp;lang=en_UK&amp;rating=true&amp;nreviews=5&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=false&amp;border=true&amp;display_version=2">
-      </script>
-
-      <div id="TA_selfserveprop111" class="TA_selfserveprop">
-        <ul id="lUrHb9LQPk" class="TA_links Cik9wM">
-          <li id="KZUWU4aPSo" class="ct4Kgr"><a target="_blank" href="https://www.tripadvisor.co.uk/"><img src="https://www.tripadvisor.co.uk/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/></a></li>
-        </ul>
-      </div>
-      <script async src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=111&amp;locationId=7182575&amp;lang=en_UK&amp;rating=true&amp;nreviews=5&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=false&amp;border=true&amp;display_version=2">
-      </script>
-      
-    </div>
     <div class="col-md-6">
       <p>{{ .Content }}</p>
     </div>
@@ -42,49 +24,23 @@
       {{ with .Params.gallery }}
 
         {{range .}}
-        {{ partial "gallery/gallery-item.html" (dict "title" .title  "image" .image "thumb" .thumb) }}
+          {{ partial "gallery/gallery-item.html" (dict "title" .title  "image" .image "thumb" .thumb) }}
         {{end}}
 
       {{end}}
   
-      <div id="TA_selfserveprop111" class="TA_selfserveprop">
-        <ul id="lUrHb9LQPk" class="TA_links Cik9wM">
-          <li id="KZUWU4aPSo" class="ct4Kgr"><a target="_blank" href="https://www.tripadvisor.co.uk/"><img src="https://www.tripadvisor.co.uk/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/></a></li>
-        </ul>
-      </div>
-      <script async src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=111&amp;locationId=14056874&amp;lang=en_UK&amp;rating=true&amp;nreviews=5&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=false&amp;border=true&amp;display_version=2">
-      </script>
-
-    </div>
-  </div>
-
-  <div class="row">
-
-    <div class="col-md-12">
-    <iframe width="100%" height="1000" src="https://www.booking.com/reviews/gb/hotel/hawley-farm.en-gb.html?aid=1136575&sid=0710555a17056cc40edbbb293b57d8c9&r_lang=en&customer_type=total&order=score_desc" frameborder="0"></iframe>
-    </div>
-
-  </div>
-
-  <div class="row">
-    <div class="col-md-6">
-      {{partial "info/guestbook.html"}}
-    </div>
-    <div class="col-md-6">
-      <div class="fb-comments" data-href="http://www.hawleyfarm.co.uk" data-width="550" data-numposts="5"></div>
     </div>
   </div>
 
   <div class="row">
     <div class="col-md-12">
-      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-      <div class="elfsight-app-0b46d9f4-b7c0-4815-b3fc-9857e94b1292"></div>
-      
-      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-      <div class="elfsight-app-3dd7d218-9c04-4ac6-86f2-0af71061e7a7"></div>
-
       <script src="https://apps.elfsight.com/p/platform.js" defer></script>
       <div class="elfsight-app-e6d40e92-2bad-4c5a-8ae5-9acb082f0e5c"></div>
+    </div>
+    
+    <h4>Older reviews</h4>
+    <div class="col-md-12">
+      {{partial "info/guestbook.html"}}
     </div>
   </div>
 
