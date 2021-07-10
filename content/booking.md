@@ -21,3 +21,5 @@ Cider Press sleeps 6, three bedrooms, Wagon House sleeps 4, two bedrooms, Stable
 To view Ts & Cs click 
 
 Thank you,     Graham and Pamela.
+
+### Availability
