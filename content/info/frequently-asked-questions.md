@@ -15,7 +15,9 @@ weight = 9
 
 Axe valley wildlife, [https://www.axevalleypark.co.uk/](https://www.axevalleypark.co.uk/ "https://www.axevalleypark.co.uk/")
 
-Pecorama trains and garden http:www.pecorama.co.uk
+Beer Quarry Caves http://www.beerquarrycaves.co.uk/
+
+Pecorama trains and garden http://www.pecorama.co.uk
 
 Stuart line Cruises, https://www.stuartlinecruises.co.uk
 
