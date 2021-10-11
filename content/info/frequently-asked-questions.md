@@ -15,6 +15,8 @@ weight = 9
 
 Axe valley wildlife, [https://www.axevalleypark.co.uk/](https://www.axevalleypark.co.uk/ "https://www.axevalleypark.co.uk/")
 
+Pecorama trains and garden http:www.pecorama.co.uk
+
 Stuart line Cruises, https://www.stuartlinecruises.co.uk
 
 Diggerland  https://www.diggerland.com
@@ -45,7 +47,7 @@ Yes, all beds made up for your requirements as some beds are flexible. We have s
 
 Through the low season when bookings are fewer you may well be able to arrive from 2pm and vacate at 11am, please check this.
 
-For MOST though, You can arrive from   4.pm and later if that suits you.   We would also like to ask if you could leave by 9.30 prompt. We do need this time for the change over. 
+For MOST though, You can arrive from   4.pm and later if that suits you.   We would also like to ask if you could leave by 9.30 prompt. We do need this time for the change over.
 
 ### 4. Can we get our shopping delivered?
 
@@ -61,7 +63,13 @@ Yes, we have a large car park so if you have friends round to visit they can par
 
 ### 7. Where can we eat out that is close?
 
-The Tuckers Arms is in the village of Dalwood (01404881342), closed in the afternoon. The Sidmouth Arms at Upottery (01404861252). The Hare and Hounds (0140486141760).
+The Tuckers Arms is in the village of Dalwood (01404881342), closed in the afternoon. 
+
+The Sidmouth Arms at Upottery (01404861252).
+
+The Hare and Hounds (0140486141760). Nice carvery must book.
+
+The Grazing Cow on the A35 towards Honiton on the right. Not a pub or open on Sundays and closes at 4pm
 
 ### 8. We have kids, do you have a cot, stair gate?
 
