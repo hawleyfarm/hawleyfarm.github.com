@@ -1,5 +1,6 @@
 +++
 date = 2019-04-15T23:00:00Z
+draft = true
 gallery = []
 tags = []
 title = "What if it rains?"
@@ -29,3 +30,4 @@ Rainy days when on Holiday at Hawley farm self catering holiday cottages in East
 * **Train ride on the Dawlish Loop** – is said  to be one of Britain’s most spectacular railway journeys, especially in bad weather when the waves frequently wash over the train. Check out this little [**YouTube clip**](http://www.youtube.com/watch?v=16D1VrCQJYQ) (BBC’s Coast) to see what we mean
 * **Swimming pool at Axminster**– very nice swimming pool with hydrotherapy pool that is very warm!, a 15-minute journey from Hawley Farm
 * **Cinema in** [**Sidmouth**](http://sidmouth.scottcinemas.co.uk/) **or Exeter** – the Sidmouth cinema is a lovely old-fashioned cinema, there is one at Bridport as well. where as Exeter offers the full range ([**Odeon**](http://www.odeon.co.uk/cinemas/exeter/90/)**,** [**Vue**](http://www.myvue.com/home/cinema/exeter)**,** [**Picturehouse**](http://www.picturehouses.co.uk/cinema/Exeter_Picturehouse/))
+* Planet Play Honiton indoor playground  https://planet-play.co.uk/
