@@ -1,6 +1,5 @@
 +++
 date = 2019-04-15T23:00:00Z
-draft = true
 gallery = []
 tags = []
 title = "Our Story"
@@ -25,4 +24,8 @@ The milking was relocated to Harrisons Farm in 1995 as the access is much better
 
 In 2020 we all had to contend with the Covid epidemic with lockdowns and depressing news headlines. The farm keeps going which is a great distraction to all that was going on in the world, keeping us busy looking after the animals.
 
-We opened when we were allowed in July 4th 2020 and many very grateful guests returned and enjoyed a great summer holiday here until another lockdown in November. Christmas was disappointing for us and many as no family get together. So it was just the two of us.
+We opened when we were allowed in July 4th 2020 and many very grateful guests returned and enjoyed a great summer holiday here until another lockdown in November. Christmas was disappointing for us and many as no family get together. So here it was just the two of us.
+
+We opened again 12th April 2021 and our lovely return guests came and the weather was great. The vaccination campaign had started that changed the whole picture. With more growing confidence things had opened up.
+
+In May and June 2021, we had two wonderful grandchildren, both boys born to two of our sons families, with in three weeks of each other. This was the best news we could of hoped for after all the gloom!
