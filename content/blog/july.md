@@ -1,7 +1,7 @@
 +++
 date = ""
 tags = []
-title = "July 2019"
+title = "July "
 [menu.main]
 name = "July  2019"
 parent = "Blog"
