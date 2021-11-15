@@ -1,8 +1,9 @@
 +++
 date = 2019-02-01T05:45:39Z
+draft = true
 showTitle = false
 tags = []
-title = "February 2019"
+title = "February "
 [menu.main]
 parent = "Blog"
 weight = 1
