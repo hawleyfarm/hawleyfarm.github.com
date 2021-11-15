@@ -1,5 +1,6 @@
 +++
 date = 2019-04-15T23:00:00Z
+draft = true
 gallery = []
 tags = []
 title = "Our Story"
@@ -21,3 +22,7 @@ We were granted planning for holiday accommodation for the big barn, but it was 
 Luckily they were finished in 2010 and we had some lovely guests come to stay so all was good. Our three boys had all grown up, our first one was married in this year then the next one in 2014 and have both flown the nest. Winston and Cathrine who work on the farm with us now were married in 2017. We finished the Stables in 2018 so they are now complete. Sleeping up to 15+2 in all three.
 
 The milking was relocated to Harrisons Farm in 1995 as the access is much better for the lorries and they are so much bigger now. This was farmed by Graham's father who had retired in this year. The farm buildings at Hawley are now used for calves, sheep and storage.
+
+In 2020 we all had to contend with the Covid epidemic with lockdowns and depressing news headlines. The farm keeps going which is a great distraction to all that was going on in the world, keeping us busy looking after the animals.
+
+We opened when we were allowed in July 4th 2020 and many very grateful guests returned and enjoyed a great summer holiday here until another lockdown in November. Christmas was disappointing for us and many as no family get together. So it was just the two of us.
