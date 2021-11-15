@@ -1,7 +1,7 @@
 +++
 date = ""
 tags = []
-title = "May 2019"
+title = "May "
 [menu.main]
 parent = "Blog"
 weight = 4
