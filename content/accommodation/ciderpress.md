@@ -85,7 +85,7 @@ title = "View from Cider Press"
 #### Living Area
 
 * Authentic wood burner
-* TV and DVD player
+* Smart TV and DVD player
 * Wireless internet access
 
 #### Kitchen and Dining area
@@ -97,7 +97,7 @@ title = "View from Cider Press"
 
 #### Master Bedroom
 
-* 5ft double bed
+* 5 ft double bed
 * En suite wet room with shower, toilet and sink
 * Wardrobe, dressing table
 * TV and DVD Player
@@ -105,14 +105,14 @@ title = "View from Cider Press"
 
 #### Second Bedroom
 
-* Choose from a 6ft double bed or two 3ft single beds
+* Choose from a 6 ft double bed or two 3 ft single beds
 * Wardrobe and drawers for storage
 * TV and DVD Player
 * Glass entrance to garden and patio
 
 #### Third Bedroom
 
-* Choose from a 5ft double bed or two 2ft 6in single beds
+* Choose from a 5 ft double bed or two 2 ft 6 in single beds
 * Wardrobe and drawers for storage
 * TV and DVD Player
 
