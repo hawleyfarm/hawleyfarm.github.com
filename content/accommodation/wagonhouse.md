@@ -92,7 +92,7 @@ title = "Bedroom two ensuite"
 #### Living Area
 
 * Authentic wood burner
-* TV and DVD player
+* Smart TV and DVD player
 * Wireless internet access
 * Separate downstairs WC
 
@@ -125,7 +125,7 @@ title = "Bedroom two ensuite"
 * Barbecue area with table and chairs for six people
 * Gravel and paved garden areas
 * Garden furniture and sun loungers
-* Parking space
+* Parking spaces
 
 "We've just returned from a fantastic stay in the Wagon House. great accommodation and facilities. Pamela and Graham are great hosts. The Wagon House faces south east so the sun floods in for much of the day and despite the hugh windows it is very private.  We had a tour at the dairy which is down the road, so no early morning noise when you are sleeping. Lots of games to play. Our favourite day trip was to Lyme Regis which is only 20 minutes away."
 
