@@ -1,6 +1,6 @@
 +++
 Link3D = ""
-date = "2019-01-31T12:45:39.000+07:00"
+date = 2019-01-31T05:45:39Z
 showTitle = false
 tags = []
 title = "Stables"
@@ -108,7 +108,7 @@ title = "Upstairs bedroom"
 #### Lounge (upstairs)
 
 * Country view from large window
-* TV and DVD player
+* Smart TV and DVD player
 * Wireless internet access
 * Seating for 6
 * A sofa bed for +2
@@ -123,20 +123,21 @@ title = "Upstairs bedroom"
 * Microwave, toaster and kettle
 * Dishwasher
 * Seating
+* Smart TV
 
 #### Bedroom 1 (ground floor)
 
-* 6ft super kingsize bed or 3ft twin beds and 3ft single
+* 6 ft super king size bed or 3 ft twin beds and 3 ft single
 * Large room with seating and storage
-* TV and DVD Player
-* Wetroom ensuite
+* Smart TV and DVD Player
+* Wet room en suite
 
 #### Bedroom 2 (upstairs)
 
-* 6ft super kingsize bed or 3ft twin beds
+* 6 ft super king size bed or 3 ft twin beds
 * Large room with seating and storage
-* TV and DVD Player
-* Shower ensuite
+* Smart TV and DVD Player
+* Shower en suite
 
 #### Utility
 
