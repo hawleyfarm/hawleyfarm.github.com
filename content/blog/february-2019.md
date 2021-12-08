@@ -16,7 +16,7 @@ thumb = "/images/photos/thumbs/IMG_20190206_090827_217 (1)s.jpg"
 title = "Snowdrops in Sun"
 
 +++
-## February 
+#### February
 
 As the snow melted the sheep found their green grass again to eat. Many sheep keep the East Devon fields tidy in the winter when most of the cattle are not to be seen as they winter in the warm sheds on the farm, being fed the silage that had been made in the summer close to the village of Dalwood.
 
