@@ -12,7 +12,7 @@ thumb = "/images/uploads/IMG_20190611_222755thumbnailTN.jpeg"
 title = "Lambs in the hedge"
 
 +++
-## June 
+#### June
 
 Although the rain came and came, we were pleased to see the much-needed rain as it had been very dry. However, like all good things, it went on a little too long, and we soon hoped for sun, to get to the second cut silage! In the last week, the good weather returned and the silage was cut the second time. The crop was so much better due to the rain. Farming is very dependant on the weather.
 
