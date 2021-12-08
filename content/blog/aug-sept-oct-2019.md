@@ -11,7 +11,7 @@ thumb = "/images/uploads/IMG_thumb.jpeg"
 title = "Calves feeding"
 
 +++
-## August - October 
+#### August - October
 
 Honiton Show had a lovely day on the 1st August, the run of good weather continued.
 
