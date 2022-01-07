@@ -6,7 +6,7 @@ tags = []
 title = "Availability and Booking"
 
 +++
-## Booking
+# Booking
 
 **For all bookings, if Government action concerning Covid 19 (LOCK DOWNS) results in you being prevented from travelling we will REFUND ALL monies paid.**
 
@@ -22,4 +22,4 @@ To view Ts & Cs click [here](/images/uploads/hawley-farm-terms-and-conditions.pd
 
 Thank you, Graham and Pamela.
 
-### Availability
+## Availability
