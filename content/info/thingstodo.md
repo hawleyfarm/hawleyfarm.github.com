@@ -10,7 +10,7 @@ weight = 5
 +++
 Walking the many footpaths, that are right from your door when you stay at Hawley Farm self catering holiday cottages near Axminster and Honiton.
 
-There are five walks that have been  timed so you can plan your day and they all pass the Tuckers Arms pub in the village of Dalwood where you will be able to have a rest with food and drink if you arrive at lunch time or from six in the evening, or the small village shop where you can buy an ice cream. You will see the Devon flint stone and thatch houses that were made from what was found and grown in the area.
+There are five walks that have been  timed so you can plan your day and they all pass the Tuckers Arms pub in the village of Dalwood where you will be able to have a rest with food and drink, if you arrive at lunch time or from six in the evening. The small village shop is very friendly, where you can buy an ice cream. You will see the Devon flint stone and thatch houses that were made from what was found and grown in the area.
 
 Lovely views of the East Devon country side which is in the Blackdown Hills AONB.  A great way to keep healthy and to see the beauty of the countryside at any time of the year. You will pass the Devon hedgerows that are famous for their wild flowers and wild life, as you turn each corner there could be deer grazing or the sound of a woodpecker in the trees.
 
