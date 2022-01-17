@@ -86,3 +86,7 @@ We take well behaved dogs for each holiday let.  There is a charge of £30 per s
 We have many places to walk.
 
 We have Ordnance Survey (OS) maps. There is a map of the local walks around the village with approximate timings. The coastal paths are very popular also.
+
+#### 11. What should we bring?
+
+Beach towels, Picnic rug, Walking boots / Wellington boots, Water bottle, Sun hat, Sun glasses, Sun cream, Reading book, Rain coat, Camera, Food and drink, Special coffee / foods etc you require for you or your party.
