@@ -21,7 +21,7 @@ Please follow google maps for Hawley farm and you should come straight here.
 
 Post Code can be problematic as others have the same, so you can be taken down the wrong narrow lane at the very end of your journey where it is difficult to turn.
 
-What three words are good.
+"what3words" are good.  If you use them here they are.
 
 Wagon House ///gratitude.parked.hitters
 
