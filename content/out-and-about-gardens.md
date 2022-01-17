@@ -10,7 +10,7 @@ weight = 8
 +++
 Gardens
 
-While on holiday here in East Devon in the Luxury self catering cottages these gardens make a lovely day out any time of year.
+While on holiday here in East Devon in the Luxury Devon self catering cottages these gardens make a lovely day out any time of year.
 
 Burrow Farm gardens are within the  foot path walk no. 4  on the Circular walks in and around Dalwood.  So a visit not to be missed. 13 Acres of heaven, now in their 50th year.
 
