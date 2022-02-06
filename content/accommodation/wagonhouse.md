@@ -85,6 +85,30 @@ title = "Bedroom two"
 image = "/images/photos/P1010107.JPG"
 thumb = "/images/photos/thumbs/P1010107.JPG"
 title = "Bedroom two ensuite"
+[[gallery]]
+image = "/images/2022/full/DSC01029.jpg"
+thumb = "/images/2022/thumbs/DSC01029.jpg"
+title = "Plenty of flowers to go around"
+[[gallery]]
+image = "/images/2022/full/DSC01030.jpg"
+thumb = "/images/2022/thumbs/DSC01030.jpg"
+title = "Plenty of towels to go around"
+[[gallery]]
+image = "/images/2022/full/DSC01179.jpg"
+thumb = "/images/2022/thumbs/DSC01179.jpg"
+title = "Large Master Bedroom (view from North East)"
+[[gallery]]
+image = "/images/2022/full/DSC01162.jpg"
+thumb = "/images/2022/thumbs/DSC01162.jpg"
+title = "Well equiped modern kitchen"
+[[gallery]]
+image = "/images/2022/full/DSC01170.jpg"
+thumb = "/images/2022/thumbs/DSC01170.jpg"
+title = "Ground floor (view from Kitchen area)"
+[[gallery]]
+image = "/images/2022/full/DSC01202.jpg"
+thumb = "/images/2022/thumbs/DSC01202.jpg"
+title = "Bright winter view from an upstairs window"
 
 +++
 ## Overview

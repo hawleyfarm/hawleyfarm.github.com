@@ -78,6 +78,30 @@ title = "Area outside Cider Press"
 image = "/images/photos/cider4.JPG"
 thumb = "/images/photos/thumbs/cider4.JPG"
 title = "View from Cider Press"
+[[gallery]]
+image = "/images/2022/full/DSC01082.jpg"
+thumb = "/images/2022/thumbs/DSC01082.jpg"
+title = "Twin bedroom (west)"
+[[gallery]]
+image = "/images/2022/full/DSC00942.jpg"
+thumb = "/images/2022/thumbs/DSC00942.jpg"
+title = "Double bedroom (east)"
+[[gallery]]
+image = "/images/2022/full/DSC01076.jpg"
+thumb = "/images/2022/thumbs/DSC01076.jpg"
+title = "Twin bedroom (middle)"
+[[gallery]]
+image = "/images/2022/full/DSC00931.jpg"
+thumb = "/images/2022/thumbs/DSC00931.jpg"
+title = "Upper floor (view from Kitchen area)"
+[[gallery]]
+image = "/images/2022/full/DSC01050.jpg"
+thumb = "/images/2022/thumbs/DSC01050.jpg"
+title = "Wooden dining table"
+[[gallery]]
+image = "/images/2022/full/DSC01042.jpg"
+thumb = "/images/2022/thumbs/DSC01042.jpg"
+title = "Upper floor (view from Living area)"
 
 +++
 ## Overview
