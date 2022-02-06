@@ -101,6 +101,30 @@ title = "Upstairs living room"
 image = "/images/photos/20180420_130325.jpg"
 thumb = "/images/photos/thumbs/20180420_130325.jpg"
 title = "Upstairs bedroom"
+[[gallery]]
+image = "/images/2022/full/DSC01225.jpg"
+thumb = "/images/2022/thumbs/DSC01225.jpg"
+title = "Double + Single room with ensuite"
+[[gallery]]
+image = "/images/2022/full/DSC01228.jpg"
+thumb = "/images/2022/thumbs/DSC01228.jpg"
+title = "View to dining area from downstairs bedroom"
+[[gallery]]
+image = "/images/2022/full/DSC01239.jpg"
+thumb = "/images/2022/thumbs/DSC01239.jpg"
+title = "Easterly view of downstairs kitchen and dining area"
+[[gallery]]
+image = "/images/2022/full/DSC01245.jpg"
+thumb = "/images/2022/thumbs/DSC01245.jpg"
+title = "Upstairs living area"
+[[gallery]]
+image = "/images/2022/full/DSC01252.jpg"
+thumb = "/images/2022/thumbs/DSC01252.jpg"
+title = "Upstairs Master bedroom"
+[[gallery]]
+image = "/images/2022/full/DSC01263.jpg"
+thumb = "/images/2022/thumbs/DSC01263.jpg"
+title = "Modern ensuite with bath and shower"
 
 +++
 ## Overview
