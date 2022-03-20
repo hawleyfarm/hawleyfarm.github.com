@@ -81,6 +81,10 @@ We have cots, highchairs and stair gates, also a bed guard, but must be prearran
 
 We take well behaved dogs for each holiday let.  There is a charge of £30 per stay per dog. We have rules that you must stick to; dogs not left unattended, not allowed on beds or furniture, must be on a lead when walking on footpaths in the fields. Always pick up after your dog. We do not have an enclosed garden. We do have great walks that would suit your dog. We welcome your canine family friend.
 
+Dog friendly dinning.
+
+Tuckers Arms, Dalwood 01404881342.  Kings Arms, Stockland  01404881686.  The Sidmouth Arms, Upottery  01404861252.  Please book and say you would like to bring your dog.
+
 #### 10. We like walking, tell us where.
 
 We have many places to walk.
