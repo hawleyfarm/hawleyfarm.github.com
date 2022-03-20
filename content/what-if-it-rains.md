@@ -11,7 +11,6 @@ weight = 7
 Rainy days when on Holiday at Hawley farm self catering holiday cottages in East Devon.
 
 * Beer Caves have a very interesting tour of about 1hour ten miniutes in these large caves, it is very cold so go dressed up.
-* [**Seaton Jurassic**](http://seatonjurassic.org/) - a community-led centre that will engage thousands of people with East Devon’s unique geological, coastal and marine heritage
 * A day out looking around the many antique shops in Honiton as this is what makes up a large part of the shops here from old toys to books a lot to see if you are interested this sort of History. The Museum is also great, with a large displays of Honiton Lace.
 * [**Tickety Boo, Ottery St Mary**](https://www.facebook.com/TicketyBooOSM/) – a  coffee shop and play centre, right in the centre of Ottery St Mary.
 * [**Honiton Playdome**](http://www.theplaydome.com/) –  indoor play centre,  leather sofas and free WiFi
