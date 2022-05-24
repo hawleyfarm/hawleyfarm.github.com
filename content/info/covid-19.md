@@ -40,9 +40,7 @@ The departure time for all our properties is now 9.30am.
 
 On the morning of your departure can you please put all your bedding and towels in the linen bags provided and leave in the utility room and please leave a window open in every room, weather permitting
 
- The field footpaths are all open to enjoy.
-
-**Lastly, if any of your party show any symptoms of Covid-19 during your stay, please inform, Pamela, Graham or Annie.**
+The field footpaths are all open to enjoy.
 
 We hope you will have a pleasant holiday with us but if you any questions or concerns about a stay, please do not hesitate to contact us.  Telephone 01404831250, 07968155916.
 
