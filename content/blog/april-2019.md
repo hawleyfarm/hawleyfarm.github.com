@@ -1,5 +1,5 @@
 +++
-date = 2019-04-09T23:00:00Z
+date = ""
 tags = []
 title = "April "
 [menu.main]
