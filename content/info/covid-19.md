@@ -1,5 +1,6 @@
 +++
 date = 2020-06-24T23:00:00Z
+draft = true
 gallery = []
 tags = []
 title = "COVID 19"
