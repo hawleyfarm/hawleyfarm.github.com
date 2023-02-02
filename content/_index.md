@@ -4,6 +4,18 @@ showTitle = "false"
 tags = []
 title = "Home"
 [[carousel]]
+Class = ""
+active = ""
+imageCarousel = ""
+text = ""
+title = ""
+[[carousel]]
+Class = ""
+active = ""
+imageCarousel = ""
+text = ""
+title = ""
+[[carousel]]
 Class = "first-slide"
 active = "active"
 imageCarousel = "/images/photos/20180420_121256-EFFECTS_squash.jpg"
