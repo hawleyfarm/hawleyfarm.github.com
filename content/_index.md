@@ -1,26 +1,14 @@
 +++
 date = 2019-01-31T05:45:39Z
-showTitle = false
+showTitle = "false"
 tags = []
 title = "Home"
-[[carousel]]
-Class = ""
-active = ""
-imageCarousel = ""
-text = ""
-title = ""
-[[carousel]]
-Class = ""
-active = ""
-imageCarousel = ""
-text = ""
-title = ""
 [[carousel]]
 Class = "first-slide"
 active = "active"
 imageCarousel = "/images/photos/20180420_121256-EFFECTS_squash.jpg"
-text = "Nestled in the beautiful English countryside near Dalwood village, our unique barn conversions are the perfect choice if you´re looking for a relaxing holiday for family, friends, in quiet and peaceful East Devon. Farm holiday cottages, near Axminster."
-title = "Hawley Farm Holiday Cottages. "
+text = "Nestled in the beautiful English countryside near Dalwood village, our unique barn conversions are the perfect choice if you´re looking for a relaxing holiday for family, friends, in quiet and peaceful East Devon. Farm holiday cottages.  Hotel near Axminster."
+title = "Hawley Farm Holiday Accommodation. "
 [[carousel]]
 Class = "second-slide"
 imageCarousel = "/images/photos/100_2352.JPG"
@@ -41,12 +29,6 @@ Class = "fifth-slide"
 imageCarousel = "/images/photos/deer_in_garden.jpg"
 text = "If you have a questions that this website doesn't answer, then please contact us. We will email or call back with the answer as soon as we can. A great East Devon farm holiday is waiting for you, come and stay in the cottages."
 title = "Have a question? Please call or message, Tel no. 01404831250 / 07968155916"
-[[featurette]]
-alt = ""
-extraImage = ""
-image = ""
-text = "We are able to accommodate guests safely during the current pandemic. Please see the [Covid 19 page](info/covid-19/) from the top menu."
-title = "Covid 19"
 [[featurette]]
 alt = "Cows in a field"
 extraImage = "/images/badges/AA-Four-Stars.jpg"
