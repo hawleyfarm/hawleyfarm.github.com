@@ -1,6 +1,6 @@
 +++
 date = 2019-01-31T05:45:39Z
-showTitle = "false"
+showTitle = false
 tags = []
 title = "Home"
 [[carousel]]
