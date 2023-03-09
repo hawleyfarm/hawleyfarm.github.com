@@ -1,5 +1,6 @@
 +++
 date = 2019-01-31T10:24:54Z
+draft = true
 showBooking = "true"
 showTitle = "false"
 tags = []
@@ -7,8 +8,6 @@ title = "Availability and Booking"
 
 +++
 # Booking
-
-**For all bookings, if Government action concerning Covid 19 (LOCK DOWNS) results in you being prevented from travelling we will REFUND ALL monies paid.**
 
 Please see the booking form below, click on the BRIGHT GREEN BOX. The calendar below this is only a guide as to what is available.
 
