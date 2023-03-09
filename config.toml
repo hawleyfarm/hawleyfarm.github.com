@@ -8,14 +8,14 @@ parent = "Reviews/More information"
 url = "/info/whenandwhere"
 weight = 4
 [[menu.main]]
-name = "Stables"
-parent = "Accommodation"
-url = "/accommodation/stables"
-weight = 3
-[[menu.main]]
 name = "Contact Us"
 parent = "Reviews/More information"
 url = "/contact"
+weight = 3
+[[menu.main]]
+name = "Stables"
+parent = "Accommodation"
+url = "/accommodation/stables"
 weight = 3
 [[menu.main]]
 name = "Wagonhouse"
@@ -28,14 +28,14 @@ parent = "Reviews/More information"
 url = "/info/findus"
 weight = 2
 [[menu.main]]
-name = "Ciderpress"
-parent = "Accommodation"
-url = "/accommodation/ciderpress"
-weight = 1
-[[menu.main]]
 name = "Reviews"
 parent = "Reviews/More information"
 url = "/reviews/guestbook/"
+weight = 1
+[[menu.main]]
+name = "Ciderpress"
+parent = "Accommodation"
+url = "/accommodation/ciderpress"
 weight = 1
 [[menu.main]]
 name = "Blog"
