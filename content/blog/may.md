@@ -1,16 +1,19 @@
 +++
 date = ""
-tags = []
+tags = [ ]
 title = "May "
+_template = "blog_example"
+
 [menu.main]
 parent = "Blog"
 weight = 4
+
 [[gallery]]
 image = "/images/uploads/IMG_20190611_224001.jpg"
 thumb = "/images/uploads/IMG_20190611_224001TN.jpg"
 title = "Cut grass"
-
 +++
+
 #### May
 
 The leaves are out and the trees look glorious, bright and shiny It is a lovely time of year, the bluebells are everywhere with many others flowers, wild garlic, little violets. The weather has been very dry and a little cold, however a lot of sunshine.

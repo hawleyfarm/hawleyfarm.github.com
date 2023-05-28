@@ -1,14 +1,16 @@
 +++
 date = ""
-gallery = []
-tags = []
+gallery = [ ]
+tags = [ ]
 title = "Frequently Asked Questions"
+_template = "blog_example"
+
 [menu.main]
 name = "FAQs"
 parent = "Reviews/More information"
 weight = 9
-
 +++
+
 ## FAQs
 
 **1a. What is open now for us to take the children out. Here are a few,**

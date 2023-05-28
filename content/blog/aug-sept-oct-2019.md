@@ -1,16 +1,19 @@
 +++
 date = ""
-tags = []
+tags = [ ]
 title = "Aug-Oct "
+_template = "blog_example"
+
 [menu.main]
 parent = "Blog"
 weight = 7
+
 [[gallery]]
 image = "/images/uploads/IMG_thumb.jpeg"
 thumb = "/images/uploads/IMG_thumb.jpeg"
 title = "Calves feeding"
-
 +++
+
 #### August - October
 
 Honiton Show had a lovely day on the 1st August, the run of good weather continued.

@@ -1,20 +1,24 @@
 +++
 date = ""
-tags = []
+tags = [ ]
 title = "March "
+_template = "blog_example"
+
 [menu.main]
 parent = "Blog"
 weight = 2
+
 [[gallery]]
 image = ""
 thumb = ""
 title = "Primroses"
+
 [[gallery]]
 image = "/images/uploads/20170715_105535-1.jpg"
 thumb = "/images/uploads/20170715_105535_thumb-2.jpg"
 title = "Fossil from Lyme Regis"
-
 +++
+
 #### March
 
 March for us arrived like a lamb with light showers after the dry warm February, sometimes it was like summer. Holiday cottages in Dalwood close to Axminster.

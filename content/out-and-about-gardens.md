@@ -1,13 +1,15 @@
 +++
-date = 2019-04-14T23:00:00Z
-gallery = []
-tags = []
+date = 2019-04-14T23:00:00.000Z
+gallery = [ ]
+tags = [ ]
 title = "Gardens in East Devon"
+_template = "blog_example"
+
 [menu.main]
 parent = "Reviews/More information"
 weight = 8
-
 +++
+
 Gardens
 
 While on holiday here in East Devon in the Luxury Devon self catering cottages these gardens make a lovely day out any time of year.

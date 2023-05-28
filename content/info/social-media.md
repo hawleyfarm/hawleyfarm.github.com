@@ -1,10 +1,11 @@
 +++
-date = 2020-01-16T00:00:00Z
-gallery = []
-tags = []
+date = 2020-01-16T00:00:00.000Z
+gallery = [ ]
+tags = [ ]
 title = "SOCIAL MEDIA"
-
+_template = "blog_example"
 +++
+
 ## Facebook and all that...
 
 Hi,

@@ -1,16 +1,19 @@
 +++
 date = ""
-tags = []
+tags = [ ]
 title = "April "
+_template = "blog_example"
+
 [menu.main]
 parent = "Blog"
 weight = 3
+
 [[gallery]]
 image = "/images/uploads/IMG_20190611small.jpg"
 thumb = "/images/uploads/IMG_20190611smallTN.jpg"
 title = "Lambs"
-
 +++
+
 #### April
 
 The blackthorn continues to flower and so the cold weather remains, sunny in the day, but cold at night, with frosts, not much rain, so the spring flowers are still looking grand and lasting longer than normal.

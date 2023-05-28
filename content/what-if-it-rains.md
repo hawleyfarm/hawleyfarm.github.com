@@ -1,13 +1,15 @@
 +++
-date = 2019-04-15T23:00:00Z
-gallery = []
-tags = []
+date = 2019-04-15T23:00:00.000Z
+gallery = [ ]
+tags = [ ]
 title = "What if it rains?"
+_template = "blog_example"
+
 [menu.main]
 parent = "Reviews/More information"
 weight = 7
-
 +++
+
 Rainy days when on Holiday at Hawley farm self catering holiday cottages in East Devon.
 
 * Beer Caves have a very interesting tour of about 1hour ten miniutes in these large caves, it is very cold so go dressed up.

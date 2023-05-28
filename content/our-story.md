@@ -1,13 +1,15 @@
 +++
-date = 2019-04-15T23:00:00Z
-gallery = []
-tags = []
+date = 2019-04-15T23:00:00.000Z
+gallery = [ ]
+tags = [ ]
 title = "Our Story"
+_template = "blog_example"
+
 [menu.main]
 parent = "Reviews/More information"
 weight = 6
-
 +++
+
 Hawley Farm
 
 We arrived at Hawley Farm in 1984 and milked a herd of cows on the small farm, we had fun and games in bad weather when the milk tanker came to collect the milk and the cake lorry tried to deliver. The hill and the oak trees were not helping us getting large lorries in and out when the snow was on the ground, we could tell you some more stories when you arrive for your holiday!
