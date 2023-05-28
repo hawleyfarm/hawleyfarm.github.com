@@ -10,6 +10,7 @@ parent = "Reviews/More information"
 weight = 7
 +++
 
+
 Rainy days when on Holiday at Hawley farm self catering holiday cottages in East Devon.
 
 * Beer Caves have a very interesting tour of about 1hour ten miniutes in these large caves, it is very cold so go dressed up.

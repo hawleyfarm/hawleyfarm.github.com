@@ -15,6 +15,7 @@ thumb = "/images/uploads/IMG_20190815_072243_1thumb.jpg"
 title = "Mushrooms from the field"
 +++
 
+
 #### July
 
 July has gone on record as the hottest month so far; the sun shone and the rain stayed away, even when thunder and lightning were nearby.
