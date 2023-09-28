@@ -3,13 +3,11 @@ date = 2019-04-15T23:00:00.000Z
 gallery = [ ]
 tags = [ ]
 title = "Our Story"
-_template = "blog_example"
 
 [menu.main]
 parent = "Reviews/More information"
 weight = 6
 +++
-
 
 Hawley Farm
 
@@ -32,3 +30,7 @@ We opened when we were allowed in July 4th 2020 and many very grateful guests re
 We opened again 12th April 2021 and our lovely return guests came and the weather was great. The vaccination campaign had started that changed the whole picture. With more growing confidence things had opened up.
 
 In May and June 2021, we had two wonderful grandchildren, both boys born to two of our sons families, with in three weeks of each other. This was the best news we could of hoped for after all the gloom!
+
+The grandchildren grow and are great. Many happy hours for us with them.
+
+We continue to provide holidays for lovely guests, but some folk ask, "have you an airbnb" as this term has become popular in the last few years. You can call it that or holiday home, let or cottage. In whatever term please book direct from out website. Thank you. 
