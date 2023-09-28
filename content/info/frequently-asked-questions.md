@@ -1,16 +1,14 @@
 +++
-date = ""
+date = 2023-09-27T23:00:00.000Z
 gallery = [ ]
 tags = [ ]
 title = "Frequently Asked Questions"
-_template = "blog_example"
 
 [menu.main]
 name = "FAQs"
 parent = "Reviews/More information"
 weight = 9
 +++
-
 
 ## FAQs
 
@@ -97,3 +95,9 @@ We have Ordnance Survey (OS) maps. There is a map of the local walks around the 
 #### 11. What should we bring?
 
 Beach towels, Picnic rug, Walking boots / Wellington boots, Water bottle, Sun hat, Sun glasses, Sun cream, Reading book, Rain coat, Camera, Food and drink, Special coffee / foods etc you require for you or your party.
+
+#### 12. Is this an airbnb?
+
+The word that many might say, but really we are all holiday providers. We are farmstay/airbnb/stay/cottage or just self catering what ever you would like to say, we are just looking forward to your visit. Please contact us if you need more info, ring, email message we will be pleased to hear from you.
+
+And please book direct for this website. Thank you. 
