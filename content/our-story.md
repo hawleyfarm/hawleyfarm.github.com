@@ -33,4 +33,4 @@ In May and June 2021, we had two wonderful grandchildren, both boys born to two 
 
 The grandchildren grow and are great. Many happy hours for us with them.
 
-We continue to provide holidays for lovely guests, but some folk ask, "have you an airbnb" as this term has become popular in the last few years. You can call it that or holiday home, let or cottage. In whatever term please book direct from out website. Thank you. 
+We continue to provide holidays for lovely guests, but some folk ask, "have you an airbnb" as this term has become popular in the last few years. You can call it that or a holiday home/ let / cottage / farmstay.  Whatever the term please book direct from out website. Thank you.
