@@ -52,4 +52,4 @@ title = "Dartmoor National Park"
 
 ## Where
 
-### Devon is said to be one of the most beautiful counties in the United Kingdom with history, culture and stunning views intertwined. The Jurassic Coast has a great story to tell and the rolling Blackdown Hills are the perfect place to enjoy a picnic in the warm summer months. Whether you enjoy cycling, walking, surfing or just fancy a pint in the local pub, there are plenty of treasures waiting on Hawley Farm's doorstep. You can bring your dog as well. Looking for a place to stay/airbnb, please book direct with us here!
+### Devon is said to be one of the most beautiful counties in the United Kingdom with history, culture and stunning views intertwined. The Jurassic Coast has a great story to tell and the rolling Blackdown Hills are the perfect place to enjoy a picnic in the warm summer months. Whether you enjoy cycling, walking, surfing or just fancy a pint in the local pub, there are plenty of treasures waiting on Hawley Farm's doorstep. You can bring your dog as well. Looking for a place to stay/airbnb/farmstay/holiday, please book direct with us here!
