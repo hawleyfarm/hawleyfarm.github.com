@@ -1,8 +1,8 @@
 +++
-date = 2023-09-27T23:00:00.000Z
-gallery = [ ]
-tags = [ ]
 title = "Frequently Asked Questions"
+date = 2023-09-27T23:00:00.000Z
+tags = [ ]
+gallery = [ ]
 
 [menu.main]
 name = "FAQs"
@@ -16,21 +16,21 @@ weight = 9
 
 Axe valley wildlife, [https://www.axevalleypark.co.uk/](https://www.axevalleypark.co.uk/ "https://www.axevalleypark.co.uk/")
 
-Beer Quarry Caves http://www.beerquarrycaves.co.uk/
+Beer Quarry Caves [http://www.beerquarrycaves.co.uk/](http://www.beerquarrycaves.co.uk/)
 
-Pecorama trains and garden http://www.pecorama.co.uk
+Pecorama trains and garden [http://www.pecorama.co.uk](http://www.pecorama.co.uk)
 
-Stuart line Cruises, https://www.stuartlinecruises.co.uk
+Stuart line Cruises, [https://www.stuartlinecruises.co.uk](https://www.stuartlinecruises.co.uk)
 
-Diggerland  https://www.diggerland.com
+Diggerland  [https://www.diggerland.com](https://www.diggerland.com)
 
-Seaton Tram https://www.tram.co.uk
+Seaton Tram [https://www.tram.co.uk](https://www.tram.co.uk)
 
-Crealy themepark  https://www.crealy.co.uk
+Crealy themepark  [https://www.crealy.co.uk](https://www.crealy.co.uk)
 
 World of country life   [https://www.worldofcountrylife.co.uk/](https://www.worldofcountrylife.co.uk/ "https://www.worldofcountrylife.co.uk/")
 
-Bicton park    https://www.bictongardens.co.uk
+Bicton park    [https://www.bictongardens.co.uk](https://www.bictongardens.co.uk)
 
 Abbotbury Swannery    [http://abbotsbury-tourism.co.uk/swannery/](http://abbotsbury-tourism.co.uk/swannery/ "http://abbotsbury-tourism.co.uk/swannery/")
 
@@ -96,8 +96,8 @@ We have Ordnance Survey (OS) maps. There is a map of the local walks around the 
 
 Beach towels, Picnic rug, Walking boots / Wellington boots, Water bottle, Sun hat, Sun glasses, Sun cream, Reading book, Rain coat, Camera, Food and drink, Special coffee / foods etc you require for you or your party.
 
-#### 12. Is this an airbnb?
+#### 12. If you need more information.
 
-The word that many might say, but really we are all holiday providers. We are farmstay/airbnb/stay/cottage or just self catering what ever you would like to say, we are just looking forward to your visit. Please contact us if you need more info, ring, email message we will be pleased to hear from you.
+ Please contact us if you need more info, ring, 07968155916   or  01404831250  email, info\@hawleyfarm.co.uk   we will be pleased to hear from you.
 
-And please book direct for this website. Thank you. 
+And please book direct for this website. Thank you.
