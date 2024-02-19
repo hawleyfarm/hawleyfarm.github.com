@@ -34,8 +34,6 @@ Bicton park    [https://www.bictongardens.co.uk](https://www.bictongardens.co.uk
 
 Abbotbury Swannery    [http://abbotsbury-tourism.co.uk/swannery/](http://abbotsbury-tourism.co.uk/swannery/ "http://abbotsbury-tourism.co.uk/swannery/")
 
-Honiton Dairy Ice cream shop. High street Honiton
-
 The Community Waffle House Axminster
 
 #### 1. Do you provide towels?
