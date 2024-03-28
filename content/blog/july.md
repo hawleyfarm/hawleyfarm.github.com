@@ -5,7 +5,7 @@ title = "July "
 _template = "blog_example"
 
 [menu.main]
-name = "July  2019"
+name = "July"
 parent = "Blog"
 weight = 6
 
