@@ -9,4 +9,4 @@ tags = [ ]
 
 Please contact us if you have any queries. Also, please let us know how you found your stay with us so that we can continually improve our service.
 
-You can telephone us on 01404831250 or 07968155916. Also, you can email us at: hawleyholiday\@gmail.com or simply fill out the form [here](https://spreadsheets.google.com/embeddedform?formkey=dDA2RUN6RndNOXNKd1J6UVZHUGxuRlE6MQ)
+You can telephone us on 01404831250 or 07968155916. Also, please email info\@hawleyfarm.co.uk or simply fill out the form [here](https://spreadsheets.google.com/embeddedform?formkey=dDA2RUN6RndNOXNKd1J6UVZHUGxuRlE6MQ)
