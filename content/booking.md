@@ -8,7 +8,7 @@ tags = [ ]
 
 # Booking
 
-Please see the booking form below, click on the BRIGHT GREEN BOX. The calendar below this is only a guide as to what is available.
+Please see the booking form below, click on the BRIGHT GREEN BOX. This takes you to the booking page. The calendar below this is only a guide as to what is available.
 
 The booking form is restricted to start your booking on a SATURDAY for CIDER PRESS, WAGON HOUSE and The STABLES for high season.
 
