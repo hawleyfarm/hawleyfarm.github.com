@@ -10,7 +10,7 @@ tags = [ ]
 
 Please see the booking form below, click on the BRIGHT GREEN BOX. This takes you to the booking page. The calendar below this is only a guide as to what is available.
 
-The booking form is restricted to start your booking on a SATURDAY for CIDER PRESS, WAGON HOUSE and The STABLES for high season.
+The booking form is mostly restricted to start your booking on a SATURDAY for CIDER PRESS, WAGON HOUSE and The STABLES. 
 
 We are happy to relax this restriction this year 2024, therefore if you would prefer a different period, please email me at [info@hawleyfarm.co.uk](https://www.hawleyfarm.co.uk/booking/ "email")   You can always ring, anytime. 07968155916 / 01404831250
 
